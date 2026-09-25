@@ -1,0 +1,397 @@
+{
+ "deck": "Ficher::Démarrage",
+ "tags": [
+  "ficher",
+  "demo"
+ ],
+ "cartes": [
+  {
+   "modele": "basique",
+   "type": "B",
+   "ancre": "Budget militaire chinois — 2025",
+   "question": "Combien la <span class=\"hl act\">Chine 🇨🇳</span> a-t-elle consacré à sa défense en <span class=\"hl date\">2025</span>, selon le SIPRI ?",
+   "estimation": {
+    "valeur": 336,
+    "min": 20,
+    "max": 2000,
+    "unite": "Md$",
+    "echelle": "log",
+    "tolerance": 15
+   },
+   "reponse": "Environ <span class=\"hl eco\">336 Md$</span> : le <span class=\"hl act\">2e budget militaire mondial</span>, en hausse de 7,4 % sur un an.",
+   "puces": [
+    "<li class=\"act\"><b>États-Unis 🇺🇸</b> → 954 Md$ (−7,5 %), près de trois fois la Chine</li>",
+    "<li class=\"risk\"><b>2 887 Md$</b> → dépense mondiale 2025, 11e hausse consécutive</li>"
+   ],
+   "source_url": "https://www.sipri.org/media/press-release/2026/global-military-spending-rise-continues-european-and-asian-expenditures-surge",
+   "source_titre": "SIPRI — Trends in World Military Expenditure, 2025 (27 avril 2026)",
+   "tags": [
+    "type::B",
+    "region::Asie",
+    "acteur::Chine",
+    "theme::defense",
+    "estimation"
+   ]
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Détroit d'Ormuz — flux pétroliers 2024",
+   "question": "Quelle part de la consommation mondiale de pétrole a transité par le <span class=\"hl res\">détroit d'Ormuz</span> en <span class=\"hl date\">2024</span> ?",
+   "estimation": {
+    "valeur": 20,
+    "min": 0,
+    "max": 60,
+    "unite": "%",
+    "tolerance": 15
+   },
+   "reponse": "Environ <span class=\"hl res\">20 %</span> des liquides pétroliers consommés dans le monde, soit <span class=\"hl eco\">20 millions de barils par jour</span>.",
+   "puces": [
+    "<li class=\"eco\"><b>Commerce maritime</b> → plus d'un quart du pétrole échangé par mer</li>",
+    "<li class=\"act\"><b>Arabie saoudite 🇸🇦</b> → 38 % des flux de brut et condensats</li>"
+   ],
+   "source_url": "https://eia.gov/todayinenergy/detail.php?id=65504",
+   "source_titre": "EIA — Amid regional conflict, the Strait of Hormuz remains critical oil chokepoint (16 juin 2025)",
+   "tags": [
+    "type::C",
+    "region::Moyen-Orient",
+    "theme::energie",
+    "estimation"
+   ]
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "AUKUS",
+   "question": "Que recouvre ce sigle, et quel est le cœur de ce partenariat ?",
+   "reponse": "Un partenariat de sécurité <span class=\"hl inst\">trilatéral</span>, centré sur l'accès de l'Australie à des <span class=\"hl instr\">sous-marins à propulsion nucléaire</span>.",
+   "decomposition": {
+    "terme": "AUKUS",
+    "parties": [
+     [
+      "A",
+      "Australia",
+      "act"
+     ],
+     [
+      "UK",
+      "United Kingdom",
+      "pol"
+     ],
+     [
+      "US",
+      "United States",
+      "instr"
+     ]
+    ],
+    "note": "Australie · Royaume-Uni · États-Unis"
+   },
+   "puces": [
+    "<li class=\"enj\"><b>Indo-Pacifique</b> → contrepoids à la puissance navale chinoise 🇨🇳</li>",
+    "<li class=\"risk\"><b>Crise des sous-marins</b> → l'Australie rompt son contrat avec la France 🇫🇷</li>"
+   ],
+   "piege": "AUKUS ≠ Quad : AUKUS = pacte militaire à 3 (avec le Royaume-Uni) ; Quad = dialogue à 4 (avec l'Inde et le Japon).",
+   "source_url": "https://www.pm.gov.au/media/joint-leaders-statement-aukus",
+   "source_titre": "Joint Leaders Statement on AUKUS — Prime Minister of Australia (15 sept. 2021)",
+   "tags": [
+    "type::C",
+    "region::Indo-Pacifique",
+    "acteur::Australie",
+    "theme::alliances",
+    "decomposition"
+   ],
+   "date": "15 septembre 2021"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Realpolitik",
+   "question": "D'où vient ce mot, et quelle conduite de la politique étrangère désigne-t-il ?",
+   "reponse": "Une politique guidée par les <span class=\"hl enj\">rapports de force réels</span> plutôt que par les <span class=\"hl conc\">idéaux</span>.",
+   "decomposition": {
+    "terme": "Realpolitik",
+    "parties": [
+     {
+      "lettres": "Real",
+      "sens": "réel, concret",
+      "langue": "all.",
+      "cat": "conc"
+     },
+     {
+      "lettres": "politik",
+      "sens": "politique",
+      "langue": "all.",
+      "cat": "pol"
+     }
+    ],
+    "note": "Grundsätze der Realpolitik"
+   },
+   "puces": [
+    "<li class=\"act\"><b>Bismarck 🇩🇪</b> → unité allemande sans humilier l'Autriche vaincue</li>",
+    "<li class=\"act\"><b>Kissinger 🇺🇸</b> → rapprochement avec la Chine communiste</li>"
+   ],
+   "saisie": "(Ludwig) (von) Rochau",
+   "saisie_consigne": "Qui a forgé le terme « Realpolitik » ? (nom de famille)",
+   "source_url": "https://en.wikipedia.org/wiki/Realpolitik",
+   "source_titre": "Realpolitik — Wikipédia (en)",
+   "tags": [
+    "type::C",
+    "region::Europe",
+    "theme::puissance",
+    "auteur::Rochau",
+    "decomposition"
+   ],
+   "portraits": [
+    {
+     "wiki": "Otto von Bismarck",
+     "nom": "Bismarck",
+     "legende": "Chancelier (1871-1890)"
+    },
+    {
+     "wiki": "Henry Kissinger",
+     "nom": "Henry Kissinger",
+     "legende": "Secrétaire d'État (1973-1977)",
+     "carte": "Secrétaire d'État de Nixon, artisan du rapprochement avec Pékin"
+    }
+   ],
+   "date": "1853",
+   "auteurs": "Ludwig von Rochau"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Courbe de Kuznets",
+   "question": "Quelle relation entre développement et inégalités cette courbe décrit-elle, et que lui objecte-t-on ?",
+   "reponse": "Un <span class=\"hl conc\">U inversé</span> : les inégalités <span class=\"hl eco\">augmentent</span> au début de l'industrialisation, puis <span class=\"hl eco\">diminuent</span> quand l'économie mûrit.",
+   "puces": [
+    "<li class=\"soc\"><b>Exode rural</b> → creuse les écarts au début de l'industrialisation</li>",
+    "<li class=\"act\"><b>Piketty</b> → quand r &gt; g, le capital se concentre : la courbe ne se vérifie plus</li>",
+    "<li class=\"env\"><b>Version environnementale</b> → vérifiée pour le SO2 et le plomb, pas pour le CO2</li>"
+   ],
+   "images": [
+    {
+     "commons": "Kuznets curve-en.svg",
+     "legende": "Revenu par habitant (abscisse) et inégalités (ordonnée)"
+    }
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Kuznets_curve",
+   "source_titre": "Kuznets curve — Wikipédia (en)",
+   "tags": [
+    "type::C",
+    "region::Monde",
+    "theme::puissance",
+    "auteur::Kuznets"
+   ]
+  },
+  {
+   "modele": "basique",
+   "type": "A",
+   "ancre": "Le Grand Échiquier",
+   "titre": "The Grand Chessboard",
+   "question": "Quelle thèse l'auteur défend-il sur l'Eurasie et la primauté américaine ?",
+   "reponse": "La <span class=\"hl enj\">primauté américaine</span> dépend de la capacité des États-Unis à empêcher qu'une puissance ou une coalition domine l'<span class=\"hl res\">Eurasie</span>.",
+   "puces": [
+    "<li class=\"pol\"><b>Pivots</b> → Ukraine, Azerbaïdjan, Corée du Sud, Turquie, Iran</li>",
+    "<li class=\"risk\"><b>Ukraine 🇺🇦</b> → « sans l'Ukraine, la Russie cesse d'être un empire eurasien »</li>",
+    "<li class=\"act\"><b>Pire scénario</b> → une coalition « antihégémonique » Chine–Russie–(Iran)</li>"
+   ],
+   "saisie": "(Zbigniew) Brzezinski;(Zbigniew) Brzeziński",
+   "saisie_consigne": "Auteur du « Grand Échiquier » (1997) ? (nom de famille)",
+   "source_url": "https://flavioufabc.wordpress.com/wp-content/uploads/2018/10/brzezinski-the-grand_chessboard-30-56.pdf",
+   "source_titre": "Z. Brzezinski, The Grand Chessboard, ch. 2 « The Eurasian Chessboard » (1997)",
+   "tags": [
+    "type::A",
+    "region::Monde",
+    "acteur::Etats-Unis",
+    "auteur::Brzezinski",
+    "theme::puissance"
+   ],
+   "portraits": [
+    {
+     "wiki": "Zbigniew Brzeziński",
+     "legende": "Conseiller à la sécurité nationale (1977-1981)",
+     "carte": "Conseiller à la sécurité nationale de Jimmy Carter, auteur du « Grand Échiquier »"
+    }
+   ],
+   "date": "1997",
+   "auteurs": "Zbigniew Brzeziński",
+   "prononcer": [
+    {
+     "texte": "Zbigniew Brzeziński",
+     "langue": "pl"
+    }
+   ]
+  },
+  {
+   "modele": "basique",
+   "type": "B",
+   "ancre": "Rapprochement sino-américain",
+   "question": "Quel levier <span class=\"hl act\">Henry Kissinger 🇺🇸</span> cherche-t-il en ouvrant le dialogue avec <span class=\"hl act\">Pékin 🇨🇳</span> ?",
+   "date": "1971 (voyage secret) · 21-28 février 1972 (Nixon à Pékin)",
+   "reponse": "Un <span class=\"hl instr\">levier contre l'URSS</span> : exploiter la <span class=\"hl risk\">tension sino-soviétique</span> pour peser sur Moscou.",
+   "puces": [
+    "<li class=\"pol\"><b>Communiqué de Shanghai</b> → fin février 1972, pose la question de Taïwan</li>",
+    "<li class=\"inst\"><b>1979</b> → relations diplomatiques officielles</li>"
+   ],
+   "portraits": [
+    {
+     "wiki": "Henry Kissinger",
+     "nom": "Henry Kissinger"
+    }
+   ],
+   "source_url": "https://history.state.gov/milestones/1969-1976/rapprochement-china",
+   "source_titre": "Rapprochement with China, 1972 — Office of the Historian (Département d'État)",
+   "tags": [
+    "type::B",
+    "region::Asie",
+    "acteur::Chine",
+    "acteur::Etats-Unis",
+    "theme::puissance"
+   ]
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Détroit de Bab-el-Mandeb",
+   "question": "Que signifie ce nom, et quelles eaux ce détroit relie-t-il ?",
+   "reponse": "« La <span class=\"hl res\">porte des lamentations</span> » : un détroit d'environ 26 km qui relie la <span class=\"hl res\">mer Rouge</span> au golfe d'Aden.",
+   "decomposition": {
+    "terme": "Bab-el-Mandeb",
+    "parties": [
+     {
+      "lettres": "Bab",
+      "sens": "porte",
+      "langue": "ar.",
+      "cat": "res"
+     },
+     {
+      "lettres": "el",
+      "sens": "de la",
+      "langue": "ar.",
+      "cat": "date"
+     },
+     {
+      "lettres": "Mandeb",
+      "sens": "lamentation",
+      "langue": "ar.",
+      "cat": "risk"
+     }
+    ],
+    "note": "allusion aux dangers de la navigation"
+   },
+   "puces": [
+    "<li class=\"act\"><b>Rives</b> → Yémen 🇾🇪 d'un côté, Djibouti 🇩🇯 et Érythrée 🇪🇷 de l'autre</li>",
+    "<li class=\"res\"><b>Indo-Pacifique</b> → ouvre la route mer Rouge – océan Indien</li>"
+   ],
+   "saisie": "Bab-el-Mandeb;Bab el-Mandeb;Bab el Mandeb;Bab al-Mandab",
+   "saisie_consigne": "Nom du détroit entre le Yémen et Djibouti ? (graphie française usuelle)",
+   "source_url": "https://en.wikipedia.org/wiki/Bab-el-Mandeb",
+   "source_titre": "Bab-el-Mandeb — Wikipédia (en)",
+   "tags": [
+    "type::C",
+    "region::Moyen-Orient",
+    "theme::commerce",
+    "decomposition"
+   ]
+  },
+  {
+   "modele": "trous",
+   "ancre": "Quad — membres",
+   "texte": "Le Quad réunit {{c1::les États-Unis}}, {{c1::le Japon}}, {{c1::l'Inde}} et {{c1::l'Australie}}.",
+   "extra": "Né de la coopération après le tsunami de 2004 ; premier sommet des dirigeants en 2021. À ne pas confondre avec AUKUS.",
+   "source_url": "https://www.dfat.gov.au/international-relations/regional-architecture/quad",
+   "source_titre": "The Quad — Department of Foreign Affairs and Trade (Australie)",
+   "tags": [
+    "type::trous",
+    "region::Indo-Pacifique",
+    "theme::alliances"
+   ]
+  },
+  {
+   "modele": "citation",
+   "auteur": "Zbigniew Brzeziński 🇺🇸",
+   "contexte": "Le Grand Échiquier (1997), chapitre 2 — traduit de l'anglais",
+   "citation": "Sans {{c1::l'Ukraine}}, la Russie cesse d'être {{c1::un empire eurasien}}.",
+   "portrait": {
+    "wiki": "Zbigniew Brzeziński"
+   },
+   "prononcer": [
+    {
+     "texte": "Zbigniew Brzeziński",
+     "langue": "pl"
+    }
+   ],
+   "extra": "Original : « Without Ukraine, Russia ceases to be a Eurasian empire. »",
+   "source_url": "https://flavioufabc.wordpress.com/wp-content/uploads/2018/10/brzezinski-the-grand_chessboard-30-56.pdf",
+   "source_titre": "Z. Brzezinski, The Grand Chessboard, ch. 2 (1997)",
+   "tags": [
+    "type::citation",
+    "auteur::Brzezinski",
+    "region::Europe"
+   ]
+  },
+  {
+   "modele": "mindmap",
+   "question": "Quelles sont les trois dimensions du rapprochement sino-américain de 1971-1972 ?",
+   "mindmap": "# Rapprochement sino-américain\n## 👤 Acteurs\n- Henry Kissinger (négociateur)\n- Richard Nixon (président)\n- Zhou Enlai (Premier ministre)\n## 🟡 Enjeux\n- Levier contre l'URSS\n- Tension sino-soviétique\n## 📅 Étapes\n- Voyage secret de Kissinger (1971)\n- Nixon à Pékin (21-28 févr. 1972)\n- Communiqué de Shanghai (fév. 1972)\n- Relations officielles (1979)",
+   "reponse": "Un <span class=\"hl instr\">jeu triangulaire</span> : Washington exploite la <span class=\"hl risk\">rupture sino-soviétique</span> pour peser sur Moscou.",
+   "images_noeuds": [
+    {
+     "cle": "Kissinger",
+     "wiki": "Henry Kissinger"
+    },
+    {
+     "cle": "Nixon",
+     "wiki": "Richard Nixon"
+    },
+    {
+     "cle": "Zhou Enlai",
+     "wiki": "Zhou Enlai"
+    }
+   ],
+   "images_branches": [
+    {
+     "branche": "Étapes",
+     "commons": "President Richard Nixon and Mao Zedong.jpg"
+    },
+    {
+     "branche": "Enjeux",
+     "visuel": {
+      "type": "chaine",
+      "noeuds": [
+       {
+        "label": "Rupture sino-soviétique",
+        "cat": "risk"
+       },
+       {
+        "label": "Ouverture vers Pékin",
+        "cat": "pol"
+       },
+       {
+        "label": "Levier sur Moscou"
+       }
+      ],
+      "liens": [
+       {
+        "verbe": "permet",
+        "cat": "pol"
+       },
+       {
+        "verbe": "donne",
+        "cat": "instr"
+       }
+      ]
+     }
+    }
+   ],
+   "source_url": "https://history.state.gov/milestones/1969-1976/rapprochement-china",
+   "source_titre": "Rapprochement with China, 1972 — Office of the Historian",
+   "tags": [
+    "type::mindmap",
+    "region::Asie",
+    "acteur::Chine",
+    "acteur::Etats-Unis"
+   ]
+  }
+ ]
+}

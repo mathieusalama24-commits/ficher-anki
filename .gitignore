@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+apercu/
+.DS_Store
+notes.json

@@ -1,0 +1,1437 @@
+{
+ "deck": "Ficher::Vitrine",
+ "tags": [
+  "ficher",
+  "vitrine"
+ ],
+ "cartes": [
+  {
+   "modele": "basique",
+   "type": "C",
+   "icone": "🗺️",
+   "ancre": "Détroit d'Ormuz — localisation",
+   "question": "Quel est le détroit ① et quelles eaux relie-t-il ?",
+   "visuel_recto": {
+    "type": "carte",
+    "fond": "ormuz",
+    "muette": true,
+    "points": [
+     {
+      "lon": 56.4,
+      "lat": 26.55,
+      "label": "Détroit d'Ormuz",
+      "cat": "res"
+     }
+    ]
+   },
+   "reponse": "Le <span class=\"hl res\">détroit d'Ormuz</span> : il relie le <span class=\"hl enj\">golfe Persique</span> au golfe d'Oman, puis à l'océan Indien.",
+   "puces": [
+    "<li class=\"act\"><b>Rives</b> → Iran 🇮🇷 au nord, Oman 🇴🇲 (péninsule de Musandam) au sud</li>",
+    "<li class=\"risk\"><b>Goulet d'étranglement</b> → passage obligé des exportations pétrolières du Golfe</li>"
+   ],
+   "saisie": "(détroit d')Ormuz;(détroit d')Hormuz",
+   "saisie_consigne": "Nom du détroit ① ?",
+   "source_url": "https://fr.wikipedia.org/wiki/D%C3%A9troit_d%27Ormuz",
+   "source_titre": "Détroit d'Ormuz — Wikipédia",
+   "tags": [
+    "type::C",
+    "theme::energie",
+    "vitrine::carte"
+   ]
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "icone": "🧭",
+   "ancre": "Route mer Rouge — Suez",
+   "question": "Quels deux verrous commandent la route maritime Europe–Asie par la mer Rouge ?",
+   "reponse": "Au nord le <span class=\"hl res\">canal de Suez</span>, au sud le <span class=\"hl res\">détroit de Bab-el-Mandeb</span> : bloquer l'un force le détour par le <span class=\"hl risk\">cap de Bonne-Espérance</span>.",
+   "visuel": {
+    "type": "carte",
+    "fond": "mer_rouge",
+    "points": [
+     {
+      "lon": 32.35,
+      "lat": 30.4,
+      "label": "Canal de Suez",
+      "cat": "res"
+     },
+     {
+      "lon": 43.35,
+      "lat": 12.6,
+      "label": "Bab-el-Mandeb",
+      "cat": "risk"
+     }
+    ],
+    "fleches": [
+     {
+      "trajet": [
+       [
+        32.6,
+        29.6
+       ],
+       [
+        33.9,
+        27.6
+       ],
+       [
+        35.6,
+        25.0
+       ],
+       [
+        37.3,
+        22.0
+       ],
+       [
+        38.9,
+        19.0
+       ],
+       [
+        40.6,
+        16.0
+       ],
+       [
+        42.1,
+        14.0
+       ],
+       [
+        43.3,
+        12.8
+       ]
+      ],
+      "cat": "instr",
+      "label": "Route Europe–Asie"
+     }
+    ]
+   },
+   "puces": [
+    "<li class=\"pol\"><b>Suez</b> → ouvert en 1869, nationalisé par Nasser en 1956</li>",
+    "<li class=\"act\"><b>Bab-el-Mandeb</b> → entre le Yémen 🇾🇪 et Djibouti 🇩🇯</li>"
+   ],
+   "lien": "Détroit d'Ormuz · Malacca · goulets d'étranglement",
+   "source_url": "https://fr.wikipedia.org/wiki/Canal_de_Suez",
+   "source_titre": "Canal de Suez — Wikipédia",
+   "tags": [
+    "type::C",
+    "theme::commerce",
+    "vitrine::carte"
+   ]
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "icone": "🔁",
+   "ancre": "Dilemme de sécurité",
+   "question": "Comment deux États qui ne veulent que se protéger peuvent-ils entrer dans une course aux armements ?",
+   "reponse": "Parce que les armes <span class=\"hl instr\">défensives</span> de l'un paraissent <span class=\"hl risk\">offensives</span> à l'autre : chaque précaution nourrit la <span class=\"hl conc\">méfiance</span> réciproque.",
+   "visuel": {
+    "type": "boucle",
+    "centre": "Dilemme de sécurité",
+    "noeuds": [
+     {
+      "label": "A renforce sa défense",
+      "cat": "instr"
+     },
+     {
+      "label": "B se sent menacé",
+      "cat": "risk"
+     },
+     {
+      "label": "B s'arme à son tour",
+      "cat": "instr"
+     },
+     {
+      "label": "A se sent menacé",
+      "cat": "risk"
+     }
+    ],
+    "liens": [
+     {
+      "verbe": "inquiète",
+      "cat": "risk"
+     },
+     {
+      "verbe": "pousse",
+      "cat": "instr"
+     },
+     {
+      "verbe": "inquiète",
+      "cat": "risk"
+     },
+     {
+      "verbe": "relance",
+      "cat": "instr"
+     }
+    ]
+   },
+   "puces": [
+    "<li class=\"act\"><b>John Herz</b> → formule le concept en 1950</li>",
+    "<li class=\"conc\"><b>Anarchie</b> → aucune autorité au-dessus des États pour garantir leur sécurité</li>"
+   ],
+   "piege": "Dilemme de sécurité ≠ agression : personne ne cherche la guerre, c'est l'incertitude qui l'alimente.",
+   "saisie": "(John) Herz",
+   "saisie_consigne": "Qui a formulé le concept en 1950 ? (nom de famille)",
+   "source_url": "https://en.wikipedia.org/wiki/Security_dilemma",
+   "source_titre": "Security dilemma — Wikipédia (en)",
+   "tags": [
+    "type::C",
+    "theme::puissance",
+    "vitrine::boucle"
+   ]
+  },
+  {
+   "modele": "basique",
+   "type": "B",
+   "icone": "⚔️",
+   "ancre": "Alliances de 1914",
+   "question": "Quels blocs d'alliances s'opposent en Europe à la veille de 1914 ?",
+   "reponse": "La <span class=\"hl pol\">Triple-Alliance</span> (Allemagne, Autriche-Hongrie, Italie) face à la <span class=\"hl act\">Triple-Entente</span> (France, Russie, Royaume-Uni).",
+   "visuel": {
+    "type": "reseau",
+    "acteurs": [
+     {
+      "id": "de",
+      "label": "🇩🇪 Allemagne",
+      "cat": "pol"
+     },
+     {
+      "id": "at",
+      "label": "Autriche-Hongrie",
+      "cat": "pol"
+     },
+     {
+      "id": "it",
+      "label": "🇮🇹 Italie",
+      "cat": "pol"
+     },
+     {
+      "id": "fr",
+      "label": "🇫🇷 France",
+      "cat": "act"
+     },
+     {
+      "id": "ru",
+      "label": "Russie",
+      "cat": "act"
+     },
+     {
+      "id": "uk",
+      "label": "🇬🇧 Royaume-Uni",
+      "cat": "act"
+     }
+    ],
+    "liens": [
+     {
+      "de": "de",
+      "a": "at",
+      "type": "alliance"
+     },
+     {
+      "de": "de",
+      "a": "it",
+      "type": "alliance"
+     },
+     {
+      "de": "at",
+      "a": "it",
+      "type": "alliance"
+     },
+     {
+      "de": "fr",
+      "a": "ru",
+      "type": "alliance"
+     },
+     {
+      "de": "fr",
+      "a": "uk",
+      "type": "cooperation",
+      "label": "Entente cordiale"
+     },
+     {
+      "de": "ru",
+      "a": "uk",
+      "type": "cooperation"
+     },
+     {
+      "de": "de",
+      "a": "fr",
+      "type": "rivalite"
+     },
+     {
+      "de": "at",
+      "a": "ru",
+      "type": "rivalite"
+     }
+    ]
+   },
+   "puces": [
+    "<li class=\"pol\"><b>Triple-Alliance</b> → 1882, œuvre de Bismarck</li>",
+    "<li class=\"act\"><b>Triple-Entente</b> → 1907, après l'accord anglo-russe</li>",
+    "<li class=\"risk\"><b>Italie</b> → neutre en 1914, entre en guerre en 1915 aux côtés de l'Entente</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Triple-Entente",
+   "source_titre": "Triple-Entente — Wikipédia",
+   "tags": [
+    "type::B",
+    "theme::alliances",
+    "vitrine::reseau"
+   ]
+  },
+  {
+   "modele": "basique",
+   "type": "B",
+   "icone": "🛡️",
+   "ancre": "OTAN — élargissement nordique",
+   "question": "Qu'a changé l'invasion de l'Ukraine pour la place de la Finlande et de la Suède dans l'OTAN ?",
+   "reponse": "Les deux pays abandonnent leur <span class=\"hl pol\">non-alignement</span> et rejoignent l'<span class=\"hl inst\">OTAN</span>, qui passe de <span class=\"hl act\">30 à 32 membres</span>.",
+   "visuel": {
+    "type": "avant_apres",
+    "evenement": "Invasion de l'Ukraine (2022)",
+    "avant": {
+     "titre": "Début 2022",
+     "items": [
+      {
+       "id": "n",
+       "label": "Membres de l'OTAN",
+       "valeur": "30",
+       "cat": "inst"
+      },
+      {
+       "id": "fi",
+       "label": "🇫🇮 Finlande non alignée",
+       "cat": "pol"
+      },
+      {
+       "id": "se",
+       "label": "🇸🇪 Suède non alignée",
+       "cat": "pol"
+      }
+     ]
+    },
+    "apres": {
+     "titre": "Mars 2024",
+     "items": [
+      {
+       "id": "n",
+       "label": "Membres de l'OTAN",
+       "valeur": "32",
+       "cat": "inst"
+      },
+      {
+       "id": "fi",
+       "label": "🇫🇮 Finlande membre (2023)",
+       "cat": "act"
+      },
+      {
+       "id": "se",
+       "label": "🇸🇪 Suède membre (2024)",
+       "cat": "act"
+      }
+     ]
+    }
+   },
+   "puces": [
+    "<li class=\"act\"><b>Finlande</b> → membre le 4 avril 2023</li>",
+    "<li class=\"act\"><b>Suède</b> → membre le 7 mars 2024</li>"
+   ],
+   "source_url": "https://www.nato.int/cps/en/natohq/topics_52044.htm",
+   "source_titre": "NATO — Member countries",
+   "tags": [
+    "type::B",
+    "theme::alliances",
+    "vitrine::avant_apres"
+   ]
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "icone": "☢️",
+   "ancre": "Débat Waltz–Sagan",
+   "question": "La diffusion des armes nucléaires rend-elle le monde plus sûr ?",
+   "reponse": "Le débat reste ouvert : pour <span class=\"hl act\">Waltz</span>, la dissuasion <span class=\"hl conc\">stabilise</span> ; pour <span class=\"hl act\">Sagan</span>, les <span class=\"hl risk\">organisations</span> rendent l'accident probable.",
+   "visuel": {
+    "type": "balance",
+    "pivot": "Plus d'armes nucléaires = plus de sécurité ?",
+    "penche": "equilibre",
+    "gauche": {
+     "titre": "Oui — Waltz",
+     "cat": "conc",
+     "items": [
+      "La peur de la riposte rend la guerre irrationnelle",
+      "Pas de guerre directe entre puissances nucléaires depuis 1945"
+     ]
+    },
+    "droite": {
+     "titre": "Non — Sagan",
+     "cat": "risk",
+     "items": [
+      "Accidents et erreurs d'organisation",
+      "Militaires aux intérêts propres",
+      "Risque de vol ou de frappe préventive"
+     ]
+    }
+   },
+   "puces": [
+    "<li class=\"instr\"><b>Ouvrage</b> → The Spread of Nuclear Weapons: A Debate (1995)</li>"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/The_Spread_of_Nuclear_Weapons",
+   "source_titre": "The Spread of Nuclear Weapons: A Debate — Wikipédia (en)",
+   "tags": [
+    "type::C",
+    "theme::nucleaire",
+    "vitrine::balance"
+   ]
+  },
+  {
+   "modele": "basique",
+   "type": "B",
+   "icone": "🇺🇳",
+   "ancre": "Conseil de sécurité — membres permanents",
+   "question": "Quelle part des sièges du Conseil de sécurité est détenue par les membres permanents, et qu'est-ce qui les distingue ?",
+   "reponse": "<span class=\"hl inst\">5 sièges sur 15</span> sont permanents, et ces cinq membres ont un <span class=\"hl instr\">droit de veto</span> sur les questions de fond.",
+   "visuel": {
+    "type": "jauge",
+    "jauges": [
+     {
+      "pct": 33,
+      "label": "Membres permanents (5 sur 15)",
+      "cat": "instr"
+     }
+    ]
+   },
+   "puces": [
+    "<li class=\"act\"><b>Les cinq</b> → Chine, États-Unis, France, Royaume-Uni, Russie</li>",
+    "<li class=\"inst\"><b>Non permanents</b> → 10 membres élus pour deux ans par l'Assemblée générale</li>"
+   ],
+   "memo": "5 + 10 = 15 : les vainqueurs de 1945 + les élus.",
+   "source_url": "https://www.un.org/securitycouncil/fr/content/current-members",
+   "source_titre": "Nations unies — Membres du Conseil de sécurité",
+   "tags": [
+    "type::B",
+    "theme::institutions",
+    "vitrine::jauge"
+   ]
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "icone": "⚖️",
+   "ancre": "Conseil de sécurité vs Assemblée générale",
+   "question": "En quoi le Conseil de sécurité et l'Assemblée générale de l'ONU diffèrent-ils ?",
+   "reponse": "Le <span class=\"hl inst\">Conseil</span> peut prendre des décisions <span class=\"hl instr\">obligatoires</span> ; l'<span class=\"hl pol\">Assemblée</span> vote surtout des recommandations.",
+   "visuel": {
+    "type": "tableau",
+    "colonnes": [
+     "",
+     "Conseil de sécurité",
+     "Assemblée générale"
+    ],
+    "cats": [
+     null,
+     "inst",
+     "pol"
+    ],
+    "lignes": [
+     [
+      "Membres",
+      "15 (dont 5 permanents)",
+      "Tous les États membres"
+     ],
+     [
+      "Vote",
+      "9 voix, sans veto d'un permanent",
+      "1 État = 1 voix"
+     ],
+     [
+      "Portée",
+      "Décisions obligatoires (chapitre VII)",
+      "Recommandations"
+     ]
+    ]
+   },
+   "puces": [
+    "<li class=\"instr\"><b>Article 25</b> → les membres s'engagent à appliquer les décisions du Conseil</li>",
+    "<li class=\"pol\"><b>Résolution 377</b> → « Union pour le maintien de la paix » (1950) : l'Assemblée prend le relais si le Conseil est bloqué</li>"
+   ],
+   "source_url": "https://www.un.org/fr/about-us/un-charter/full-text",
+   "source_titre": "Charte des Nations unies — texte intégral",
+   "tags": [
+    "type::C",
+    "theme::institutions",
+    "vitrine::tableau"
+   ]
+  },
+  {
+   "modele": "basique",
+   "type": "B",
+   "icone": "🌐",
+   "ancre": "Nombre d'États membres de l'ONU",
+   "question": "Combien d'États sont membres de l'Organisation des Nations unies ?",
+   "estimation": {
+    "valeur": 193,
+    "min": 20,
+    "max": 400,
+    "unite": "États"
+   },
+   "reponse": "<span class=\"hl inst\">193 États</span> ; le dernier admis est le <span class=\"hl act\">Soudan du Sud</span>, en 2011.",
+   "puces": [
+    "<li class=\"date\"><b>1945</b> → 51 membres fondateurs</li>",
+    "<li class=\"pol\"><b>Observateurs</b> → le Saint-Siège et la Palestine, sans droit de vote</li>"
+   ],
+   "source_url": "https://www.un.org/fr/about-us/member-states",
+   "source_titre": "Nations unies — États membres",
+   "tags": [
+    "type::B",
+    "theme::institutions",
+    "vitrine::estimation"
+   ]
+  },
+  {
+   "modele": "basique",
+   "type": "B",
+   "icone": "👤",
+   "ancre": "Zhou Enlai",
+   "question": "Quel rôle <span class=\"hl act\">Zhou Enlai 🇨🇳</span> a-t-il joué dans la diplomatie de la Chine populaire ?",
+   "reponse": "<span class=\"hl pol\">Premier ministre</span> de la RPC de 1949 à sa mort, en 1976, il est le visage de sa <span class=\"hl instr\">diplomatie</span>.",
+   "puces": [
+    "<li class=\"act\"><b>Rapprochement</b> → reçoit Kissinger en secret en 1971, puis Nixon en 1972</li>",
+    "<li class=\"conc\"><b>Bandung (1955)</b> → promeut la coexistence pacifique avec les pays non alignés</li>"
+   ],
+   "portraits": [
+    {
+     "wiki": "Zhou Enlai",
+     "legende": "Premier ministre (1949-1976)",
+     "carte": "Premier ministre de la Chine populaire de 1949 à 1976"
+    }
+   ],
+   "prononcer": [
+    {
+     "texte": "周恩来",
+     "langue": "zh"
+    }
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Zhou_Enlai",
+   "source_titre": "Zhou Enlai — Wikipédia",
+   "tags": [
+    "type::B",
+    "acteur::Chine",
+    "vitrine::portrait"
+   ]
+  },
+  {
+   "modele": "basique",
+   "type": "B",
+   "icone": "📸",
+   "ancre": "Nixon et Mao — photo",
+   "question": "Quelle rencontre cette photo immortalise-t-elle, et pourquoi fait-elle date ?",
+   "images": [
+    {
+     "commons": "President Richard Nixon and Mao Zedong.jpg",
+     "legende": "Pékin, 21 février 1972",
+     "face": "recto"
+    }
+   ],
+   "reponse": "La poignée de main entre <span class=\"hl act\">Richard Nixon</span> et <span class=\"hl act\">Mao Zedong</span> : le premier président américain reçu en <span class=\"hl pol\">Chine populaire</span>.",
+   "puces": [
+    "<li class=\"instr\"><b>Levier</b> → les États-Unis exploitent la rupture sino-soviétique</li>",
+    "<li class=\"pol\"><b>Communiqué de Shanghai</b> → signé à la fin du voyage, il aborde la question de Taïwan</li>"
+   ],
+   "source_url": "https://history.state.gov/milestones/1969-1976/rapprochement-china",
+   "source_titre": "Rapprochement with China, 1972 — Office of the Historian",
+   "tags": [
+    "type::B",
+    "acteur::Chine",
+    "vitrine::image"
+   ]
+  },
+  {
+   "modele": "basique",
+   "type": "B",
+   "icone": "🕰️",
+   "ancre": "Guerre froide — jalons",
+   "question": "Quels grands jalons scandent la guerre froide, de la doctrine Truman à la fin de l'URSS ?",
+   "reponse": "De l'<span class=\"hl pol\">endiguement</span> (1947) à la <span class=\"hl risk\">crise de Cuba</span> (1962), puis à l'<span class=\"hl act\">effondrement du bloc de l'Est</span> (1989-1991).",
+   "visuel": {
+    "type": "frise",
+    "jalons": [
+     {
+      "date": "1947",
+      "label": "Doctrine Truman",
+      "cat": "pol"
+     },
+     {
+      "date": "1948-49",
+      "label": "Blocus de Berlin",
+      "cat": "risk"
+     },
+     {
+      "date": "1962",
+      "label": "Crise de Cuba",
+      "cat": "risk"
+     },
+     {
+      "date": "1989",
+      "label": "Chute du mur de Berlin",
+      "cat": "act"
+     },
+     {
+      "date": "1991",
+      "label": "Fin de l'URSS",
+      "cat": "enj"
+     }
+    ]
+   },
+   "puces": [
+    "<li class=\"risk\"><b>Cuba</b> → le moment le plus proche de la guerre nucléaire</li>",
+    "<li class=\"act\"><b>Décembre 1991</b> → dissolution de l'URSS</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Guerre_froide",
+   "source_titre": "Guerre froide — Wikipédia",
+   "tags": [
+    "type::B",
+    "theme::histoire",
+    "vitrine::frise"
+   ]
+  },
+  {
+   "modele": "basique",
+   "type": "B",
+   "icone": "🏛️",
+   "ancre": "Cohabitations sous la Ve République",
+   "question": "Quand la Ve République a-t-elle connu des cohabitations, et avec quels Premiers ministres ?",
+   "reponse": "Trois fois : <span class=\"hl pol\">Chirac</span> (1986-1988) et <span class=\"hl pol\">Balladur</span> (1993-1995) sous Mitterrand, puis <span class=\"hl act\">Jospin</span> (1997-2002) sous Chirac.",
+   "visuel": {
+    "type": "periodes",
+    "debut": 1981,
+    "fin": 2007,
+    "bandes": [
+     {
+      "de": 1981,
+      "a": 1995,
+      "label": "Présidence Mitterrand",
+      "cat": "act",
+      "ligne": 0
+     },
+     {
+      "de": 1995,
+      "a": 2007,
+      "label": "Présidence Chirac",
+      "cat": "pol",
+      "ligne": 0
+     },
+     {
+      "de": 1986,
+      "a": 1988,
+      "label": "Chirac PM",
+      "cat": "risk",
+      "ligne": 1
+     },
+     {
+      "de": 1993,
+      "a": 1995,
+      "label": "Balladur PM",
+      "cat": "risk",
+      "ligne": 1
+     },
+     {
+      "de": 1997,
+      "a": 2002,
+      "label": "Jospin PM",
+      "cat": "risk",
+      "ligne": 1
+     }
+    ]
+   },
+   "puces": [
+    "<li class=\"instr\"><b>Quinquennat</b> → adopté en 2000, il rend la cohabitation moins probable</li>",
+    "<li class=\"date\"><b>Calendrier inversé</b> → depuis 2002, les législatives suivent la présidentielle</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Cohabitation_(politique)",
+   "source_titre": "Cohabitation (politique) — Wikipédia",
+   "tags": [
+    "type::B",
+    "theme::institutions",
+    "vitrine::periodes"
+   ]
+  },
+  {
+   "modele": "mindmap",
+   "question": "Quelles sont les causes de la Première Guerre mondiale ?",
+   "mindmap": "# Causes de la Première Guerre mondiale\n## 🔴 Militarisme\n- Course aux armements navale anglo-allemande\n- Plans de guerre préparés (plan Schlieffen)\n## 🔵 Alliances\n- Triple-Alliance (1882)\n-- Système de Bismarck\n- Triple-Entente (1907)\n## 🟤 Impérialisme\n- Rivalités coloniales\n- Crises marocaines (1905, 1911)\n## 👤 Nationalismes\n- Panslavisme dans les Balkans\n- Revanche sur l'Alsace-Moselle\n## 📅 Déclencheur\n- Attentat de Sarajevo (28 juin 1914)\n- Ultimatum autrichien à la Serbie (23 juillet 1914)",
+   "reponse": "Des <span class=\"hl risk\">tensions structurelles</span> (armements, alliances, empires, nationalismes) transforment un <span class=\"hl date\">attentat local</span> en <span class=\"hl enj\">guerre européenne</span>.",
+   "images_noeuds": [
+    {
+     "cle": "Bismarck",
+     "wiki": "Otto von Bismarck"
+    }
+   ],
+   "images_branches": [
+    {
+     "branche": "Alliances",
+     "visuel": {
+      "type": "reseau",
+      "acteurs": [
+       {
+        "id": "de",
+        "label": "Allemagne",
+        "cat": "pol"
+       },
+       {
+        "id": "at",
+        "label": "Autr.-Hongrie",
+        "cat": "pol"
+       },
+       {
+        "id": "fr",
+        "label": "France",
+        "cat": "act"
+       },
+       {
+        "id": "ru",
+        "label": "Russie",
+        "cat": "act"
+       }
+      ],
+      "liens": [
+       {
+        "de": "de",
+        "a": "at",
+        "type": "alliance"
+       },
+       {
+        "de": "fr",
+        "a": "ru",
+        "type": "alliance"
+       },
+       {
+        "de": "at",
+        "a": "ru",
+        "type": "rivalite"
+       }
+      ]
+     }
+    }
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Causes_de_la_Premi%C3%A8re_Guerre_mondiale",
+   "source_titre": "Causes de la Première Guerre mondiale — Wikipédia",
+   "tags": [
+    "type::mindmap",
+    "theme::histoire",
+    "vitrine::mindmap"
+   ]
+  },
+  {
+   "modele": "basique",
+   "type": "A",
+   "icone": "💰",
+   "ancre": "Valeur actuelle nette (VAN)",
+   "question": "Comment calcule-t-on la VAN d'un projet, et quand faut-il l'accepter ?",
+   "reponse": "On actualise les flux futurs et on retire l'investissement : <div class=\"formule\">\\[ VAN = -I_0 + \\sum_{t=1}^{n} \\frac{CF_t}{(1+r)^t} \\]</div>",
+   "puces": [
+    "<li class=\"eco\"><b>\\( I_0 \\)</b> → investissement initial ; \\( CF_t \\) : flux de trésorerie de l'année \\( t \\)</li>",
+    "<li class=\"pol\"><b>\\( r \\)</b> → taux d'actualisation (coût du capital)</li>",
+    "<li class=\"enj\"><b>Décision</b> → VAN \\( \\gt 0 \\) → le projet crée de la valeur : on l'accepte</li>"
+   ],
+   "piege": "VAN ≠ TRI : le TRI est le taux qui annule la VAN ; deux projets exclusifs se départagent à la VAN.",
+   "source_url": "https://fr.wikipedia.org/wiki/Valeur_actuelle_nette",
+   "source_titre": "Valeur actuelle nette — Wikipédia",
+   "tags": [
+    "type::A",
+    "matiere::finance",
+    "vitrine::formule"
+   ]
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "icone": "🧬",
+   "ancre": "EBITDA",
+   "question": "Que signifie ce sigle, et que mesure-t-il ?",
+   "reponse": "Le résultat <span class=\"hl eco\">avant intérêts, impôts, dépréciations et amortissements</span> : la rentabilité de l'<span class=\"hl res\">exploitation</span>, avant les choix de financement.",
+   "decomposition": {
+    "terme": "EBITDA",
+    "parties": [
+     [
+      "E",
+      "Earnings",
+      "eco"
+     ],
+     [
+      "B",
+      "Before",
+      "date"
+     ],
+     [
+      "I",
+      "Interest",
+      "pol"
+     ],
+     [
+      "T",
+      "Taxes",
+      "inst"
+     ],
+     [
+      "D",
+      "Depreciation",
+      "res"
+     ],
+     [
+      "A",
+      "Amortization",
+      "instr"
+     ]
+    ],
+    "note": "En français : EBE (excédent brut d'exploitation), à peu de chose près"
+   },
+   "puces": [
+    "<li class=\"act\"><b>Usage</b> → comparer des entreprises au financement et à la fiscalité différents</li>",
+    "<li class=\"prosp\"><b>Limite</b> → ignore les investissements nécessaires au maintien de l'outil</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/EBITDA",
+   "source_titre": "EBITDA — Wikipédia",
+   "tags": [
+    "type::C",
+    "matiere::finance",
+    "vitrine::decomposition"
+   ]
+  },
+  {
+   "modele": "basique",
+   "type": "A",
+   "icone": "📊",
+   "ancre": "Courbe de Laffer",
+   "question": "Que suggère la courbe de Laffer sur le lien entre taux d'imposition et recettes fiscales ?",
+   "reponse": "Au-delà d'un certain taux, une hausse d'impôt <span class=\"hl risk\">réduit les recettes</span> : « <span class=\"hl conc\">trop d'impôt tue l'impôt</span> ».",
+   "visuel": {
+    "type": "courbe",
+    "schema": true,
+    "axe_x": "Taux d'imposition (0 à 100 %)",
+    "unite": "Recettes fiscales",
+    "series": [
+     {
+      "nom": "Recettes",
+      "cat": "eco",
+      "points": [
+       [
+        0,
+        0.0
+       ],
+       [
+        5,
+        19.0
+       ],
+       [
+        10,
+        36.0
+       ],
+       [
+        15,
+        51.0
+       ],
+       [
+        20,
+        64.0
+       ],
+       [
+        25,
+        75.0
+       ],
+       [
+        30,
+        84.0
+       ],
+       [
+        35,
+        91.0
+       ],
+       [
+        40,
+        96.0
+       ],
+       [
+        45,
+        99.0
+       ],
+       [
+        50,
+        100.0
+       ],
+       [
+        55,
+        99.0
+       ],
+       [
+        60,
+        96.0
+       ],
+       [
+        65,
+        91.0
+       ],
+       [
+        70,
+        84.0
+       ],
+       [
+        75,
+        75.0
+       ],
+       [
+        80,
+        64.0
+       ],
+       [
+        85,
+        51.0
+       ],
+       [
+        90,
+        36.0
+       ],
+       [
+        95,
+        19.0
+       ],
+       [
+        100,
+        0.0
+       ]
+      ]
+     }
+    ],
+    "annotations": [
+     {
+      "x": 50,
+      "label": "Sommet : position débattue"
+     }
+    ]
+   },
+   "puces": [
+    "<li class=\"act\"><b>Arthur Laffer</b> → économiste de l'offre, influent sous Reagan</li>",
+    "<li class=\"prosp\"><b>Débat</b> → la position du sommet est inconnue et discutée</li>"
+   ],
+   "memo": "0 % et 100 % d'impôt rapportent tous deux zéro.",
+   "source_url": "https://fr.wikipedia.org/wiki/Courbe_de_Laffer",
+   "source_titre": "Courbe de Laffer — Wikipédia",
+   "tags": [
+    "type::A",
+    "matiere::economie",
+    "vitrine::courbe"
+   ]
+  },
+  {
+   "modele": "basique",
+   "type": "A",
+   "icone": "🏦",
+   "ancre": "Transmission de la politique monétaire",
+   "question": "Par quel enchaînement une hausse des taux directeurs freine-t-elle l'inflation ?",
+   "reponse": "Elle <span class=\"hl pol\">renchérit le crédit</span>, ce qui <span class=\"hl eco\">freine la demande</span> et donc la <span class=\"hl enj\">hausse des prix</span>.",
+   "visuel": {
+    "type": "chaine",
+    "noeuds": [
+     {
+      "label": "Hausse des taux directeurs",
+      "cat": "pol"
+     },
+     {
+      "label": "Crédit plus cher",
+      "cat": "instr"
+     },
+     {
+      "label": "Moins de consommation et d'investissement",
+      "cat": "eco"
+     },
+     {
+      "label": "Inflation freinée"
+     }
+    ],
+    "liens": [
+     {
+      "verbe": "renchérit",
+      "cat": "instr"
+     },
+     {
+      "verbe": "freine",
+      "cat": "eco"
+     },
+     {
+      "verbe": "ralentit",
+      "cat": "enj"
+     }
+    ]
+   },
+   "puces": [
+    "<li class=\"inst\"><b>Banque centrale</b> → BCE, Fed : fixent le taux auquel les banques se refinancent</li>",
+    "<li class=\"risk\"><b>Délais</b> → les effets mettent plusieurs trimestres à se faire sentir</li>"
+   ],
+   "source_url": "https://www.ecb.europa.eu/mopo/intro/transmission/html/index.fr.html",
+   "source_titre": "BCE — Mécanisme de transmission de la politique monétaire",
+   "tags": [
+    "type::A",
+    "matiere::economie",
+    "vitrine::chaine"
+   ]
+  },
+  {
+   "modele": "basique",
+   "type": "A",
+   "icone": "💱",
+   "ancre": "Dévaluation — effets",
+   "question": "Quels effets une dévaluation a-t-elle sur les échanges extérieurs ?",
+   "reponse": "Elle rend les <span class=\"hl env\">exportations moins chères</span> et les <span class=\"hl risk\">importations plus chères</span> : la balance commerciale se dégrade souvent d'abord, puis s'améliore.",
+   "visuel": {
+    "type": "bifurcation",
+    "source": {
+     "label": "Dévaluation de la monnaie",
+     "cat": "pol"
+    },
+    "branches": [
+     {
+      "label": "Exportations plus compétitives",
+      "cat": "env",
+      "verbe": "stimule"
+     },
+     {
+      "label": "Importations plus chères",
+      "cat": "risk",
+      "verbe": "renchérit"
+     }
+    ],
+    "terminal": {
+     "label": "Solde commercial",
+     "sous": "courbe en J"
+    }
+   },
+   "puces": [
+    "<li class=\"conc\"><b>Courbe en J</b> → les volumes réagissent plus lentement que les prix</li>",
+    "<li class=\"prosp\"><b>Condition</b> → Marshall-Lerner : élasticités-prix suffisantes</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Courbe_en_J",
+   "source_titre": "Courbe en J — Wikipédia",
+   "tags": [
+    "type::A",
+    "matiere::economie",
+    "vitrine::bifurcation"
+   ]
+  },
+  {
+   "modele": "basique",
+   "type": "B",
+   "icone": "💵",
+   "ancre": "Fin de Bretton Woods",
+   "question": "Quelle décision de <span class=\"hl act\">Richard Nixon 🇺🇸</span> met fin au système de Bretton Woods ?",
+   "reponse": "La <span class=\"hl instr\">suspension de la convertibilité</span> du dollar en or : les changes deviennent <span class=\"hl eco\">flottants</span> en 1973.",
+   "date": "15 août 1971",
+   "visuel": {
+    "type": "chiffre",
+    "chiffres": [
+     {
+      "valeur": "35 $",
+      "legende": "l'once d'or : parité fixée à Bretton Woods (1944)",
+      "cat": "eco"
+     }
+    ]
+   },
+   "puces": [
+    "<li class=\"risk\"><b>Cause</b> → réserves d'or américaines insuffisantes face aux dollars détenus à l'étranger</li>",
+    "<li class=\"inst\"><b>Accords de la Jamaïque</b> → 1976 : le flottement est officialisé</li>"
+   ],
+   "portraits": [
+    {
+     "wiki": "Richard Nixon",
+     "legende": "Président des États-Unis (1969-1974)"
+    }
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Choc_Nixon",
+   "source_titre": "Choc Nixon — Wikipédia",
+   "tags": [
+    "type::B",
+    "matiere::economie",
+    "vitrine::chiffre"
+   ]
+  },
+  {
+   "modele": "basique",
+   "type": "B",
+   "icone": "🇪🇺",
+   "ancre": "Élargissements de l'UE",
+   "question": "Comment le nombre d'États membres de la construction européenne a-t-il évolué depuis 1957 ?",
+   "reponse": "De <span class=\"hl pol\">6 fondateurs</span> à <span class=\"hl act\">28 membres</span> en 2013, avant le retour à <span class=\"hl risk\">27</span> après le Brexit (2020).",
+   "visuel": {
+    "type": "barres",
+    "unite": "États membres",
+    "barres": [
+     {
+      "label": "1957",
+      "valeur": 6,
+      "cat": "pol"
+     },
+     {
+      "label": "1973",
+      "valeur": 9,
+      "cat": "pol"
+     },
+     {
+      "label": "1995",
+      "valeur": 15,
+      "cat": "pol"
+     },
+     {
+      "label": "2004",
+      "valeur": 25,
+      "cat": "act"
+     },
+     {
+      "label": "2013",
+      "valeur": 28,
+      "cat": "act"
+     },
+     {
+      "label": "2020",
+      "valeur": 27,
+      "cat": "risk"
+     }
+    ]
+   },
+   "puces": [
+    "<li class=\"act\"><b>2004</b> → le « big bang » : dix pays d'un coup</li>",
+    "<li class=\"risk\"><b>2020</b> → le Royaume-Uni quitte l'Union</li>"
+   ],
+   "source_url": "https://european-union.europa.eu/principles-countries-history/eu-enlargement_fr",
+   "source_titre": "Union européenne — Élargissement",
+   "tags": [
+    "type::B",
+    "theme::europe",
+    "vitrine::barres"
+   ]
+  },
+  {
+   "modele": "basique",
+   "type": "A",
+   "icone": "🧩",
+   "ancre": "Matrice BCG",
+   "question": "Comment la matrice BCG classe-t-elle les activités d'une entreprise ?",
+   "reponse": "Selon la <span class=\"hl env\">croissance du marché</span> et la <span class=\"hl pol\">part de marché relative</span> : quatre familles d'activités à financer, garder ou céder.",
+   "visuel": {
+    "type": "matrice",
+    "titre_x": "Part de marché relative",
+    "titre_y": "Croissance du marché",
+    "x": [
+     "faible",
+     "forte"
+    ],
+    "y": [
+     "faible",
+     "forte"
+    ],
+    "quadrants": [
+     "Dilemmes",
+     "Vedettes",
+     "Poids morts",
+     "Vaches à lait"
+    ],
+    "points": [
+     {
+      "label": "Activité A",
+      "x": 0.25,
+      "y": 0.8,
+      "cat": "risk"
+     },
+     {
+      "label": "Activité B",
+      "x": 0.8,
+      "y": 0.75,
+      "cat": "env"
+     },
+     {
+      "label": "Activité C",
+      "x": 0.75,
+      "y": 0.22,
+      "cat": "eco"
+     }
+    ],
+    "note": "Activités A, B, C : exemple fictif"
+   },
+   "puces": [
+    "<li class=\"env\"><b>Vaches à lait</b> → financent les dilemmes et les vedettes</li>",
+    "<li class=\"risk\"><b>Poids morts</b> → candidats à la cession</li>"
+   ],
+   "saisie": "Boston Consulting Group;BCG",
+   "saisie_consigne": "Quel cabinet a créé cette matrice ? (nom complet)",
+   "source_url": "https://fr.wikipedia.org/wiki/Matrice_BCG",
+   "source_titre": "Matrice BCG — Wikipédia",
+   "tags": [
+    "type::A",
+    "matiere::strategie",
+    "vitrine::matrice"
+   ]
+  },
+  {
+   "modele": "mindmap",
+   "question": "Quelles sont les cinq forces de Porter ?",
+   "mindmap": "# Les cinq forces de Porter (1979)\n## 🔴 Nouveaux entrants\n- Barrières à l'entrée\n- Économies d'échelle\n## 🟠 Substituts\n- Produits qui répondent au même besoin\n## 🟤 Fournisseurs\n- Pouvoir de négociation\n- Coûts de changement\n## 👤 Clients\n- Pouvoir de négociation\n- Concentration des acheteurs\n## 🟡 Rivalité\n- Intensité de la concurrence\n- Croissance du secteur",
+   "reponse": "Cinq forces déterminent l'<span class=\"hl enj\">attractivité d'un secteur</span> : plus elles sont fortes, plus la <span class=\"hl eco\">rentabilité</span> moyenne est faible.",
+   "source_url": "https://hbr.org/1979/03/how-competitive-forces-shape-strategy",
+   "source_titre": "M. Porter, How Competitive Forces Shape Strategy — HBR (1979)",
+   "tags": [
+    "type::mindmap",
+    "matiere::strategie",
+    "vitrine::mindmap"
+   ]
+  },
+  {
+   "modele": "trous",
+   "ancre": "Inégalité de Bienaymé-Tchebychev",
+   "texte": "Pour une variable aléatoire \\( X \\) de variance finie et tout \\( a \\gt 0 \\) : <div class=\"formule\">\\( P\\left(|X - E(X)| \\geq a\\right) \\leq \\) {{c1::\\( \\dfrac{V(X)}{a^2} \\) }}</div>",
+   "extra": "Elle borne la probabilité de s'écarter de la moyenne ; elle sert à démontrer la loi faible des grands nombres.",
+   "source_url": "https://fr.wikipedia.org/wiki/In%C3%A9galit%C3%A9_de_Bienaym%C3%A9-Tchebychev",
+   "source_titre": "Inégalité de Bienaymé-Tchebychev — Wikipédia",
+   "tags": [
+    "type::trous",
+    "matiere::maths",
+    "vitrine::formule"
+   ]
+  },
+  {
+   "modele": "basique",
+   "type": "D",
+   "icone": "🧮",
+   "ancre": "Irrationalité de √2 — démonstration",
+   "question": "Comment démontre-t-on que \\( \\sqrt{2} \\) est irrationnel ?",
+   "reponse": "Par l'<span class=\"hl conc\">absurde</span> : une fraction irréductible égale à \\( \\sqrt{2} \\) aurait un numérateur et un dénominateur <span class=\"hl risk\">tous deux pairs</span>.",
+   "puces": [
+    "<li class=\"conc\"><b>Étape 1</b> → on suppose \\( \\sqrt{2} = \\frac{p}{q} \\), fraction irréductible</li>",
+    "<li class=\"eco\"><b>Étape 2</b> → \\( p^2 = 2q^2 \\) : \\( p^2 \\) est pair, donc \\( p \\) aussi, \\( p = 2k \\)</li>",
+    "<li class=\"eco\"><b>Étape 3</b> → \\( 4k^2 = 2q^2 \\), donc \\( q^2 = 2k^2 \\) : \\( q \\) est pair</li>",
+    "<li class=\"risk\"><b>Étape 4</b> → \\( p \\) et \\( q \\) pairs : la fraction n'était pas irréductible, contradiction</li>"
+   ],
+   "indice": "Raisonne par l'absurde et regarde la parité.",
+   "source_url": "https://fr.wikipedia.org/wiki/Racine_carr%C3%A9e_de_deux",
+   "source_titre": "Racine carrée de deux — Wikipédia",
+   "tags": [
+    "type::D",
+    "matiere::maths",
+    "vitrine::etapes"
+   ]
+  },
+  {
+   "modele": "trous",
+   "ancre": "Python — factorielle récursive",
+   "texte": "<pre class=\"code\">def factorielle(n):\n    if n == 0:\n        return {{c1::1}}\n    return {{c2::n * factorielle(n - 1)}}</pre>",
+   "extra": "Cas de base (c1) puis appel récursif sur un problème plus petit (c2).",
+   "source_url": "https://docs.python.org/fr/3/tutorial/controlflow.html#defining-functions",
+   "source_titre": "Tutoriel Python — Définir des fonctions",
+   "tags": [
+    "type::trous",
+    "matiere::python",
+    "vitrine::code"
+   ]
+  },
+  {
+   "modele": "occlusion",
+   "ancre": "Anatomie du neurone",
+   "icone": "🖼️",
+   "image": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 330 165\"><g transform=\"scale(0.55)\"><rect x=\"0\" y=\"0\" width=\"600\" height=\"300\" rx=\"16\" fill=\"#F4F1EC\"/><g stroke=\"#8E5A9B\" stroke-width=\"5\" stroke-linecap=\"round\" fill=\"none\"><path d=\"M95 125 L60 80 M75 100 L45 95 M60 80 L55 50 M60 80 L30 70\"/><path d=\"M90 165 L50 200 M65 187 L40 175 M50 200 L45 235 M50 200 L20 215\"/><path d=\"M125 110 L135 60 M133 72 L160 50 M135 60 L120 30\"/><path d=\"M120 190 L125 245 M124 230 L150 260\"/></g><circle cx=\"120\" cy=\"150\" r=\"42\" fill=\"#D7B8E0\" stroke=\"#8E5A9B\" stroke-width=\"4\"/><circle cx=\"118\" cy=\"150\" r=\"15\" fill=\"#6A3D7A\"/><path d=\"M160 150 L480 150\" stroke=\"#8E5A9B\" stroke-width=\"6\"/><rect x=\"190\" y=\"136\" width=\"52\" height=\"28\" rx=\"12\" fill=\"#F2D27A\" stroke=\"#B8902A\" stroke-width=\"3\"/><rect x=\"252\" y=\"136\" width=\"52\" height=\"28\" rx=\"12\" fill=\"#F2D27A\" stroke=\"#B8902A\" stroke-width=\"3\"/><rect x=\"314\" y=\"136\" width=\"52\" height=\"28\" rx=\"12\" fill=\"#F2D27A\" stroke=\"#B8902A\" stroke-width=\"3\"/><rect x=\"376\" y=\"136\" width=\"52\" height=\"28\" rx=\"12\" fill=\"#F2D27A\" stroke=\"#B8902A\" stroke-width=\"3\"/><g stroke=\"#8E5A9B\" stroke-width=\"5\" stroke-linecap=\"round\" fill=\"none\"><path d=\"M480 150 L540 95 M480 150 L555 150 M480 150 L540 205\"/></g><g fill=\"#6A3D7A\"><circle cx=\"545\" cy=\"90\" r=\"10\"/><circle cx=\"562\" cy=\"150\" r=\"10\"/><circle cx=\"545\" cy=\"210\" r=\"10\"/></g></g></svg>",
+   "zones": [
+    {
+     "label": "Dendrites",
+     "x": 30.3,
+     "y": 44.0
+    },
+    {
+     "label": "Corps cellulaire",
+     "x": 78.1,
+     "y": 67.1
+    },
+    {
+     "label": "Noyau",
+     "x": 64.9,
+     "y": 82.5
+    },
+    {
+     "label": "Gaine de myéline",
+     "x": 152.9,
+     "y": 75.9,
+     "reponse": "La gaine de myéline : un isolant qui accélère la conduction de l'influx."
+    },
+    {
+     "label": "Nœud de Ranvier",
+     "x": 170.0,
+     "y": 82.5,
+     "reponse": "Le nœud de Ranvier : l'influx y « saute » d'un nœud à l'autre (conduction saltatoire)."
+    },
+    {
+     "label": "Axone",
+     "x": 250.3,
+     "y": 82.5
+    },
+    {
+     "label": "Terminaisons axonales",
+     "x": 309.1,
+     "y": 82.5
+    }
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Neurone",
+   "source_titre": "Neurone — Wikipédia",
+   "tags": [
+    "matiere::medecine",
+    "vitrine::occlusion"
+   ]
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "icone": "💊",
+   "ancre": "Antihypertenseurs de première intention",
+   "question": "Quelles classes d'antihypertenseurs utilise-t-on en première intention, et comment les reconnaître à leur nom ?",
+   "reponse": "Cinq classes : <span class=\"hl conc\">IEC</span>, <span class=\"hl conc\">ARA II</span>, <span class=\"hl env\">diurétiques thiazidiques</span>, <span class=\"hl act\">inhibiteurs calciques</span> et <span class=\"hl pol\">bêtabloquants</span>.",
+   "visuel": {
+    "type": "arbre",
+    "racine": {
+     "label": "Antihypertenseurs (1re intention)",
+     "cat": "inst",
+     "enfants": [
+      {
+       "label": "Système rénine-angiotensine",
+       "cat": "conc",
+       "enfants": [
+        {
+         "label": "IEC",
+         "note": "-pril"
+        },
+        {
+         "label": "ARA II",
+         "note": "-sartan"
+        }
+       ]
+      },
+      {
+       "label": "Diurétiques thiazidiques",
+       "cat": "env",
+       "note": "hydrochlorothiazide"
+      },
+      {
+       "label": "Inhibiteurs calciques",
+       "cat": "act",
+       "note": "-dipine"
+      },
+      {
+       "label": "Bêtabloquants",
+       "cat": "pol",
+       "note": "-olol"
+      }
+     ]
+    }
+   },
+   "puces": [
+    "<li class=\"conc\"><b>Suffixes</b> → ramipril, losartan, amlodipine, aténolol</li>",
+    "<li class=\"risk\"><b>IEC</b> → toux sèche fréquente : on passe alors à un ARA II</li>"
+   ],
+   "piege": "IEC ≠ ARA II : on ne les associe pas entre eux.",
+   "source_url": "https://www.has-sante.fr/jcms/c_2059286/fr/prise-en-charge-de-l-hypertension-arterielle-de-l-adulte",
+   "source_titre": "HAS — Prise en charge de l'hypertension artérielle de l'adulte",
+   "tags": [
+    "type::C",
+    "matiere::medecine",
+    "vitrine::arbre"
+   ]
+  },
+  {
+   "modele": "basique",
+   "type": "B",
+   "icone": "⚖️",
+   "ancre": "Arrêt Blanco",
+   "question": "Quels principes le Tribunal des conflits pose-t-il dans cet arrêt ?",
+   "date": "8 février 1873",
+   "reponse": "La <span class=\"hl pol\">responsabilité de l'État</span> relève de <span class=\"hl inst\">règles spéciales</span>, distinctes du Code civil, et du <span class=\"hl inst\">juge administratif</span>.",
+   "puces": [
+    "<li class=\"inst\"><b>Compétence</b> → le juge administratif juge les dommages causés par les services publics</li>",
+    "<li class=\"conc\"><b>Autonomie</b> → le droit administratif n'applique pas les règles du Code civil</li>"
+   ],
+   "anecdote": "Agnès Blanco, une fillette de 5 ans, avait été renversée par un wagonnet de la manufacture des tabacs de Bordeaux.",
+   "saisie": "(arrêt) Blanco",
+   "saisie_consigne": "Nom de l'arrêt du Tribunal des conflits qui fonde la responsabilité de l'État ?",
+   "source_url": "https://www.conseil-etat.fr/decisions-de-justice/jurisprudence/les-grandes-decisions-depuis-1873/tribunal-des-conflits-8-fevrier-1873-blanco",
+   "source_titre": "Conseil d'État — TC, 8 février 1873, Blanco",
+   "tags": [
+    "type::B",
+    "matiere::droit",
+    "vitrine::saisie"
+   ]
+  },
+  {
+   "modele": "citation",
+   "auteur": "Montesquieu",
+   "contexte": "De l'esprit des lois (1748), livre XI, chapitre 4",
+   "citation": "Pour qu'on ne puisse abuser du pouvoir, il faut que, par la disposition des choses, {{c1::le pouvoir arrête le pouvoir}}.",
+   "extra": "Fondement de la séparation des pouvoirs.",
+   "source_url": "https://fr.wikisource.org/wiki/De_l%E2%80%99esprit_des_lois/Livre_XI",
+   "source_titre": "Montesquieu, De l'esprit des lois, livre XI — Wikisource",
+   "tags": [
+    "type::citation",
+    "matiere::droit",
+    "vitrine::citation"
+   ]
+  },
+  {
+   "modele": "chinois",
+   "hanzi": "你好",
+   "pinyin": "nǐ hǎo",
+   "sens": "bonjour",
+   "exemple": "你好吗？",
+   "exemple_pinyin": "Nǐ hǎo ma?",
+   "exemple_sens": "Comment vas-tu ?",
+   "note": "Deux 3e tons de suite : le premier se prononce au 2e ton (ní hǎo).",
+   "ecriture": true,
+   "tags": [
+    "langue::chinois",
+    "vitrine::chinois"
+   ]
+  },
+  {
+   "modele": "chinois",
+   "hanzi": "谢谢",
+   "pinyin": "xiè xie",
+   "sens": "merci",
+   "exemple": "谢谢你。",
+   "exemple_pinyin": "Xiè xie nǐ.",
+   "exemple_sens": "Merci (à toi).",
+   "note": "La seconde syllabe est au ton neutre.",
+   "tags": [
+    "langue::chinois",
+    "vitrine::chinois"
+   ]
+  },
+  {
+   "modele": "langue",
+   "langue": "arabe_egyptien",
+   "mot": "عايز",
+   "transcription": "ʿāyez",
+   "sens": "vouloir (« je veux », au masculin)",
+   "exemple": "أنا عايز قهوة",
+   "exemple_transcription": "ana ʿāyez ʾahwa",
+   "exemple_sens": "Je veux un café.",
+   "note": "Forme égyptienne ; au féminin : عايزة (ʿayza).",
+   "production": true,
+   "tags": [
+    "langue::arabe-egyptien",
+    "vitrine::arabe"
+   ]
+  },
+  {
+   "modele": "langue",
+   "langue": "espagnol",
+   "mot": "la sobremesa",
+   "sens": "le temps passé à table à discuter après le repas",
+   "exemple": "La sobremesa duró dos horas.",
+   "exemple_sens": "On est resté deux heures à table après le repas.",
+   "note": "Pas d'équivalent en un mot en français.",
+   "production": true,
+   "tags": [
+    "langue::espagnol",
+    "vitrine::espagnol"
+   ]
+  }
+ ]
+}

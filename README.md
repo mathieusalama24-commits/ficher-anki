@@ -187,8 +187,7 @@ viennent de [Natural Earth](https://www.naturalearthdata.com) (domaine public).
 
 ## Communauté
 
-Entraide à l'installation, idées et paquets partagés par filière : rejoins le **Discord Ficher**
-(lien dans la description du dépôt).
+Entraide à l'installation, idées et paquets partagés par filière : rejoins le **[Discord Ficher](https://discord.gg/CNa3rk23Zv)**.
 
 ## Licence
 

@@ -166,7 +166,7 @@ dans le dossier du JSON, avant de reconstruire.
 | `modele` | Quand l'utiliser |
 |---|---|
 | `basique` | la plupart des cartes ; le MODULE définit les types (A, B, C, D) et leurs icônes : passe l'icône dans le champ `"icone"` |
-| `trous` 🔢 | données à restituer mot pour mot : définitions courtes, chiffres, éléments d'une liste, termes d'une formule |
+| `trous` 🔢 | données à restituer mot pour mot : définitions courtes, chiffres, éléments d'une liste, termes d'une formule ; énoncés entiers en format « par cœur » (voir ci-dessous) |
 | `mindmap` 🗺️ | framework ou sujet à 3 dimensions ou plus (1 à 5 par session) ; génère 1 carte Structure + 1 carte par branche |
 | `occlusion` 🖼️ | image à légender (schéma, figure de cours) : une note → une carte par zone masquée (voir la section Visuels) |
 | `chinois` 🀄 | vocabulaire du cours de chinois : voir le MODULE CHINOIS (aucune carte à taper) |
@@ -174,6 +174,27 @@ dans le dossier du JSON, avant de reconstruire.
 
 **Texte à trous.** Une phrase autonome et vraie, de 1 à 3 trous `{{c1::…}}`, `{{c2::…}}`. Même
 numéro pour deux trous à retrouver ensemble. `extra` : une phrase de contexte au plus.
+
+**Cartes « par cœur » (tout à deviner).** Pour tout ce qui s'apprend mot pour mot : définition,
+propriété, théorème, corollaire, formule, article de loi, citation d'accroche (géopo, philo). Modèle
+`trous`, et TOUT l'énoncé est masqué : au recto, il ne reste que le titre (`ancre`), le `contexte` et la
+ponctuation qui encadre les blocs (« », retours à la ligne).
+- Découpe l'énoncé en blocs de sens (4 à 12) : hypothèses, quantificateurs et connecteurs (« Soit »,
+  « Si », « pour tout », « si et seulement si », « Alors », « Dans ce cas »), formules, conclusion. Chaque
+  bloc est un `{{c1::…}}` avec le MÊME numéro partout : une seule carte, tout masqué en même temps.
+- Pas d'indice dans ces trous (`[…]` seul) : la forme de l'énoncé (nombre de blocs, lignes) suffit.
+- Au verso, le bouton « Une par une » dévoile les blocs dans l'ordre : on récite, puis on vérifie.
+- `extra` : une ligne au plus (le piège classique, l'ancien numéro d'un article…).
+- `"italique": true` pour les articles de loi (automatique pour le modèle `citation`).
+- `"icone"` (📐 théorème, 📘 définition, 🧭 méthode, ⚖️ droit) et `"contexte"` (« Probabilités · variables à densité »).
+- Méthodes et rédactions : même principe, une étape par bloc.
+
+```json
+{"modele": "trous", "icone": "⚖️", "ancre": "Article 1240 du Code civil", "contexte": "Responsabilité du fait personnel",
+ "italique": true, "texte": "« {{c1::Tout fait quelconque de l'homme,}} {{c1::qui cause à autrui un dommage,}}<br>{{c1::oblige celui}} {{c1::par la faute duquel il est arrivé}} {{c1::à le réparer.}} »",
+ "extra": "Ancien art. 1382 (ordonnance du 10 février 2016).",
+ "source_url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571", "source_titre": "Article 1240 — Code civil, Légifrance"}
+```
 
 **Formules (matières quantitatives).** Écris les formules en MathJax, que les cartes Anki rendent
 nativement :

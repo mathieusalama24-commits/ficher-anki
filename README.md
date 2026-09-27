@@ -14,6 +14,13 @@ sur le web et cite ses sources au verso, mais il peut se tromper.
 **Envie de voir en vrai ?** Importe [`paquets/Ficher_vitrine.apkg`](paquets/Ficher_vitrine.apkg) dans Anki :
 40 cartes d'exemple, toutes celles de la galerie ci-dessous (source : [`exemples/cartes_vitrine.json`](exemples/cartes_vitrine.json)).
 
+Deux paquets complets de prépa ECG, faits avec Ficher :
+
+| Paquet | Contenu |
+|---|---|
+| [`Ficher_HGG_Asie_4.2.1.apkg`](paquets/Ficher_HGG_Asie_4.2.1.apkg) | HGG, « L'Asie : géopolitique d'une région plurielle » : 119 notes, 7 cartes muettes, frises, réseaux, étude de cas du Sri Lanka, chiffres revérifiés (ONU 2025, FMI 2026, PNUD 2025) |
+| [`Ficher_Maths_Variables_a_densite.apkg`](paquets/Ficher_Maths_Variables_a_densite.apkg) | Maths, variables à densité : 28 notes « par cœur » (définitions, théorèmes, lois usuelles, méthodes), formules MathJax |
+
 ## Ce que font les cartes
 
 - **Une idée par carte** : une question, une réponse centrale, 2 à 4 puces, au plus deux encarts
@@ -26,6 +33,8 @@ sur le web et cite ses sources au verso, mais il peut se tromper.
 - **Plusieurs façons de réviser** : texte à trous, réponse à taper (avec tolérance des variantes et
   bouton « Lettre suivante »), curseur d'estimation « Combien ? », citations à trous, occlusion
   d'image, mode test et révélation « une par une ».
+- **Cartes « par cœur »** pour les définitions, théorèmes, articles de loi et citations : tout l'énoncé
+  est masqué, on le récite, puis on le dévoile bloc par bloc.
 - **Formules** (MathJax) et **blocs de code** à trous.
 - **Portraits et images** tirés de Wikipédia et Wikimedia Commons, avec leur crédit.
 - **Langues** : chinois (tons en couleur), espagnol, arabe égyptien, polonais, avec cartes d'écoute,
@@ -69,6 +78,7 @@ Claude écrit une spec JSON de quelques lignes, le moteur dessine le schéma, li
 | **Estimation (recto)** — « Combien ? » : on place un curseur…<br><img src="docs/galerie/estimation-recto.png" width="100%"> | **Estimation (verso)** — …puis on voit l'écart et un verdict.<br><img src="docs/galerie/estimation-verso.png" width="100%"> |
 | **Mode test** — tout le verso flouté, on dévoile bloc par bloc.<br><img src="docs/galerie/mode-test.png" width="100%"> | **Une par une** — une démonstration dévoilée étape par étape.<br><img src="docs/galerie/une-par-une-demonstration.png" width="100%"> |
 | **Occlusion d'image (recto)** — un schéma original, la zone visée en orange.<br><img src="docs/galerie/occlusion-recto.png" width="100%"> | **Occlusion d'image (verso)** — seule la zone cherchée se dévoile.<br><img src="docs/galerie/occlusion-verso.png" width="100%"> |
+| **Par cœur : théorème** — tout l'énoncé est masqué, même « Soit », « Alors », « si et seulement si ».<br><img src="docs/galerie/par-coeur-theoreme.png" width="100%"> | **Par cœur : article de loi** — en italique, récité puis dévoilé bloc par bloc.<br><img src="docs/galerie/par-coeur-droit.png" width="100%"> |
 | **Citation à trous** — on retrouve les mots porteurs, pas les mots de liaison.<br><img src="docs/galerie/citation.png" width="100%"> | **Image au recto** — « Quelle rencontre cette photo immortalise-t-elle ? »<br><img src="docs/galerie/image-recto.png" width="100%"> |
 
 ### Cartes mentales à rappel actif

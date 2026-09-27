@@ -30,7 +30,11 @@ FORMAT JSON
       "visuel": {spec} ou "<svg…>", "visuel_recto": {spec}, "memo": "", "anecdote": "",
       "piege": "", "lien": "", "saisie": "", "saisie_consigne": "",
       "source_url": "https://…", "source_titre": "…", "tags": ["region::Asie"], "deck": "optionnel" },
-    { "modele": "trous", "ancre": "…", "texte": "… {{c1::…}} …", "extra": "", "source_url": "…", "source_titre": "…" },
+    { "modele": "trous", "ancre": "…", "texte": "… {{c1::…}} …", "extra": "", "source_url": "…", "source_titre": "…",
+      "icone": "📐", "contexte": "Chapitre · matière", "italique": true },
+      → icone : remplace 🔢 dans le titre ; contexte : sous-titre du recto ; italique : texte en italique
+        (articles de loi ; automatique pour les citations). Format « par cœur » : tout l'énoncé en blocs
+        {{c1::…}} du même numéro → une seule carte, blocs révélés « Une par une » au verso.
     { "modele": "mindmap", "question": "…", "mindmap": "# …\\n## 🔵 …\\n- …\\n-- …", "reponse": "…", "source_url": "…" }
   ]
 }
@@ -578,7 +582,7 @@ def prep_citation(c, i, rep, used_geo):
         f = media(c["portrait"], rep, where)
         if f:
             img = f'<img class="pt-r" src="{html.escape(f)}" alt="">'
-    t = dict(c, modele="trous", ancre=c.get("auteur", ""), texte=f"« {cit.strip(' «»')} »")
+    t = dict(c, modele="trous", italique=True, ancre=c.get("auteur", ""), texte=f"« {cit.strip(' «»')} »")
     mname, vals, g = prep_trous(t, i, rep, used_geo)
     f = dict(zip(TROUS_FIELDS, vals))
     f.update(Icone="💬", Image=img, Contexte=html.escape(c.get("contexte", "")), Prononciation=prononciation(c, rep, where))
@@ -588,6 +592,9 @@ def prep_citation(c, i, rep, used_geo):
 def prep_trous(c, i, rep, used_geo):
     where = f"carte {i} (trous) « {c.get('ancre', '?')[:40]} »"
     texte = mathjax(c.get("texte", ""))
+    cle_guid = c.get("_guid") or texte  # calculée AVANT l'italique : réimporter une ancienne carte la met à jour
+    if c.get("italique"):  # citations, articles de loi : texte en italique
+        texte = f"<i>{texte}</i>"
     if c.get("extra"):
         c["extra"] = mathjax(c["extra"])
     if re.search(r"\{\{c\d+::[^}]*\\\(", texte) and "}}}" in texte:
@@ -598,7 +605,8 @@ def prep_trous(c, i, rep, used_geo):
         rep.err(where, "source_url manquante ou invalide")
     check_classes(where, texte + c.get("extra", ""), rep)
     return NOM_TROUS, [texte, c.get("ancre", ""), c.get("extra", ""), c.get("source_url", ""),
-                       c.get("source_titre", ""), "", "", "", prononciation(c, rep, where)], guid("geo-v10-trous", texte)
+                       c.get("source_titre", ""), c.get("icone", ""), "", html.escape(c.get("contexte", "")),
+                       prononciation(c, rep, where)], guid("geo-v10-trous", cle_guid)
 
 
 def prep_mindmap(c, i, rep, used_geo):
@@ -725,7 +733,7 @@ def preview(items, outdir, used_geo):
         f = dict(zip(FIELDS_BY_MODEL[mname], vals))
         for tname, qf, af in TEMPLATES[mname]:
             if mname == NOM_TROUS:
-                front = render_tpl(qf, dict(f, Texte=re.sub(r"\{\{c\d+::(.*?)(::.*?)?\}\}", '<span class="cloze">[…]</span>', f["Texte"])))
+                front = render_tpl(qf, dict(f, Texte=re.sub(r"\{\{c\d+::(.*?)(?:::(.*?))?\}\}", lambda m: '<span class="cloze">[' + (m.group(2) or '…') + ']</span>', f["Texte"])))
                 back = render_tpl(af, dict(f, Texte=re.sub(r"\{\{c\d+::(.*?)(::.*?)?\}\}", r'<span class="cloze">\1</span>', f["Texte"])))
             else:
                 front = render_tpl(qf, f)

@@ -1,0 +1,3813 @@
+{
+ "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle",
+ "tags": [
+  "ficher",
+  "matiere::hgg",
+  "prepa-ecg",
+  "vitrine"
+ ],
+ "cartes": [
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Problématique du 4.2.1",
+   "question": "Quelle problématique structure le chapitre « L'Asie : géopolitique d'une région plurielle » ?",
+   "reponse": "Entre <span class=\"hl risk\">tensions</span> et <span class=\"hl inst\">coopérations</span>, l'Asie est-elle une région <span class=\"hl enj\">plurielle</span> où aucune <span class=\"hl pol\">hégémonie</span> ne peut s'imposer ?",
+   "puces": [
+    "<li class=\"conc\"><b>I. Les cadres</b> → milieux, cultures et masses démographiques d'une région plurielle</li>",
+    "<li class=\"pol\"><b>II. États et territoires</b> → constructions, rivalités, tensions, puis intégration régionale</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Asie",
+   "source_titre": "Asie — Wikipédia",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "theme::puissance",
+    "chapitre::4.2.1"
+   ],
+   "_sans_n": true,
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "mindmap",
+   "question": "Quels grands ensembles font de l'Asie une région plurielle ?",
+   "mindmap": "# L'Asie, une région plurielle\n## 🌿 Cadres naturels\n- Himalaya, château d'eau et barrière\n- Grands fleuves nourriciers (Yangzi, Mékong, Gange)\n- Moussons, séismes, volcans\n## 🌸 Mosaïque culturelle\n- Monde sinisé (confucianisme)\n- Monde indianisé (hindouisme, sanskrit)\n- Islam : Indonésie 1er pays musulman\n## 🟣 Masses humaines\n- Près de 60 % de l'humanité\n- 9 des 10 plus grandes villes du monde (2025)\n- Vieillissement à l'est, jeunesse au sud\n## 🔴 États en rivalité\n- Héritages coloniaux et guerres froides\n- Frontières contestées (Himalaya, mers de Chine)\n- Rivalités Chine-Inde, Chine-Japon\n## 🔘 Coopérations\n- ASEAN (1967), SAARC, APEC\n- OCS (2001) face au Quad\n- Indopacifique, nouveau cadre",
+   "reponse": "L'Asie n'existe pas comme un tout : une <span class=\"hl env\">nature contrastée</span>, des <span class=\"hl soc\">civilisations distinctes</span> et des <span class=\"hl risk\">États rivaux</span> y rendent toute <span class=\"hl pol\">hégémonie</span> difficile.",
+   "source_url": "https://fr.wikipedia.org/wiki/Asie",
+   "source_titre": "Asie — Wikipédia",
+   "tags": [
+    "type::mindmap",
+    "region::Asie",
+    "theme::puissance",
+    "chapitre::4.2.1"
+   ],
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Asie, région plurielle",
+   "question": "À quels niveaux se lit la pluralité de l'Asie ?",
+   "reponse": "La pluralité est à la fois <span class=\"hl soc\">culturelle</span>, <span class=\"hl pol\">politique</span> et <span class=\"hl enj\">géopolitique</span> : aucune puissance n'y domine seule.",
+   "puces": [
+    "<li class=\"soc\"><b>Diversité</b> → sociétés, religions et formes politiques très variées</li>",
+    "<li class=\"enj\"><b>Multipolarité</b> → Chine, Inde, Japon, plus les États-Unis 🇺🇸 comme acteur extérieur</li>",
+    "<li class=\"pol\"><b>Résistance à l'Europe</b> → l'Asie a conservé de grands États anciens malgré la colonisation</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Asie",
+   "source_titre": "Asie — Wikipédia",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "theme::puissance",
+    "chapitre::4.2.1"
+   ],
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Logiques territoriales des États",
+   "question": "Selon le géographe Michel Bruneau, quels modèles d'État coexistent en Asie ? (3)",
+   "reponse": "Bruneau distingue trois logiques territoriales : l'<span class=\"hl pol\">empire homogénéisant</span> chinois, le <span class=\"hl conc\">mandala polycentrique</span> indien et les <span class=\"hl act\">cités-États marchandes</span> du littoral.",
+   "puces": [
+    "<li class=\"pol\"><b>Chine 🇨🇳</b> → un centre qui unifie et homogénéise son territoire</li>",
+    "<li class=\"conc\"><b>Inde 🇮🇳</b> → un ensemble polycentrique aux pouvoirs emboîtés (État-mandala)</li>",
+    "<li class=\"act\"><b>Cités-États</b> → comptoirs et thalassocraties littorales : Singapour, Brunei</li>"
+   ],
+   "source_url": "https://journals.openedition.org/lhomme/20932",
+   "source_titre": "Compte rendu de M. Bruneau, L'Asie d'entre Inde et Chine (2006) — L'Homme, OpenEdition",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "auteur::Bruneau",
+    "theme::puissance",
+    "chapitre::4.2.1"
+   ],
+   "saisie": "Bruneau",
+   "saisie_consigne": "Nom du géographe de « L'Asie d'entre Inde et Chine » (2006) ?",
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Asie, acteur unifié ?",
+   "question": "L'Asie peut-elle agir comme un acteur géopolitique unique ?",
+   "reponse": "<span class=\"hl risk\">Non</span> : ses limites sont floues et ses <span class=\"hl enj\">rivalités internes</span> l'emportent sur toute <span class=\"hl inst\">unité régionale</span>.",
+   "puces": [
+    "<li class=\"enj\"><b>Limites floues</b> → Eurasie, Asie-Pacifique ou Indopacifique : aucun découpage ne s'impose</li>",
+    "<li class=\"pol\"><b>Géants rivaux</b> → Chine 🇨🇳, Inde 🇮🇳 et Japon 🇯🇵 défendent des intérêts concurrents</li>",
+    "<li class=\"inst\"><b>Institutions faibles</b> → l'ASEAN décide au consensus, sans leader ni supranationalité</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Asie",
+   "source_titre": "Asie — Wikipédia",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "theme::puissance",
+    "chapitre::4.2.1"
+   ],
+   "visuel": {
+    "type": "balance",
+    "pivot": "L'Asie, acteur unifié ?",
+    "penche": "droite",
+    "gauche": {
+     "titre": "Facteurs d'unité",
+     "cat": "inst",
+     "items": [
+      "ASEAN, APEC, RCEP",
+      "Interdépendances commerciales"
+     ]
+    },
+    "droite": {
+     "titre": "Facteurs de division",
+     "cat": "risk",
+     "items": [
+      "Rivalité Chine-Inde",
+      "Contentieux Chine-Japon",
+      "Frontières contestées",
+      "Présence américaine"
+     ]
+    }
+   },
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Tensions plutôt qu'unité",
+   "question": "Quels facteurs font de l'Asie un espace de tensions ? (3)",
+   "reponse": "Des <span class=\"hl risk\">rivalités de puissances</span>, des <span class=\"hl inst\">structures régionales faibles</span> et l'intervention d'<span class=\"hl act\">acteurs extérieurs</span>.",
+   "puces": [
+    "<li class=\"risk\"><b>Rivalités</b> → Chine 🇨🇳 contre Inde 🇮🇳 (Himalaya), Chine contre Japon 🇯🇵 (mers, mémoire)</li>",
+    "<li class=\"inst\"><b>Faiblesse régionale</b> → l'ASEAN n'a pas de véritable leadership</li>",
+    "<li class=\"act\"><b>Acteurs extérieurs</b> → États-Unis 🇺🇸, Russie 🇷🇺, Europe 🇪🇺</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Asie",
+   "source_titre": "Asie — Wikipédia",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "theme::puissance",
+    "chapitre::4.2.1"
+   ],
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Japon, modernisateur à part",
+   "question": "Quelle place le Japon occupe-t-il dans l'histoire moderne de l'Asie ? (3)",
+   "reponse": "Premier État asiatique <span class=\"hl eco\">modernisé</span> sur le modèle occidental, le Japon s'est longtemps <span class=\"hl pol\">pensé à part</span> de l'Asie avant de la <span class=\"hl risk\">coloniser</span>.",
+   "puces": [
+    "<li class=\"date\"><b>Ère Meiji</b> → à partir de 1868, industrialisation et armée modernes</li>",
+    "<li class=\"pol\"><b>« Quitter l'Asie »</b> → volonté de se démarquer de ses voisins jugés arriérés</li>",
+    "<li class=\"eco\"><b>Puissance</b> → 4e économie mondiale en 2026 selon le FMI, devant l'Inde de peu</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/%C3%88re_Meiji",
+   "source_titre": "Ère Meiji — Wikipédia",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "acteur::Japon",
+    "chapitre::4.2.1"
+   ],
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Chine, acteur incontournable",
+   "question": "Qu'est-ce qui rend la Chine incontournable en Asie ? (3)",
+   "reponse": "Son <span class=\"hl eco\">poids économique</span>, son <span class=\"hl soc\">rayonnement culturel</span> millénaire et sa <span class=\"hl pol\">puissance politique</span> depuis 1949.",
+   "puces": [
+    "<li class=\"eco\"><b>2e PIB mondial</b> → ≈ 20 900 Md$ en 2026 (FMI)</li>",
+    "<li class=\"soc\"><b>Monde sinisé</b> → écriture, confucianisme et bouddhisme diffusés en Corée, au Japon, au Vietnam</li>",
+    "<li class=\"pol\"><b>RPC</b> → puissance nucléaire et membre permanent du Conseil de sécurité</li>"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)",
+   "source_titre": "List of countries by GDP (nominal) — Wikipédia (en), FMI",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "acteur::Chine",
+    "chapitre::4.2.1"
+   ],
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Grands traits physiques de l'Asie",
+   "question": "Quels éléments physiques structurent l'Asie ? (3)",
+   "reponse": "Un <span class=\"hl res\">château d’eau</span> central, l'Himalaya, d'où partent de <span class=\"hl res\">grands fleuves</span> qui irriguent les <span class=\"hl env\">plaines rizicoles</span>.",
+   "puces": [
+    "<li class=\"res\"><b>Himalaya</b> → ≈ 2 400 km de long, plus hauts sommets du monde</li>",
+    "<li class=\"res\"><b>Fleuves</b> → Yangzi, Mékong, Gange, Brahmapoutre, Indus naissent du plateau tibétain</li>",
+    "<li class=\"env\"><b>Riziculture</b> → les deltas et vallées concentrent les hommes</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Himalaya",
+   "source_titre": "Himalaya — Wikipédia",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "theme::climat",
+    "chapitre::4.2.1 I.A"
+   ],
+   "piege": "Brahmapoutre ≠ « Brahmapouka » : le fleuve traverse le Tibet, l'Inde (Assam) et le Bangladesh.",
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Himalaya, barrière",
+   "question": "Quels rôles l'Himalaya joue-t-il pour l'Asie ? (3)",
+   "reponse": "C'est une <span class=\"hl enj\">barrière géographique</span> entre mondes chinois et indien, une <span class=\"hl env\">barrière climatique</span> et une <span class=\"hl risk\">frontière disputée</span>.",
+   "puces": [
+    "<li class=\"enj\"><b>Séparation</b> → monde chinois au nord, sous-continent indien au sud</li>",
+    "<li class=\"env\"><b>Climat</b> → bloque l'air froid du nord et retient les pluies de mousson</li>",
+    "<li class=\"pol\"><b>États himalayens</b> → Népal 🇳🇵 et Bhoutan 🇧🇹, coincés entre Chine et Inde</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Himalaya",
+   "source_titre": "Himalaya — Wikipédia",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "theme::climat",
+    "chapitre::4.2.1 I.A"
+   ],
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Népal et Bhoutan",
+   "question": "Quels États himalayens sont repérés par ① et ② ?",
+   "reponse": "① le <span class=\"hl act\">Népal 🇳🇵</span> (capitale Katmandou), ② le <span class=\"hl act\">Bhoutan 🇧🇹</span> (Thimphou) : deux États tampons entre Chine et Inde.",
+   "puces": [
+    "<li class=\"enj\"><b>États tampons</b> → dépendants de l'Inde, courtisés par la Chine</li>",
+    "<li class=\"risk\"><b>Doklam</b> → plateau revendiqué par le Bhoutan et la Chine, crise sino-indienne en 2017</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Himalaya",
+   "source_titre": "Himalaya — Wikipédia",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "localisation",
+    "acteur::Népal",
+    "chapitre::4.2.1 I.A"
+   ],
+   "visuel_recto": {
+    "type": "carte",
+    "fond": "inde_pakistan",
+    "muette": true,
+    "points": [
+     {
+      "lon": 85.3,
+      "lat": 27.7,
+      "label": "Katmandou",
+      "cat": "act"
+     },
+     {
+      "lon": 89.6,
+      "lat": 27.5,
+      "label": "Thimphou",
+      "cat": "act"
+     }
+    ]
+   },
+   "visuel": {
+    "type": "carte",
+    "fond": "inde_pakistan",
+    "points": [
+     {
+      "lon": 85.3,
+      "lat": 27.7,
+      "label": "Népal (Katmandou)",
+      "cat": "act"
+     },
+     {
+      "lon": 89.6,
+      "lat": 27.5,
+      "label": "Bhoutan (Thimphou)",
+      "cat": "act"
+     }
+    ]
+   },
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Climats d'Asie",
+   "question": "Quels grands types de climat l'Asie présente-t-elle ? (3)",
+   "reponse": "Du <span class=\"hl env\">froid continental</span> au nord aux climats de <span class=\"hl env\">mousson</span> au sud et à l'est, exposés aux <span class=\"hl risk\">typhons</span>.",
+   "puces": [
+    "<li class=\"env\"><b>Nord</b> → climats froids et subpolaires (Sibérie, Mongolie)</li>",
+    "<li class=\"env\"><b>Mousson</b> → saison des pluies d'été vitale pour le riz, perturbée par le réchauffement</li>",
+    "<li class=\"risk\"><b>Cyclones et typhons</b> → Bangladesh, Philippines, Chine du Sud</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Mousson",
+   "source_titre": "Mousson — Wikipédia",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "theme::climat",
+    "chapitre::4.2.1 I.A"
+   ],
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Risques sismiques et volcaniques",
+   "question": "D'où viennent les risques telluriques de l'Asie ? (2)",
+   "reponse": "De la <span class=\"hl risk\">collision</span> des plaques indienne et eurasienne, et de la <span class=\"hl risk\">ceinture de feu</span> du Pacifique.",
+   "puces": [
+    "<li class=\"risk\"><b>Himalaya</b> → chaîne encore en surrection : séismes au Népal, au Pakistan, en Chine</li>",
+    "<li class=\"risk\"><b>Ceinture de feu</b> → volcans d'Indonésie et des Philippines : Krakatoa (1883), Pinatubo (1991)</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Ceinture_de_feu_du_Pacifique",
+   "source_titre": "Ceinture de feu du Pacifique — Wikipédia",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "theme::climat",
+    "chapitre::4.2.1 I.A"
+   ],
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "B",
+   "ancre": "Séisme du Népal",
+   "question": "Combien de morts le grand séisme de Gorkha a-t-il fait au Népal ?",
+   "reponse": "Près de <span class=\"hl risk\">9 000 morts</span> (8 857 au Népal) lors d'un séisme de magnitude <span class=\"hl risk\">7,8</span>.",
+   "puces": [
+    "<li class=\"soc\"><b>Sinistrés</b> → ≈ 3,5 millions de personnes sans abri</li>",
+    "<li class=\"res\"><b>Patrimoine</b> → temples de la vallée de Katmandou (UNESCO) détruits</li>"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/April_2015_Nepal_earthquake",
+   "source_titre": "April 2015 Nepal earthquake — Wikipédia (en)",
+   "tags": [
+    "type::B",
+    "region::Asie",
+    "acteur::Népal",
+    "theme::climat",
+    "chapitre::4.2.1 I.A"
+   ],
+   "date": "25 avril 2015",
+   "estimation": {
+    "valeur": 8857,
+    "min": 1000,
+    "max": 300000,
+    "unite": "morts",
+    "echelle": "log",
+    "tolerance": 20
+   },
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "trous",
+   "ancre": "Yangzi Jiang",
+   "texte": "Le Yangzi, plus long fleuve d'Asie (≈ {{c1::6 300 km}}), se jette dans la mer de Chine orientale à {{c2::Shanghai}} ; il porte le barrage des {{c3::Trois-Gorges}}.",
+   "source_url": "https://fr.wikipedia.org/wiki/Yangzi_Jiang",
+   "source_titre": "Yangzi Jiang — Wikipédia",
+   "tags": [
+    "type::trous",
+    "region::Asie",
+    "acteur::Chine",
+    "chapitre::4.2.1 I.A"
+   ],
+   "extra": "Axe du riz, de l'hydroélectricité et du commerce intérieur chinois (Nankin, Wuhan, Chongqing).",
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Mékong, amont contre aval",
+   "question": "Quel rapport de force se joue sur le Mékong ?",
+   "reponse": "La Chine 🇨🇳, en <span class=\"hl pol\">amont</span>, multiplie les <span class=\"hl res\">barrages</span> dont dépendent les pays d'<span class=\"hl risk\">aval</span> pour l'eau, la pêche et le riz.",
+   "puces": [
+    "<li class=\"act\"><b>Six riverains</b> → Chine, Birmanie, Laos, Thaïlande, Cambodge, Vietnam</li>",
+    "<li class=\"inst\"><b>Coopérations rivales</b> → Commission du Mékong (1995, sans la Chine) et Lancang-Mékong (2016, pilotée par Pékin)</li>",
+    "<li class=\"env\"><b>Delta vietnamien</b> → ≈ 43 000 km², ≈ 19 M d'habitants, plus de la moitié du riz du Vietnam</li>"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Mekong_Delta",
+   "source_titre": "Mekong Delta — Wikipédia (en)",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "acteur::Chine",
+    "acteur::Vietnam",
+    "theme::climat",
+    "chapitre::4.2.1 I.A"
+   ],
+   "visuel": {
+    "type": "reseau",
+    "centre": "cn",
+    "acteurs": [
+     {
+      "id": "cn",
+      "label": "Chine (amont)",
+      "cat": "pol"
+     },
+     {
+      "id": "la",
+      "label": "Laos",
+      "cat": "act"
+     },
+     {
+      "id": "th",
+      "label": "Thaïlande",
+      "cat": "act"
+     },
+     {
+      "id": "kh",
+      "label": "Cambodge",
+      "cat": "act"
+     },
+     {
+      "id": "vn",
+      "label": "Vietnam (delta)",
+      "cat": "act"
+     }
+    ],
+    "liens": [
+     {
+      "de": "la",
+      "a": "cn",
+      "type": "dependance",
+      "label": "prêts, barrages"
+     },
+     {
+      "de": "kh",
+      "a": "cn",
+      "type": "dependance"
+     },
+     {
+      "de": "vn",
+      "a": "cn",
+      "type": "rivalite",
+      "label": "débit"
+     },
+     {
+      "de": "th",
+      "a": "la",
+      "type": "cooperation",
+      "label": "électricité"
+     }
+    ]
+   },
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Gange et Brahmapoutre",
+   "question": "Pourquoi le bassin Gange-Brahmapoutre est-il vital ? (2)",
+   "reponse": "Ce bassin d'≈ <span class=\"hl res\">1,7 million de km²</span> nourrit le <span class=\"hl soc\">cœur peuplé</span> du sous-continent indien.",
+   "puces": [
+    "<li class=\"env\"><b>Agriculture</b> → plaines alluviales du riz et du blé, de l'Inde du Nord au Bangladesh</li>",
+    "<li class=\"risk\"><b>Fragilité</b> → crues, pollution du Gange, barrages chinois en amont du Brahmapoutre</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Gange",
+   "source_titre": "Gange — Wikipédia",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "acteur::Inde",
+    "acteur::Bangladesh",
+    "chapitre::4.2.1 I.A"
+   ],
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Exploiter les fleuves",
+   "question": "Quelles ressources et quels problèmes naissent de l'exploitation des fleuves ? (2)",
+   "reponse": "Les fleuves offrent <span class=\"hl res\">eau, énergie et terres</span>, mais leur exploitation <span class=\"hl env\">dégrade</span> les milieux.",
+   "puces": [
+    "<li class=\"res\"><b>Ressources</b> → barrages, canaux, pêche, hydroélectricité, terres fertiles</li>",
+    "<li class=\"env\"><b>Dégradations</b> → pesticides, urbanisation des berges, déforestation, sédiments bloqués</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Barrage_des_Trois-Gorges",
+   "source_titre": "Barrage des Trois-Gorges — Wikipédia",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "theme::climat",
+    "chapitre::4.2.1 I.A"
+   ],
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Deux rizicultures",
+   "question": "Quelles sont les deux grandes formes de riziculture asiatique ? (2)",
+   "reponse": "La riziculture <span class=\"hl env\">inondée</span>, qui suit les crues naturelles, et la riziculture <span class=\"hl instr\">irriguée</span>, où l'homme maîtrise l'eau.",
+   "puces": [
+    "<li class=\"env\"><b>Inondée</b> → dépend de la pluie et des crues, rendements aléatoires</li>",
+    "<li class=\"instr\"><b>Irriguée</b> → canaux, digues, réservoirs : plusieurs récoltes par an</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Riziculture",
+   "source_titre": "Riziculture — Wikipédia",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "theme::climat",
+    "chapitre::4.2.1 I.A"
+   ],
+   "lien": "Gourou, Riz et civilisation (1984) · desakota",
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Révolution verte",
+   "question": "Qu'a changé la révolution verte dans les campagnes asiatiques ? (2)",
+   "reponse": "Semences à haut rendement, engrais et irrigation ont fait <span class=\"hl eco\">bondir les rendements</span>, au prix d'un <span class=\"hl soc\">exode rural</span> et de <span class=\"hl env\">sols épuisés</span>.",
+   "puces": [
+    "<li class=\"eco\"><b>Rendements</b> → variétés hybrides à partir des années 1960 (Inde, Philippines)</li>",
+    "<li class=\"soc\"><b>Exode rural</b> → vers les grandes villes, ex. Dacca au Bangladesh</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/R%C3%A9volution_verte",
+   "source_titre": "Révolution verte — Wikipédia",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "theme::climat",
+    "chapitre::4.2.1 I.A"
+   ],
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Atouts énergétiques",
+   "question": "Quels sont les atouts et les dépendances énergétiques de l'Asie ? (3)",
+   "reponse": "L'Asie a des <span class=\"hl res\">hydrocarbures</span> et mène la <span class=\"hl env\">transition</span>, mais reste <span class=\"hl risk\">dépendante du charbon</span>.",
+   "puces": [
+    "<li class=\"res\"><b>Producteurs</b> → Kazakhstan 🇰🇿, Indonésie 🇮🇩, Malaisie 🇲🇾, Chine 🇨🇳</li>",
+    "<li class=\"env\"><b>Renouvelables</b> → la Chine 🇨🇳 est 1re pour le solaire et l'éolien installés</li>",
+    "<li class=\"risk\"><b>Charbon</b> → Chine 🇨🇳 et Inde 🇮🇳, premiers consommateurs mondiaux</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/%C3%89nergie_en_Chine",
+   "source_titre": "Énergie en Chine — Wikipédia",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "theme::energie",
+    "chapitre::4.2.1 I.A"
+   ],
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Chine, premier émetteur",
+   "question": "Quelle part des émissions mondiales de CO2 la Chine représente-t-elle ?",
+   "reponse": "Environ <span class=\"hl risk\">35 %</span> des émissions mondiales de CO2 en 2023 selon l'<span class=\"hl inst\">AIE</span>.",
+   "puces": [
+    "<li class=\"env\"><b>Classement</b> → Chine 🇨🇳 1re, États-Unis 🇺🇸 2e, Inde 🇮🇳 3e</li>",
+    "<li class=\"risk\"><b>Pollution</b> → smog urbain, charbon encore dominant dans l'électricité</li>"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Greenhouse_gas_emissions_by_China",
+   "source_titre": "Greenhouse gas emissions by China — Wikipédia (en), AIE",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "acteur::Chine",
+    "theme::climat",
+    "chapitre::4.2.1 I.A"
+   ],
+   "estimation": {
+    "valeur": 35,
+    "min": 5,
+    "max": 90,
+    "unite": "%",
+    "tolerance": 15
+   },
+   "piege": "35 % du CO2 mondial, pas 58 % : ce chiffre du cours est à corriger.",
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Sinisation",
+   "question": "Que désigne la sinisation ?",
+   "reponse": "L'<span class=\"hl soc\">acculturation</span> de populations non chinoises à la langue et à la culture <span class=\"hl act\">han</span>, souvent imposée par l'<span class=\"hl pol\">État</span>.",
+   "puces": [
+    "<li class=\"act\"><b>Exemples</b> → Ouïghours du Xinjiang, Tibétains, Mongols de Mongolie-Intérieure</li>",
+    "<li class=\"pol\"><b>Moyens</b> → école en mandarin, migrations han, contrôle des pratiques religieuses</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Sinisation",
+   "source_titre": "Sinisation — Wikipédia",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "acteur::Chine",
+    "theme::puissance",
+    "chapitre::4.2.1 I.B"
+   ],
+   "lien": "Ouïghours · Tibet · monde sinisé",
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Monde sinisé et monde indianisé",
+   "question": "Qu'est-ce qui distingue les deux grandes aires culturelles d'Asie ?",
+   "reponse": "Le <span class=\"hl act\">monde sinisé</span> hérite de l'écriture chinoise et du <span class=\"hl conc\">confucianisme</span> ; le <span class=\"hl act\">monde indianisé</span> de l'<span class=\"hl conc\">hindouisme</span> et du sanskrit.",
+   "puces": [
+    "<li class=\"act\"><b>Sinisé</b> → Chine, Corée, Japon, Vietnam</li>",
+    "<li class=\"act\"><b>Indianisé</b> → Inde, Népal, Sri Lanka, et historiquement l'Asie du Sud-Est (Angkor)</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Sinosph%C3%A8re",
+   "source_titre": "Sinosphère — Wikipédia",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "theme::puissance",
+    "chapitre::4.2.1 I.B"
+   ],
+   "visuel": {
+    "type": "tableau",
+    "colonnes": [
+     "",
+     "Monde sinisé",
+     "Monde indianisé"
+    ],
+    "cats": [
+     null,
+     "act",
+     "instr"
+    ],
+    "lignes": [
+     [
+      "Foyer",
+      "Chine",
+      "Inde"
+     ],
+     [
+      "Pensée",
+      "Confucianisme",
+      "Veda, hindouisme"
+     ],
+     [
+      "Écriture",
+      "Caractères chinois",
+      "Sanskrit, écritures brahmiques"
+     ],
+     [
+      "Diffusion",
+      "Corée, Japon, Vietnam",
+      "Népal, Sri Lanka, Angkor"
+     ]
+    ]
+   },
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Confucianisme",
+   "question": "Quelles valeurs le confucianisme diffuse-t-il dans le monde sinisé ? (3)",
+   "reponse": "Une morale de l'<span class=\"hl soc\">harmonie sociale</span> fondée sur la <span class=\"hl pol\">hiérarchie</span> et le respect des aînés.",
+   "puces": [
+    "<li class=\"date\"><b>Confucius</b> → VIe-Ve siècle av. J.-C.</li>",
+    "<li class=\"soc\"><b>Primauté du groupe</b> → le collectif passe avant l'individu</li>",
+    "<li class=\"pol\"><b>Piété filiale</b> → relation père-fils et fidélité au souverain comme modèles</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Confucianisme",
+   "source_titre": "Confucianisme — Wikipédia",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "acteur::Chine",
+    "chapitre::4.2.1 I.B"
+   ],
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Fondements du monde indianisé",
+   "question": "Sur quels fondements repose le monde indianisé ? (3)",
+   "reponse": "Sur les textes <span class=\"hl conc\">védiques</span>, les religions nées en Inde et la langue <span class=\"hl act\">sanskrite</span>.",
+   "puces": [
+    "<li class=\"date\"><b>Veda</b> → textes fondateurs composés à partir du IIe millénaire av. J.-C.</li>",
+    "<li class=\"conc\"><b>Religions</b> → hindouisme, bouddhisme, jaïnisme (non-violence absolue, ahimsa)</li>",
+    "<li class=\"act\"><b>Sanskrit</b> → langue sacrée et savante, diffusée jusqu'à Angkor et Java</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Veda",
+   "source_titre": "Veda — Wikipédia",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "acteur::Inde",
+    "chapitre::4.2.1 I.B"
+   ],
+   "piege": "Jaïnisme ≠ animisme : c'est une religion indienne de la non-violence (Mahavira).",
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Système des castes",
+   "question": "Comment la société est-elle hiérarchisée dans le monde indien traditionnel ? (3)",
+   "reponse": "En quatre <span class=\"hl soc\">varnas</span> hiérarchisés, avec en dehors les <span class=\"hl risk\">intouchables</span>, discriminés malgré leur <span class=\"hl pol\">abolition légale</span>.",
+   "puces": [
+    "<li class=\"soc\"><b>Quatre varnas</b> → brahmanes (prêtres), kshatriyas (guerriers), vaishyas (marchands), shudras (serviteurs)</li>",
+    "<li class=\"risk\"><b>Dalits</b> → hors-castes, dits « intouchables »</li>",
+    "<li class=\"pol\"><b>Constitution de 1950</b> → l'intouchabilité est abolie (art. 17), quotas de discrimination positive</li>"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Caste_system_in_India",
+   "source_titre": "Caste system in India — Wikipédia (en)",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "acteur::Inde",
+    "chapitre::4.2.1 I.B"
+   ],
+   "memo": "Du sommet à la base : Prêtre, Guerrier, Marchand, Serviteur.",
+   "saisie": "Dalits;Dalit",
+   "saisie_consigne": "Nom que se donnent les « intouchables » ?",
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Hindouisme",
+   "question": "Où se concentrent les fidèles de l'hindouisme ? (2)",
+   "reponse": "Sur environ <span class=\"hl soc\">1,2 milliard</span> d'hindous, <span class=\"hl act\">94 %</span> vivent en Inde 🇮🇳.",
+   "puces": [
+    "<li class=\"act\"><b>Népal 🇳🇵</b> → pays le plus hindou en proportion (≈ 81 %)</li>",
+    "<li class=\"act\"><b>Minorités</b> → Tamouls du Sri Lanka 🇱🇰 (≈ 12,6 %), Bali en Indonésie</li>"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Hinduism_by_country",
+   "source_titre": "Hinduism by country — Wikipédia (en)",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "acteur::Inde",
+    "chapitre::4.2.1 I.B"
+   ],
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Islam en Asie",
+   "question": "Où vivent les principales populations musulmanes d'Asie ? (3)",
+   "reponse": "L'<span class=\"hl act\">Indonésie 🇮🇩</span> est le premier pays musulman du monde ; le reste se concentre en <span class=\"hl act\">Asie du Sud</span> et en Asie centrale.",
+   "puces": [
+    "<li class=\"act\"><b>Asie du Sud</b> → Pakistan 🇵🇰, Bangladesh 🇧🇩 et plus de 200 M de musulmans en Inde 🇮🇳</li>",
+    "<li class=\"act\"><b>Asie du Sud-Est</b> → Malaisie 🇲🇾, Brunei 🇧🇳, sud des Philippines</li>",
+    "<li class=\"act\"><b>Asie centrale</b> → Kazakhstan 🇰🇿, Ouzbékistan 🇺🇿, Tadjikistan 🇹🇯, Kirghizistan 🇰🇬</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Islam_en_Indon%C3%A9sie",
+   "source_titre": "Islam en Indonésie — Wikipédia",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "acteur::Indonésie",
+    "chapitre::4.2.1 I.B"
+   ],
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Bouddhisme",
+   "question": "Quelles sont les deux grandes branches du bouddhisme en Asie ? (2)",
+   "reponse": "Le <span class=\"hl conc\">theravada</span> en Asie du Sud et du Sud-Est, le <span class=\"hl conc\">mahayana</span> en Asie orientale.",
+   "puces": [
+    "<li class=\"act\"><b>Theravada</b> → Sri Lanka 🇱🇰, Thaïlande 🇹🇭, Birmanie 🇲🇲, Cambodge 🇰🇭</li>",
+    "<li class=\"act\"><b>Mahayana</b> → Chine 🇨🇳, Japon 🇯🇵, Corée 🇰🇷, Vietnam 🇻🇳 ; Tibet (Vajrayana)</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Bouddhisme",
+   "source_titre": "Bouddhisme — Wikipédia",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "chapitre::4.2.1 I.B"
+   ],
+   "piege": "Né en Inde, le bouddhisme y est aujourd'hui très minoritaire.",
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Sikhisme",
+   "question": "Qu'est-ce que le sikhisme ? (2)",
+   "reponse": "Une religion <span class=\"hl conc\">monothéiste</span> fondée par <span class=\"hl act\">Guru Nanak</span> au Pendjab vers 1500.",
+   "puces": [
+    "<li class=\"soc\"><b>Fidèles</b> → environ 25 à 30 millions, surtout au Pendjab indien</li>",
+    "<li class=\"res\"><b>Temple d'or</b> → Amritsar, lieu saint ; assaut de l'armée indienne en 1984</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Sikhisme",
+   "source_titre": "Sikhisme — Wikipédia",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "acteur::Inde",
+    "chapitre::4.2.1 I.B"
+   ],
+   "saisie": "Nanak;Guru Nanak",
+   "saisie_consigne": "Nom du fondateur du sikhisme (sans « Guru ») ?",
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Christianisme en Asie",
+   "question": "Où trouve-t-on les principales communautés chrétiennes d'Asie ? (3)",
+   "reponse": "Surtout aux <span class=\"hl act\">Philippines 🇵🇭</span>, héritage espagnol, en <span class=\"hl act\">Corée du Sud 🇰🇷</span> et en Chine 🇨🇳.",
+   "puces": [
+    "<li class=\"act\"><b>Philippines</b> → très majoritairement catholiques (≈ 80 %)</li>",
+    "<li class=\"act\"><b>Timor oriental 🇹🇱</b> → catholique à plus de 95 %, héritage portugais</li>",
+    "<li class=\"pol\"><b>Chine</b> → plusieurs dizaines de millions de fidèles, sous contrôle de l'État</li>"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Christianity_in_Asia",
+   "source_titre": "Christianity in Asia — Wikipédia (en)",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "chapitre::4.2.1 I.B"
+   ],
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Écriture du vietnamien",
+   "question": "Quelle écriture le Vietnam utilise-t-il et d'où vient-elle ? (2)",
+   "reponse": "L'<span class=\"hl act\">alphabet latin</span> (quốc ngữ), mis au point par des <span class=\"hl act\">missionnaires</span> et généralisé au XXe siècle à la place des caractères chinois.",
+   "puces": [
+    "<li class=\"date\"><b>XVIIe siècle</b> → romanisation par les jésuites (Alexandre de Rhodes)</li>",
+    "<li class=\"pol\"><b>Généralisation</b> → imposé par l'administration coloniale, puis officialisé par le Viêt Minh en 1945</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Qu%E1%BB%91c_ng%E1%BB%AF",
+   "source_titre": "Quốc ngữ — Wikipédia",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "acteur::Vietnam",
+    "chapitre::4.2.1 I.B"
+   ],
+   "saisie": "quoc ngu;quốc ngữ",
+   "saisie_consigne": "Nom de l'écriture romanisée du vietnamien ?",
+   "piege": "Le cours date l'adoption de 1954 : l'officialisation remonte à 1945, la fin des caractères chinois à 1919.",
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "trous",
+   "ancre": "Inde et Chine, populations",
+   "texte": "En 2024, l'Inde compte ≈ {{c1::1,45 milliard}} d'habitants et la Chine ≈ {{c2::1,41 milliard}} : l'Inde est devenue le pays le plus peuplé du monde en {{c3::2023}}.",
+   "source_url": "https://en.wikipedia.org/wiki/List_of_countries_by_population_(United_Nations)",
+   "source_titre": "List of countries by population (UN) — Wikipédia (en), WPP 2024",
+   "tags": [
+    "type::trous",
+    "region::Asie",
+    "acteur::Inde",
+    "acteur::Chine",
+    "chapitre::4.2.1 I.C"
+   ],
+   "extra": "La population chinoise baisse depuis 2022.",
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Poids démographique de l'Asie",
+   "question": "Quelle part de l'humanité vit en Asie ?",
+   "reponse": "Près de <span class=\"hl soc\">60 %</span> de la population mondiale, soit environ <span class=\"hl soc\">4,8 milliards</span> d'habitants.",
+   "puces": [
+    "<li class=\"soc\"><b>Foyers</b> → littoraux de la Chine de l'Est, plaine du Gange, Java, delta du Bengale</li>",
+    "<li class=\"env\"><b>Vides</b> → déserts d'Asie centrale, Tibet, Sibérie</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/D%C3%A9mographie_de_l'Asie",
+   "source_titre": "Démographie de l'Asie — Wikipédia",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "chapitre::4.2.1 I.C"
+   ],
+   "_sans_n": true,
+   "estimation": {
+    "valeur": 59,
+    "min": 20,
+    "max": 85,
+    "unite": "%",
+    "tolerance": 8
+   },
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Records de densité",
+   "question": "Où l'Asie atteint-elle des densités record ? (3)",
+   "reponse": "Dans les <span class=\"hl act\">cités-États</span> et les <span class=\"hl env\">deltas rizicoles</span>.",
+   "puces": [
+    "<li class=\"act\"><b>Singapour 🇸🇬</b> → ≈ 8 000 hab/km², ville verticale et 2e port mondial</li>",
+    "<li class=\"env\"><b>Bangladesh 🇧🇩</b> → ≈ 1 300 hab/km², le grand pays le plus dense du monde</li>",
+    "<li class=\"env\"><b>Kerala 🇮🇳</b> → ≈ 860 hab/km² (recensement 2011)</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Liste_des_pays_par_densit%C3%A9_de_population",
+   "source_titre": "Liste des pays par densité de population — Wikipédia",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "chapitre::4.2.1 I.C"
+   ],
+   "piege": "Kerala ≈ 860 hab/km², pas 2 400 ; Singapour compte ≈ 6 M d'habitants, pas 8 M.",
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Desakota",
+   "question": "Que désigne la notion de desakota ?",
+   "reponse": "Des espaces <span class=\"hl soc\">densément peuplés</span> où se mêlent <span class=\"hl env\">agriculture</span> et activités <span class=\"hl eco\">urbaines</span>, typiques de l'Asie des deltas.",
+   "puces": [
+    "<li class=\"act\"><b>Terry McGee</b> → géographe qui forge la notion en 1991</li>",
+    "<li class=\"soc\"><b>Mobilités</b> → navettes quotidiennes entre rizières, usines et villes (Java, delta du Mékong)</li>"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Desakota",
+   "source_titre": "Desakota — Wikipédia (en)",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "auteur::McGee",
+    "chapitre::4.2.1 I.C"
+   ],
+   "decomposition": {
+    "terme": "desakota",
+    "parties": [
+     {
+      "lettres": "desa",
+      "sens": "village",
+      "langue": "indonésien",
+      "cat": "env"
+     },
+     {
+      "lettres": "kota",
+      "sens": "ville",
+      "langue": "indonésien",
+      "cat": "eco"
+     }
+    ]
+   },
+   "saisie": "desakota",
+   "saisie_consigne": "Mot indonésien désignant les espaces mi-ruraux mi-urbains ?",
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Vieillissement du Japon",
+   "question": "Quelle part de la population japonaise a 65 ans ou plus ?",
+   "reponse": "Environ <span class=\"hl soc\">29 %</span> : le Japon est le pays le plus <span class=\"hl risk\">âgé</span> du monde et perd ≈ <span class=\"hl soc\">900 000</span> nationaux par an.",
+   "puces": [
+    "<li class=\"risk\"><b>Déclin</b> → baisse continue depuis le pic de 2008 (128 M)</li>",
+    "<li class=\"eco\"><b>Réponses</b> → robotisation, travail des seniors, immigration encore limitée</li>"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Aging_of_Japan",
+   "source_titre": "Aging of Japan — Wikipédia (en)",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "acteur::Japon",
+    "chapitre::4.2.1 I.C"
+   ],
+   "estimation": {
+    "valeur": 29,
+    "min": 5,
+    "max": 75,
+    "unite": "%",
+    "tolerance": 12
+   },
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Transition démographique",
+   "question": "Comment évolue la fécondité en Asie ? (2)",
+   "reponse": "Elle <span class=\"hl soc\">baisse</span> avec le développement : l'Asie de l'Est vieillit tandis que quelques pays restent <span class=\"hl risk\">très jeunes</span>.",
+   "puces": [
+    "<li class=\"soc\"><b>Est asiatique</b> → Corée du Sud, Japon, Chine : fécondité très inférieure à 2</li>",
+    "<li class=\"risk\"><b>Exceptions</b> → Afghanistan 🇦🇫 et Pakistan 🇵🇰 gardent une forte croissance</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Transition_d%C3%A9mographique",
+   "source_titre": "Transition démographique — Wikipédia",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "chapitre::4.2.1 I.C"
+   ],
+   "piege": "Le Bhoutan, cité par le cours, a au contraire une fécondité faible.",
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "B",
+   "ancre": "Politique de l'enfant unique",
+   "question": "Comment la politique démographique chinoise a-t-elle évolué ? (3)",
+   "reponse": "D'une <span class=\"hl pol\">limitation autoritaire</span> à un seul enfant à une politique <span class=\"hl soc\">nataliste</span> face au vieillissement.",
+   "puces": [
+    "<li class=\"pol\"><b>Enfant unique</b> → amendes et stérilisations pour freiner la croissance</li>",
+    "<li class=\"soc\"><b>Assouplissements</b> → deux enfants (2016), trois enfants (2021)</li>",
+    "<li class=\"risk\"><b>Héritage</b> → déséquilibre des sexes et population en baisse depuis 2022</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Politique_de_l'enfant_unique",
+   "source_titre": "Politique de l'enfant unique — Wikipédia",
+   "tags": [
+    "type::B",
+    "region::Asie",
+    "acteur::Chine",
+    "chapitre::4.2.1 I.C"
+   ],
+   "date": "1979-2015",
+   "visuel": {
+    "type": "frise",
+    "jalons": [
+     {
+      "date": "1979",
+      "label": "Enfant unique",
+      "cat": "pol"
+     },
+     {
+      "date": "2016",
+      "label": "Deux enfants",
+      "cat": "soc"
+     },
+     {
+      "date": "2021",
+      "label": "Trois enfants",
+      "cat": "soc"
+     },
+     {
+      "date": "2022",
+      "label": "Population en baisse",
+      "cat": "risk"
+     }
+    ]
+   },
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Politique démographique indienne",
+   "question": "Comment l'Inde a-t-elle tenté de maîtriser sa natalité ? (2)",
+   "reponse": "Par un <span class=\"hl pol\">planning familial</span> précoce, marqué par les <span class=\"hl risk\">stérilisations forcées</span> de 1975-1977.",
+   "puces": [
+    "<li class=\"pol\"><b>1952</b> → premier programme national de planning familial au monde</li>",
+    "<li class=\"risk\"><b>État d'urgence</b> → sous Indira Gandhi, millions de stérilisations contraintes</li>"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Family_planning_in_India",
+   "source_titre": "Family planning in India — Wikipédia (en)",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "acteur::Inde",
+    "chapitre::4.2.1 I.C"
+   ],
+   "piege": "Plus incitative que la Chine, l'Inde n'a jamais imposé de quota national d'enfants.",
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Taux d'urbanisation",
+   "question": "Comment l'urbanisation varie-t-elle d'un pays d'Asie à l'autre ?",
+   "reponse": "Des pays <span class=\"hl eco\">presque entièrement urbains</span> côtoient des pays encore <span class=\"hl env\">majoritairement ruraux</span>.",
+   "puces": [
+    "<li class=\"eco\"><b>Japon</b> → 92 % d'urbains</li>",
+    "<li class=\"env\"><b>Inde, Népal</b> → 36 % et 22 %</li>"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Urbanization_by_sovereign_state",
+   "source_titre": "Urbanization by sovereign state — Wikipédia (en), données 2023",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "chapitre::4.2.1 I.C"
+   ],
+   "_sans_n": true,
+   "visuel": {
+    "type": "barres",
+    "unite": "%",
+    "barres": [
+     {
+      "label": "Japon",
+      "valeur": 92,
+      "cat": "eco",
+      "affiche": "92 %"
+     },
+     {
+      "label": "Chine",
+      "valeur": 64.6,
+      "cat": "eco",
+      "affiche": "65 %"
+     },
+     {
+      "label": "Philippines",
+      "valeur": 48.3,
+      "cat": "act",
+      "affiche": "48 %"
+     },
+     {
+      "label": "Inde",
+      "valeur": 36.4,
+      "cat": "env",
+      "affiche": "36 %"
+     },
+     {
+      "label": "Népal",
+      "valeur": 21.9,
+      "cat": "env",
+      "affiche": "22 %"
+     }
+    ],
+    "note": "population urbaine, 2023"
+   },
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Plus grandes villes du monde",
+   "question": "Quelles sont les trois plus grandes agglomérations du monde selon l'ONU (2025) ? (3)",
+   "reponse": "Trois villes <span class=\"hl act\">asiatiques</span> : <span class=\"hl act\">Jakarta</span>, Dacca et Tokyo ; 9 des 10 premières sont en Asie.",
+   "puces": [
+    "<li class=\"act\"><b>Jakarta 🇮🇩</b> → ≈ 42 M d'habitants, désormais 1re</li>",
+    "<li class=\"act\"><b>Dacca 🇧🇩</b> → ≈ 37 à 40 M</li>",
+    "<li class=\"act\"><b>Tokyo 🇯🇵</b> → ≈ 33 M, 1re en 2000, en recul</li>"
+   ],
+   "source_url": "https://www.un.org/en/desa/latest-urbanization-data-reveal-world%E2%80%99s-most-populous-cities",
+   "source_titre": "Latest urbanization data reveal world's most populous cities — ONU DESA (nov. 2025)",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "chapitre::4.2.1 I.C"
+   ],
+   "visuel": {
+    "type": "barres",
+    "unite": "M",
+    "barres": [
+     {
+      "label": "Jakarta",
+      "valeur": 41.9,
+      "cat": "act",
+      "affiche": "41,9 M"
+     },
+     {
+      "label": "Dacca",
+      "valeur": 36.6,
+      "cat": "act",
+      "affiche": "36,6 M"
+     },
+     {
+      "label": "Tokyo",
+      "valeur": 33.4,
+      "cat": "act",
+      "affiche": "33,4 M"
+     },
+     {
+      "label": "New Delhi",
+      "valeur": 30.2,
+      "cat": "act",
+      "affiche": "30,2 M"
+     },
+     {
+      "label": "Shanghai",
+      "valeur": 29.6,
+      "cat": "act",
+      "affiche": "29,6 M"
+     }
+    ],
+    "note": "ONU, World Urbanization Prospects 2025"
+   },
+   "piege": "Le classement 2025 change de méthode : Tokyo (40 M dans les anciens chiffres) passe 3e.",
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Mégalopole japonaise",
+   "question": "Qu'est-ce que la mégalopole japonaise ? (3)",
+   "reponse": "Un <span class=\"hl eco\">couloir urbain</span> continu de Tokyo à Fukuoka, relié par le <span class=\"hl res\">Shinkansen</span>.",
+   "puces": [
+    "<li class=\"eco\"><b>Taiheiyō</b> → ≈ 1 000 km le long du Pacifique, cœur productif du pays</li>",
+    "<li class=\"res\"><b>Shinkansen</b> → premier train à grande vitesse du monde (1964)</li>",
+    "<li class=\"enj\"><b>Prolongement</b> → peut s'étendre vers Busan 🇰🇷 de l'autre côté du détroit</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/M%C3%A9galopole_japonaise",
+   "source_titre": "Mégalopole japonaise — Wikipédia",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "acteur::Japon",
+    "chapitre::4.2.1 I.C"
+   ],
+   "saisie": "Shinkansen",
+   "saisie_consigne": "Nom du train à grande vitesse japonais ?",
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Chongqing, ville-province",
+   "question": "Que montre l'exemple de Chongqing ? (2)",
+   "reponse": "Une <span class=\"hl pol\">municipalité géante</span> créée par l'État pour <span class=\"hl eco\">développer l’Ouest</span> chinois.",
+   "puces": [
+    "<li class=\"soc\"><b>Population</b> → ≈ 32 M d'habitants (2020) sur 82 400 km²</li>",
+    "<li class=\"pol\"><b>1997</b> → détachée du Sichuan, rattachée directement à Pékin</li>"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Chongqing",
+   "source_titre": "Chongqing — Wikipédia (en)",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "acteur::Chine",
+    "chapitre::4.2.1 I.C"
+   ],
+   "piege": "Chongqing ≈ l'Autriche en surface : la plupart de ses habitants ne sont pas urbains.",
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Miracle sud-coréen",
+   "question": "Que montre la trajectoire de la Corée du Sud ? (2)",
+   "reponse": "Qu'un pays <span class=\"hl risk\">ruiné par la guerre</span> peut devenir une <span class=\"hl eco\">puissance industrielle</span> en une génération.",
+   "puces": [
+    "<li class=\"eco\"><b>Miracle du fleuve Han</b> → industrialisation dirigée par l'État et les chaebols (Samsung, Hyundai)</li>",
+    "<li class=\"eco\"><b>Aujourd'hui</b> → ≈ 37 400 $ de PIB par habitant (FMI, 2026)</li>"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Miracle_on_the_Han_River",
+   "source_titre": "Miracle on the Han River — Wikipédia (en)",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "acteur::Corée_du_Sud",
+    "chapitre::4.2.1 I.C"
+   ],
+   "saisie": "chaebols;chaebol",
+   "saisie_consigne": "Nom des conglomérats familiaux sud-coréens ?",
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "trous",
+   "ancre": "IDH de la Chine et de l'Inde",
+   "texte": "Selon le PNUD (RDH 2025), la Chine a un IDH de {{c1::0,797}} ({{c2::78e}} rang) et l'Inde de {{c1::0,685}} ({{c2::130e}} rang).",
+   "source_url": "https://en.wikipedia.org/wiki/List_of_countries_in_Asia_and_Oceania_by_Human_Development_Index",
+   "source_titre": "Asia and Oceania by HDI — Wikipédia (en), PNUD RDH 2025 (données 2023)",
+   "tags": [
+    "type::trous",
+    "region::Asie",
+    "acteur::Chine",
+    "acteur::Inde",
+    "chapitre::4.2.1 I.C"
+   ],
+   "extra": "Données 2023. L'Inde gagne trois places par rapport au rapport précédent.",
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Écarts de développement",
+   "question": "Quel écart de développement sépare les pays d'Asie ?",
+   "reponse": "Un écart <span class=\"hl risk\">immense</span> : de l'IDH de <span class=\"hl eco\">Singapour</span>, parmi les plus élevés du monde, à celui de l'<span class=\"hl risk\">Afghanistan</span>.",
+   "puces": [
+    "<li class=\"eco\"><b>Sommet</b> → Singapour 0,946 (13e), Japon 0,925</li>",
+    "<li class=\"risk\"><b>Bas</b> → Pakistan 0,544, Afghanistan 0,496 (181e)</li>"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/List_of_countries_in_Asia_and_Oceania_by_Human_Development_Index",
+   "source_titre": "Asia and Oceania by HDI — Wikipédia (en), PNUD RDH 2025 (données 2023)",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "chapitre::4.2.1 I.C"
+   ],
+   "_sans_n": true,
+   "visuel": {
+    "type": "barres",
+    "unite": "",
+    "barres": [
+     {
+      "label": "Singapour",
+      "valeur": 0.946,
+      "cat": "eco",
+      "affiche": "0,946"
+     },
+     {
+      "label": "Japon",
+      "valeur": 0.925,
+      "cat": "eco",
+      "affiche": "0,925"
+     },
+     {
+      "label": "Chine",
+      "valeur": 0.797,
+      "cat": "act",
+      "affiche": "0,797"
+     },
+     {
+      "label": "Inde",
+      "valeur": 0.685,
+      "cat": "act",
+      "affiche": "0,685"
+     },
+     {
+      "label": "Pakistan",
+      "valeur": 0.544,
+      "cat": "risk",
+      "affiche": "0,544"
+     },
+     {
+      "label": "Afghanistan",
+      "valeur": 0.496,
+      "cat": "risk",
+      "affiche": "0,496"
+     }
+    ],
+    "note": "IDH 2023, PNUD (RDH 2025)"
+   },
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Minorités persécutées",
+   "question": "Quelles populations d'Asie subissent des persécutions massives ? (3)",
+   "reponse": "Des minorités <span class=\"hl soc\">ethniques</span> ou <span class=\"hl soc\">religieuses</span> et les <span class=\"hl risk\">femmes</span> en Afghanistan.",
+   "puces": [
+    "<li class=\"risk\"><b>Ouïghours 🇨🇳</b> → internement de masse au Xinjiang</li>",
+    "<li class=\"risk\"><b>Rohingyas 🇲🇲</b> → musulmans chassés de Birmanie en 2017</li>",
+    "<li class=\"risk\"><b>Afghanes 🇦🇫</b> → exclues de l'école secondaire et de l'université par les talibans</li>"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Persecution_of_Uyghurs_in_China",
+   "source_titre": "Persecution of Uyghurs in China — Wikipédia (en)",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "theme::droit-international",
+    "chapitre::4.2.1 I.C"
+   ],
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "B",
+   "ancre": "Premiers comptoirs européens",
+   "question": "Comment les Européens s'implantent-ils d'abord en Asie ? (2)",
+   "reponse": "Par des <span class=\"hl res\">comptoirs</span> littoraux, ouverts par les <span class=\"hl act\">Portugais</span> dès le XVIe siècle, avant la conquête territoriale.",
+   "puces": [
+    "<li class=\"res\"><b>Portugais</b> → Goa (1510), Malacca (1511), côtes de Ceylan, Macao</li>",
+    "<li class=\"soc\"><b>Évangélisation</b> → missions catholiques puis compagnies des Indes néerlandaise et anglaise</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Empire_colonial_portugais",
+   "source_titre": "Empire colonial portugais — Wikipédia",
+   "tags": [
+    "type::B",
+    "region::Asie",
+    "theme::puissance",
+    "chapitre::4.2.1 II.A"
+   ],
+   "date": "XVIe siècle",
+   "piege": "XVIe siècle, pas « début du XXe siècle » comme l'indique le cours.",
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "B",
+   "ancre": "Chine affaiblie, jamais colonisée",
+   "question": "Comment la Chine est-elle affaiblie sans être colonisée ? (3)",
+   "reponse": "Par des <span class=\"hl risk\">guerres perdues</span> et des <span class=\"hl instr\">traités inégaux</span> qui ouvrent ses ports et minent la <span class=\"hl pol\">dynastie Qing</span>.",
+   "puces": [
+    "<li class=\"risk\"><b>Guerres de l'opium</b> → le Royaume-Uni 🇬🇧 obtient Hong Kong (1842)</li>",
+    "<li class=\"instr\"><b>Traités inégaux</b> → ports ouverts, concessions et extraterritorialité pour les Européens</li>",
+    "<li class=\"pol\"><b>Révolte des Boxers</b> → écrasée par huit puissances étrangères (1899-1901)</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Guerres_de_l'opium",
+   "source_titre": "Guerres de l'opium — Wikipédia",
+   "tags": [
+    "type::B",
+    "region::Asie",
+    "acteur::Chine",
+    "chapitre::4.2.1 II.A"
+   ],
+   "date": "1839-1842 · 1856-1860",
+   "visuel": {
+    "type": "frise",
+    "jalons": [
+     {
+      "date": "1842",
+      "label": "Traité de Nankin",
+      "cat": "instr"
+     },
+     {
+      "date": "1860",
+      "label": "Sac du palais d'Été",
+      "cat": "risk"
+     },
+     {
+      "date": "1901",
+      "label": "Boxers écrasés",
+      "cat": "risk"
+     },
+     {
+      "date": "1911",
+      "label": "Chute des Qing",
+      "cat": "pol"
+     }
+    ]
+   },
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "B",
+   "ancre": "Inde britannique",
+   "question": "Par quelles étapes l'Inde devient-elle britannique puis indépendante ? (4)",
+   "reponse": "Une <span class=\"hl eco\">compagnie marchande</span> conquiert le pays, puis la <span class=\"hl pol\">Couronne</span> gouverne directement jusqu'à l'<span class=\"hl date\">indépendance</span>.",
+   "puces": [
+    "<li class=\"date\"><b>Plassey</b> → victoire de la Compagnie des Indes orientales (1757)</li>",
+    "<li class=\"pol\"><b>Raj britannique</b> → la Couronne remplace la Compagnie après la révolte des Cipayes (1858)</li>",
+    "<li class=\"act\"><b>Victoria</b> → proclamée impératrice des Indes (1876)</li>",
+    "<li class=\"soc\"><b>Indépendance</b> → après la lutte de Gandhi et Nehru, avec la Partition (1947)</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Raj_britannique",
+   "source_titre": "Raj britannique — Wikipédia",
+   "tags": [
+    "type::B",
+    "region::Asie",
+    "acteur::Inde",
+    "acteur::Royaume-Uni",
+    "chapitre::4.2.1 II.A"
+   ],
+   "date": "1757-1947",
+   "visuel": {
+    "type": "frise",
+    "jalons": [
+     {
+      "date": "1757",
+      "label": "Plassey",
+      "cat": "eco"
+     },
+     {
+      "date": "1858",
+      "label": "Raj",
+      "cat": "pol"
+     },
+     {
+      "date": "1876",
+      "label": "Impératrice des Indes",
+      "cat": "act"
+     },
+     {
+      "date": "1947",
+      "label": "Indépendance et Partition",
+      "cat": "soc"
+     }
+    ]
+   },
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "B",
+   "ancre": "Indochine française",
+   "question": "Comment se fait et se défait l'Indochine française ? (3)",
+   "reponse": "Conquise par étapes au XIXe siècle et <span class=\"hl eco\">exploitée</span>, elle s'effondre après la défaite de <span class=\"hl risk\">Diên Biên Phu</span>.",
+   "puces": [
+    "<li class=\"pol\"><b>Conquête</b> → Cochinchine (1862), protectorats sur l'Annam et le Tonkin (1883-1884)</li>",
+    "<li class=\"eco\"><b>Exploitation</b> → charbon du Tonkin, hévéa, riz</li>",
+    "<li class=\"risk\"><b>Diên Biên Phu</b> → défaite française (mai 1954), accords de Genève</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Indochine_fran%C3%A7aise",
+   "source_titre": "Indochine française — Wikipédia",
+   "tags": [
+    "type::B",
+    "region::Asie",
+    "acteur::Vietnam",
+    "acteur::France",
+    "chapitre::4.2.1 II.A"
+   ],
+   "date": "1862-1954",
+   "saisie": "Dien Bien Phu;Diên Biên Phu;Điện Biên Phủ",
+   "saisie_consigne": "Bataille qui met fin à l'Indochine française ?",
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "B",
+   "ancre": "Empire colonial japonais",
+   "question": "Quels territoires le Japon s'approprie-t-il avant 1945 ? (4)",
+   "reponse": "Le Japon bâtit un <span class=\"hl instr\">empire</span> par étapes, des îles du nord à la <span class=\"hl risk\">Mandchourie</span>.",
+   "puces": [
+    "<li class=\"date\"><b>1875</b> → traité de Saint-Pétersbourg : obtient les Kouriles, cède Sakhaline à la Russie</li>",
+    "<li class=\"risk\"><b>1895</b> → Taïwan, après la victoire contre la Chine</li>",
+    "<li class=\"pol\"><b>1910</b> → annexion de la Corée</li>",
+    "<li class=\"instr\"><b>1932</b> → Mandchoukouo, État fantoche après l'invasion de la Mandchourie (1931)</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Empire_du_Japon",
+   "source_titre": "Empire du Japon — Wikipédia",
+   "tags": [
+    "type::B",
+    "region::Asie",
+    "acteur::Japon",
+    "chapitre::4.2.1 II.A"
+   ],
+   "date": "1875-1932",
+   "piege": "En 1875 le Japon cède Sakhaline : il ne l'obtient pas (il en prend le sud en 1905).",
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "B",
+   "ancre": "Décolonisation de l'Asie",
+   "question": "Dans quel ordre l'Asie se décolonise-t-elle après 1945 ?",
+   "reponse": "Très vite : en une dizaine d'années, les grands <span class=\"hl pol\">empires coloniaux</span> européens disparaissent d'Asie.",
+   "puces": [
+    "<li class=\"date\"><b>Premières</b> → Philippines (1946), Inde et Pakistan (1947)</li>",
+    "<li class=\"risk\"><b>Guerre</b> → Indonésie (1949), Indochine (1954)</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/D%C3%A9colonisation",
+   "source_titre": "Décolonisation — Wikipédia",
+   "tags": [
+    "type::B",
+    "region::Asie",
+    "theme::puissance",
+    "chapitre::4.2.1 II.A"
+   ],
+   "_sans_n": true,
+   "date": "1946-1957",
+   "visuel": {
+    "type": "frise",
+    "jalons": [
+     {
+      "date": "1946",
+      "label": "Philippines",
+      "cat": "act"
+     },
+     {
+      "date": "1947",
+      "label": "Inde, Pakistan",
+      "cat": "act"
+     },
+     {
+      "date": "1948",
+      "label": "Birmanie, Ceylan",
+      "cat": "act"
+     },
+     {
+      "date": "1949",
+      "label": "Indonésie",
+      "cat": "act"
+     },
+     {
+      "date": "1954",
+      "label": "Indochine",
+      "cat": "risk"
+     },
+     {
+      "date": "1957",
+      "label": "Malaisie",
+      "cat": "act"
+     }
+    ]
+   },
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "B",
+   "ancre": "Conférence de Bandung",
+   "question": "Que proclament les pays réunis à Bandung ? (2)",
+   "reponse": "Vingt-neuf pays d'Asie et d'Afrique y <span class=\"hl pol\">condamnent le colonialisme</span> et esquissent le <span class=\"hl conc\">non-alignement</span>.",
+   "puces": [
+    "<li class=\"act\"><b>Figures</b> → Sukarno 🇮🇩, Nehru 🇮🇳, Zhou Enlai 🇨🇳, Nasser 🇪🇬</li>",
+    "<li class=\"conc\"><b>Héritage</b> → mouvement des non-alignés fondé à Belgrade en 1961</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Conf%C3%A9rence_de_Bandung",
+   "source_titre": "Conférence de Bandung — Wikipédia",
+   "tags": [
+    "type::B",
+    "region::Asie",
+    "theme::puissance",
+    "chapitre::4.2.1 II.A"
+   ],
+   "date": "avril 1955",
+   "portraits": [
+    {
+     "wiki": "Zhou Enlai",
+     "nom": "Zhou Enlai",
+     "legende": "Premier ministre chinois (1949-1976)"
+    }
+   ],
+   "lien": "Tiers-monde · non-alignement · Guerre froide",
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "B",
+   "ancre": "Guerres chaudes en Asie",
+   "question": "Quelles guerres de la Guerre froide se déroulent en Asie ? (3)",
+   "reponse": "L'Asie est le principal théâtre des <span class=\"hl risk\">guerres chaudes</span> de la Guerre froide.",
+   "puces": [
+    "<li class=\"risk\"><b>Corée</b> → 1950-1953, armistice sur le 38e parallèle</li>",
+    "<li class=\"risk\"><b>Vietnam</b> → engagement américain massif de 1964 à 1973, chute de Saïgon en 1975</li>",
+    "<li class=\"risk\"><b>Afghanistan</b> → l'URSS contre les moudjahidines soutenus par les États-Unis (1979-1989)</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Guerre_froide",
+   "source_titre": "Guerre froide — Wikipédia",
+   "tags": [
+    "type::B",
+    "region::Asie",
+    "theme::defense",
+    "chapitre::4.2.1 II.A"
+   ],
+   "visuel": {
+    "type": "periodes",
+    "debut": 1945,
+    "fin": 1990,
+    "bandes": [
+     {
+      "de": 1950,
+      "a": 1953,
+      "label": "Corée",
+      "cat": "risk"
+     },
+     {
+      "de": 1955,
+      "a": 1975,
+      "label": "Vietnam",
+      "cat": "risk",
+      "ligne": 1
+     },
+     {
+      "de": 1979,
+      "a": 1989,
+      "label": "Afghanistan",
+      "cat": "risk"
+     }
+    ]
+   },
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "B",
+   "ancre": "Khmers rouges",
+   "question": "Quels acteurs s'affrontent autour du Cambodge des Khmers rouges ? (3)",
+   "reponse": "Le régime de <span class=\"hl act\">Pol Pot</span>, soutenu par la <span class=\"hl pol\">Chine</span>, commet un génocide avant d'être renversé par le <span class=\"hl risk\">Vietnam</span>.",
+   "puces": [
+    "<li class=\"risk\"><b>Génocide</b> → 1,5 à 2 millions de morts (1975-1979)</li>",
+    "<li class=\"pol\"><b>Chine 🇨🇳</b> → soutien aux Khmers rouges, puis guerre contre le Vietnam (1979)</li>",
+    "<li class=\"act\"><b>Vietnam 🇻🇳</b> → soutenu par l'URSS, envahit le Cambodge en janvier 1979</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Khmers_rouges",
+   "source_titre": "Khmers rouges — Wikipédia",
+   "tags": [
+    "type::B",
+    "region::Asie",
+    "acteur::Cambodge",
+    "chapitre::4.2.1 II.A"
+   ],
+   "date": "1975-1979",
+   "visuel": {
+    "type": "reseau",
+    "acteurs": [
+     {
+      "id": "kr",
+      "label": "Khmers rouges",
+      "cat": "risk"
+     },
+     {
+      "id": "cn",
+      "label": "Chine",
+      "cat": "pol"
+     },
+     {
+      "id": "vn",
+      "label": "Vietnam",
+      "cat": "act"
+     },
+     {
+      "id": "su",
+      "label": "URSS",
+      "cat": "pol"
+     }
+    ],
+    "liens": [
+     {
+      "de": "cn",
+      "a": "kr",
+      "type": "soutien"
+     },
+     {
+      "de": "su",
+      "a": "vn",
+      "type": "soutien"
+     },
+     {
+      "de": "vn",
+      "a": "kr",
+      "type": "conflit",
+      "label": "invasion 1979"
+     },
+     {
+      "de": "cn",
+      "a": "vn",
+      "type": "conflit"
+     }
+    ]
+   },
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Démocraties d'Asie",
+   "question": "Quelles trajectoires démocratiques contrastées l'Asie offre-t-elle ? (4)",
+   "reponse": "Des démocraties <span class=\"hl pol\">anciennes</span>, d'autres <span class=\"hl act\">importées</span> ou <span class=\"hl risk\">menacées</span>, et des régimes autoritaires <span class=\"hl eco\">prospères</span>.",
+   "puces": [
+    "<li class=\"pol\"><b>Inde 🇮🇳</b> → Constitution de 1950, « plus grande démocratie du monde »</li>",
+    "<li class=\"act\"><b>Japon 🇯🇵</b> → démocratie installée sous tutelle américaine (1947)</li>",
+    "<li class=\"risk\"><b>Hong Kong 🇭🇰</b> → libertés érodées : révolte des parapluies (2014), loi de sécurité nationale (2020)</li>",
+    "<li class=\"eco\"><b>Singapour 🇸🇬</b> → indépendant en 1965, autoritarisme efficace de Lee Kuan Yew</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/D%C3%A9mocratie",
+   "source_titre": "Démocratie — Wikipédia",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "theme::puissance",
+    "chapitre::4.2.1 II.A"
+   ],
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Régimes autoritaires",
+   "question": "Quels régimes autoritaires marquants compte l'Asie ? (3)",
+   "reponse": "Un <span class=\"hl pol\">parti-État</span>, une <span class=\"hl risk\">dictature totalitaire</span> et une <span class=\"hl risk\">théocratie</span>.",
+   "puces": [
+    "<li class=\"pol\"><b>Chine 🇨🇳</b> → parti unique, censure, répression au Tibet, au Xinjiang, à Hong Kong</li>",
+    "<li class=\"risk\"><b>Corée du Nord 🇰🇵</b> → dynastie Kim depuis 1948</li>",
+    "<li class=\"risk\"><b>Afghanistan 🇦🇫</b> → émirat islamique des talibans depuis 2021</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/R%C3%A9gime_autoritaire",
+   "source_titre": "Régime autoritaire — Wikipédia",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "chapitre::4.2.1 II.A"
+   ],
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "B",
+   "ancre": "Birmanie sous la junte",
+   "question": "Quelle est la situation politique de la Birmanie depuis le coup d'État ? (3)",
+   "reponse": "La <span class=\"hl pol\">junte</span> a renversé le gouvernement élu, déclenchant une <span class=\"hl risk\">guerre civile</span>.",
+   "puces": [
+    "<li class=\"act\"><b>Aung San Suu Kyi</b> → prix Nobel de la paix, arrêtée et condamnée</li>",
+    "<li class=\"risk\"><b>Résistance</b> → milices d'opposants et armées ethniques contrôlent une partie du pays</li>",
+    "<li class=\"pol\"><b>Soutiens</b> → Chine 🇨🇳 et Russie 🇷🇺 ménagent la junte</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Coup_d'%C3%89tat_de_2021_en_Birmanie",
+   "source_titre": "Coup d'État de 2021 en Birmanie — Wikipédia",
+   "tags": [
+    "type::B",
+    "region::Asie",
+    "acteur::Birmanie",
+    "chapitre::4.2.1 II.A"
+   ],
+   "date": "1er février 2021",
+   "portraits": [
+    {
+     "wiki": "Aung San Suu Kyi",
+     "nom": "Aung San Suu Kyi",
+     "legende": "Conseillère d'État (2016-2021)"
+    }
+   ],
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "B",
+   "ancre": "Afghanistan des talibans",
+   "question": "Que change le retour des talibans en Afghanistan ? (3)",
+   "reponse": "Un <span class=\"hl pol\">émirat islamique</span> impose une <span class=\"hl risk\">théocratie</span> qui efface les femmes de l'espace public.",
+   "puces": [
+    "<li class=\"date\"><b>Kaboul</b> → prise de la capitale après le retrait américain</li>",
+    "<li class=\"risk\"><b>Femmes</b> → exclues du secondaire, de l'université et de nombreux emplois</li>",
+    "<li class=\"eco\"><b>Isolement</b> → sanctions, aide suspendue, PIB par habitant ≈ 450 $</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/%C3%89mirat_islamique_d'Afghanistan",
+   "source_titre": "Émirat islamique d'Afghanistan — Wikipédia",
+   "tags": [
+    "type::B",
+    "region::Asie",
+    "acteur::Afghanistan",
+    "chapitre::4.2.1 II.A"
+   ],
+   "date": "15 août 2021",
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "B",
+   "ancre": "Frontière des deux Corées",
+   "question": "Quelle ligne sépare ① et ② depuis la guerre de Corée ?",
+   "reponse": "La <span class=\"hl risk\">zone démilitarisée</span> tracée par l'armistice, proche du <span class=\"hl enj\">38e parallèle</span>, entre Pyongyang ① et Séoul ②.",
+   "puces": [
+    "<li class=\"soc\"><b>Sud 🇰🇷</b> → ≈ 51,7 M d'habitants, 82 % d'urbains</li>",
+    "<li class=\"soc\"><b>Nord 🇰🇵</b> → ≈ 26 M d'habitants, économie planifiée et isolée</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Zone_cor%C3%A9enne_d%C3%A9militaris%C3%A9e",
+   "source_titre": "Zone coréenne démilitarisée — Wikipédia",
+   "tags": [
+    "type::B",
+    "region::Asie",
+    "localisation",
+    "acteur::Corée_du_Nord",
+    "chapitre::4.2.1 II.A"
+   ],
+   "date": "27 juillet 1953 (armistice)",
+   "visuel_recto": {
+    "type": "carte",
+    "fond": "asie_est",
+    "muette": true,
+    "points": [
+     {
+      "lon": 125.75,
+      "lat": 39.03,
+      "label": "Pyongyang",
+      "cat": "risk"
+     },
+     {
+      "lon": 126.98,
+      "lat": 37.57,
+      "label": "Séoul",
+      "cat": "act"
+     }
+    ]
+   },
+   "visuel": {
+    "type": "carte",
+    "fond": "asie_est",
+    "points": [
+     {
+      "lon": 125.75,
+      "lat": 39.03,
+      "label": "Pyongyang (Nord)",
+      "cat": "risk"
+     },
+     {
+      "lon": 126.98,
+      "lat": 37.57,
+      "label": "Séoul (Sud)",
+      "cat": "act"
+     }
+    ]
+   },
+   "saisie": "38e parallèle;38e;38",
+   "saisie_consigne": "Parallèle qui servait de frontière avant 1950 ?",
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Deux Corées, deux cultures",
+   "question": "Comment les deux Corées ont-elles divergé culturellement ? (2)",
+   "reponse": "Le Sud s'est <span class=\"hl eco\">ouvert</span> au monde, le Nord s'est <span class=\"hl risk\">fermé</span> sous contrôle total.",
+   "puces": [
+    "<li class=\"eco\"><b>Sud</b> → anglicismes, influence mondiale de la K-pop et des séries (hallyu)</li>",
+    "<li class=\"risk\"><b>Nord</b> → langue épurée des emprunts, culture de propagande, accès au monde interdit</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Vague_cor%C3%A9enne",
+   "source_titre": "Vague coréenne — Wikipédia",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "acteur::Corée_du_Sud",
+    "chapitre::4.2.1 II.A"
+   ],
+   "saisie": "hallyu",
+   "saisie_consigne": "Nom coréen de la vague culturelle sud-coréenne ?",
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Régimes des deux Corées",
+   "question": "Qu'est-ce qui oppose les régimes politiques des deux Corées ?",
+   "reponse": "Une <span class=\"hl risk\">dictature dynastique</span> au Nord, une <span class=\"hl pol\">démocratie</span> au Sud, ébranlée mais sauvée par ses institutions en 2024-2025.",
+   "puces": [
+    "<li class=\"risk\"><b>Nord</b> → parti du Travail, dynastie Kim, idéologie du Juche (autosuffisance)</li>",
+    "<li class=\"pol\"><b>Sud</b> → loi martiale de Yoon (3 déc. 2024), destitution (avril 2025), élection de Lee Jae-myung</li>"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/2024_South_Korean_martial_law_crisis",
+   "source_titre": "2024 South Korean martial law crisis — Wikipédia (en)",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "acteur::Corée_du_Sud",
+    "acteur::Corée_du_Nord",
+    "chapitre::4.2.1 II.A"
+   ],
+   "_sans_n": true,
+   "visuel": {
+    "type": "tableau",
+    "colonnes": [
+     "",
+     "Corée du Nord",
+     "Corée du Sud"
+    ],
+    "cats": [
+     null,
+     "risk",
+     "pol"
+    ],
+    "lignes": [
+     [
+      "Régime",
+      "Parti unique, dynastie Kim",
+      "Démocratie depuis 1987"
+     ],
+     [
+      "Idéologie",
+      "Juche",
+      "Économie de marché"
+     ],
+     [
+      "Crise récente",
+      "—",
+      "Loi martiale de Yoon, condamné à perpétuité (fév. 2026)"
+     ]
+    ]
+   },
+   "saisie": "Juche",
+   "saisie_consigne": "Idéologie nord-coréenne de l'autosuffisance ?",
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "B",
+   "ancre": "Indépendance du Timor oriental",
+   "question": "Par quelles étapes le Timor oriental accède-t-il à l'indépendance ? (4)",
+   "reponse": "Libéré du <span class=\"hl act\">Portugal</span>, il est aussitôt <span class=\"hl risk\">envahi par l’Indonésie</span> et n'obtient son indépendance qu'avec l'<span class=\"hl inst\">ONU</span>.",
+   "puces": [
+    "<li class=\"act\"><b>1975</b> → indépendance proclamée, invasion indonésienne quelques jours plus tard</li>",
+    "<li class=\"risk\"><b>Occupation</b> → jusqu'à 1999, plus de 100 000 morts estimés</li>",
+    "<li class=\"inst\"><b>1999</b> → référendum organisé par l'ONU : 78,5 % pour l'indépendance</li>",
+    "<li class=\"pol\"><b>2002</b> → indépendance officielle</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Timor_oriental",
+   "source_titre": "Timor oriental — Wikipédia",
+   "tags": [
+    "type::B",
+    "region::Asie",
+    "acteur::Timor_oriental",
+    "chapitre::4.2.1 II.A"
+   ],
+   "date": "1975-2002",
+   "visuel": {
+    "type": "frise",
+    "jalons": [
+     {
+      "date": "1975",
+      "label": "Invasion indonésienne",
+      "cat": "risk"
+     },
+     {
+      "date": "1999",
+      "label": "Référendum ONU",
+      "cat": "inst"
+     },
+     {
+      "date": "2002",
+      "label": "Indépendance",
+      "cat": "pol"
+     },
+     {
+      "date": "2025",
+      "label": "11e membre de l'ASEAN",
+      "cat": "inst"
+     }
+    ]
+   },
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Économie du Timor oriental",
+   "question": "Quelle est la situation économique du Timor oriental ? (3)",
+   "reponse": "Un des pays les plus <span class=\"hl risk\">pauvres</span> d'Asie, <span class=\"hl res\">dépendant du pétrole</span> offshore, qui mise sur l'<span class=\"hl inst\">ASEAN</span>.",
+   "puces": [
+    "<li class=\"eco\"><b>Pauvreté</b> → PIB par habitant ≈ 1 500 $ (FMI, 2026), IDH 0,634</li>",
+    "<li class=\"res\"><b>Pétrole</b> → fonds pétrolier qui finance l'essentiel du budget, gisements en déclin</li>",
+    "<li class=\"inst\"><b>ASEAN</b> → 11e membre depuis le 26 octobre 2025</li>"
+   ],
+   "source_url": "https://thediplomat.com/2025/10/history-is-made-timor-leste-becomes-aseans-11th-member/",
+   "source_titre": "Timor-Leste Becomes ASEAN's 11th Member — The Diplomat (oct. 2025)",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "acteur::Timor_oriental",
+    "chapitre::4.2.1 II.A"
+   ],
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Frontières contestées de la Chine",
+   "question": "Avec quels voisins la Chine a-t-elle eu des conflits de frontière ? (3)",
+   "reponse": "La Chine a <span class=\"hl risk\">combattu</span> l'Inde et l'URSS pour ses frontières, et <span class=\"hl pol\">annexé</span> le Tibet.",
+   "puces": [
+    "<li class=\"pol\"><b>Tibet</b> → annexé en 1950-1951</li>",
+    "<li class=\"risk\"><b>Inde 🇮🇳</b> → guerre de 1962 : Aksai Chin conquis, Arunachal Pradesh revendiqué</li>",
+    "<li class=\"risk\"><b>URSS/Russie 🇷🇺</b> → combats sur l'Oussouri (1969), frontière réglée en 2004-2008</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Guerre_sino-indienne",
+   "source_titre": "Guerre sino-indienne — Wikipédia",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "acteur::Chine",
+    "acteur::Inde",
+    "chapitre::4.2.1 II.B"
+   ],
+   "piege": "Le Cachemire oppose surtout l'Inde et le Pakistan ; la Chine n'en tient que l'Aksai Chin.",
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "B",
+   "ancre": "Cachemire indo-pakistanais",
+   "question": "Où se situe ① et pourquoi est-ce une poudrière ?",
+   "reponse": "① est Srinagar, au <span class=\"hl risk\">Cachemire</span> : région disputée par l'<span class=\"hl act\">Inde</span> et le <span class=\"hl act\">Pakistan</span>, deux puissances nucléaires.",
+   "puces": [
+    "<li class=\"risk\"><b>Guerres</b> → 1947-1948, 1965, 1999 (Kargil)</li>",
+    "<li class=\"pol\"><b>2019</b> → l'Inde supprime l'autonomie du Jammu-et-Cachemire (article 370)</li>",
+    "<li class=\"risk\"><b>Mai 2025</b> → frappes indiennes (opération Sindoor) après l'attentat de Pahalgam</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Conflit_du_Cachemire",
+   "source_titre": "Conflit du Cachemire — Wikipédia",
+   "tags": [
+    "type::B",
+    "region::Asie",
+    "localisation",
+    "acteur::Inde",
+    "acteur::Pakistan",
+    "theme::nucleaire",
+    "chapitre::4.2.1 II.B"
+   ],
+   "date": "depuis 1947",
+   "visuel_recto": {
+    "type": "carte",
+    "fond": "inde_pakistan",
+    "muette": true,
+    "points": [
+     {
+      "lon": 74.8,
+      "lat": 34.08,
+      "label": "Srinagar",
+      "cat": "risk"
+     }
+    ]
+   },
+   "visuel": {
+    "type": "carte",
+    "fond": "inde_pakistan",
+    "points": [
+     {
+      "lon": 74.8,
+      "lat": 34.08,
+      "label": "Srinagar, Cachemire indien",
+      "cat": "risk"
+     },
+     {
+      "lon": 73.05,
+      "lat": 33.69,
+      "label": "Islamabad",
+      "cat": "act"
+     },
+     {
+      "lon": 77.21,
+      "lat": 28.61,
+      "label": "New Delhi",
+      "cat": "act"
+     }
+    ]
+   },
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Mer de Chine méridionale",
+   "question": "Quels archipels disputés sont repérés par ① et ② ?",
+   "reponse": "① les <span class=\"hl res\">Paracels</span>, tenus par la Chine ; ② les <span class=\"hl res\">Spratleys</span>, revendiqués par six riverains.",
+   "puces": [
+    "<li class=\"act\"><b>Paracels</b> → Chine 🇨🇳 (qui les occupe), Vietnam 🇻🇳, Taïwan 🇹🇼</li>",
+    "<li class=\"act\"><b>Spratleys</b> → Chine, Taïwan, Vietnam, Philippines 🇵🇭, Malaisie 🇲🇾, Brunei 🇧🇳</li>",
+    "<li class=\"res\"><b>Enjeux</b> → hydrocarbures, pêche, routes maritimes, bases militaires sur îlots artificiels</li>"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Territorial_disputes_in_the_South_China_Sea",
+   "source_titre": "Territorial disputes in the South China Sea — Wikipédia (en)",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "localisation",
+    "acteur::Chine",
+    "theme::droit-international",
+    "chapitre::4.2.1 II.B"
+   ],
+   "visuel_recto": {
+    "type": "carte",
+    "fond": "mer_chine_sud",
+    "muette": true,
+    "points": [
+     {
+      "lon": 112.0,
+      "lat": 16.5,
+      "label": "Paracels",
+      "cat": "risk"
+     },
+     {
+      "lon": 114.0,
+      "lat": 10.0,
+      "label": "Spratleys",
+      "cat": "risk"
+     }
+    ]
+   },
+   "visuel": {
+    "type": "carte",
+    "fond": "mer_chine_sud",
+    "points": [
+     {
+      "lon": 112.0,
+      "lat": 16.5,
+      "label": "Paracels",
+      "cat": "risk"
+     },
+     {
+      "lon": 114.0,
+      "lat": 10.0,
+      "label": "Spratleys",
+      "cat": "risk"
+     },
+     {
+      "lon": 117.75,
+      "lat": 15.15,
+      "label": "Scarborough",
+      "cat": "risk"
+     }
+    ]
+   },
+   "piege": "Les Senkaku/Diaoyu sont en mer de Chine ORIENTALE (Chine-Japon), pas méridionale.",
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Îles Senkaku / Diaoyu",
+   "question": "Quel contentieux porte sur l'archipel ① ?",
+   "reponse": "① les îles <span class=\"hl res\">Senkaku</span> (Diaoyu pour Pékin), administrées par le <span class=\"hl act\">Japon</span> et revendiquées par la <span class=\"hl risk\">Chine</span> et Taïwan.",
+   "puces": [
+    "<li class=\"risk\"><b>Tensions</b> → nationalisation de trois îles par Tokyo en 2012, incursions chinoises répétées</li>",
+    "<li class=\"pol\"><b>États-Unis 🇺🇸</b> → les îles relèvent du traité de sécurité nippo-américain</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/%C3%8Eles_Senkaku",
+   "source_titre": "Îles Senkaku — Wikipédia",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "localisation",
+    "acteur::Japon",
+    "acteur::Chine",
+    "chapitre::4.2.1 II.B"
+   ],
+   "visuel_recto": {
+    "type": "carte",
+    "fond": "asie_est",
+    "muette": true,
+    "points": [
+     {
+      "lon": 123.5,
+      "lat": 25.75,
+      "label": "Senkaku",
+      "cat": "risk"
+     }
+    ]
+   },
+   "visuel": {
+    "type": "carte",
+    "fond": "asie_est",
+    "points": [
+     {
+      "lon": 123.5,
+      "lat": 25.75,
+      "label": "Senkaku / Diaoyu",
+      "cat": "risk"
+     },
+     {
+      "lon": 121.56,
+      "lat": 25.03,
+      "label": "Taipei",
+      "cat": "act"
+     },
+     {
+      "lon": 127.68,
+      "lat": 26.21,
+      "label": "Okinawa",
+      "cat": "act"
+     }
+    ]
+   },
+   "saisie": "Senkaku",
+   "saisie_consigne": "Nom japonais des îles appelées Diaoyu par Pékin ?",
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "B",
+   "ancre": "Langue de bœuf",
+   "question": "Qu'est-ce que la « langue de bœuf » et que vaut-elle en droit ? (3)",
+   "reponse": "Le tracé en <span class=\"hl instr\">neuf traits</span> par lequel la Chine revendique l'essentiel de la mer de Chine méridionale, jugé <span class=\"hl inst\">sans fondement</span> par un tribunal arbitral.",
+   "puces": [
+    "<li class=\"date\"><b>Origine</b> → carte de la République de Chine (1947), reprise par la RPC</li>",
+    "<li class=\"inst\"><b>Arbitrage</b> → saisi par les Philippines, il donne tort à la Chine (12 juillet 2016)</li>",
+    "<li class=\"risk\"><b>Réponse chinoise</b> → refus du jugement ; nouvelle carte à dix traits en 2023</li>"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Territorial_disputes_in_the_South_China_Sea",
+   "source_titre": "Territorial disputes in the South China Sea — Wikipédia (en)",
+   "tags": [
+    "type::B",
+    "region::Asie",
+    "acteur::Chine",
+    "acteur::Philippines",
+    "theme::droit-international",
+    "chapitre::4.2.1 II.B"
+   ],
+   "date": "1947 · jugement 2016",
+   "piege": "Le tribunal a été saisi en 2013 mais a jugé en 2016 : ne pas confondre les deux dates.",
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "États-Unis en mer de Chine",
+   "question": "Pourquoi les États-Unis s'impliquent-ils en mer de Chine ? (3)",
+   "reponse": "Pour défendre la <span class=\"hl instr\">liberté de navigation</span>, protéger leurs <span class=\"hl pol\">alliés</span> et contenir la <span class=\"hl risk\">Chine</span>.",
+   "puces": [
+    "<li class=\"instr\"><b>7e flotte</b> → basée au Japon (Yokosuka), la plus grande flotte américaine avancée</li>",
+    "<li class=\"instr\"><b>FONOP</b> → patrouilles près des îlots militarisés par Pékin</li>",
+    "<li class=\"pol\"><b>Alliés</b> → traités de défense avec les Philippines 🇵🇭 et le Japon 🇯🇵</li>"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/United_States_Seventh_Fleet",
+   "source_titre": "United States Seventh Fleet — Wikipédia (en)",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "acteur::États-Unis",
+    "theme::defense",
+    "chapitre::4.2.1 II.B"
+   ],
+   "decomposition": {
+    "terme": "FONOP",
+    "parties": [
+     [
+      "FON",
+      "Freedom Of Navigation",
+      "instr"
+     ],
+     [
+      "OP",
+      "OPerations",
+      "act"
+     ]
+    ],
+    "note": "opérations de liberté de navigation"
+   },
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Ouïghours du Xinjiang",
+   "question": "Quelle politique la Chine mène-t-elle envers les Ouïghours ? (3)",
+   "reponse": "Une politique de <span class=\"hl risk\">répression</span> et de <span class=\"hl pol\">sinisation forcée</span>, justifiée au nom de l'antiterrorisme.",
+   "puces": [
+    "<li class=\"soc\"><b>Xinjiang</b> → ≈ 26 M d'habitants, dont un peu moins de la moitié d'Ouïghours, musulmans turcophones</li>",
+    "<li class=\"risk\"><b>Camps</b> → internement de masse et travail forcé (coton, textile)</li>",
+    "<li class=\"pol\"><b>Réactions</b> → boycott diplomatique des JO de Pékin 2022 par plusieurs démocraties</li>"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Persecution_of_Uyghurs_in_China",
+   "source_titre": "Persecution of Uyghurs in China — Wikipédia (en)",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "acteur::Chine",
+    "theme::droit-international",
+    "chapitre::4.2.1 II.B"
+   ],
+   "saisie": "Xinjiang",
+   "saisie_consigne": "Région autonome chinoise peuplée d'Ouïghours ?",
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "B",
+   "ancre": "Rohingyas",
+   "question": "Qui sont les Rohingyas et que leur est-il arrivé ? (3)",
+   "reponse": "Une minorité <span class=\"hl soc\">musulmane</span> de Birmanie, privée de nationalité et <span class=\"hl risk\">chassée en masse</span> par l'armée.",
+   "puces": [
+    "<li class=\"risk\"><b>Exode</b> → ≈ 740 000 réfugiés vers le Bangladesh en quelques mois</li>",
+    "<li class=\"soc\"><b>Cox's Bazar</b> → près d'un million de réfugiés dans les camps bangladais</li>",
+    "<li class=\"inst\"><b>Justice</b> → plainte pour génocide devant la CIJ (Gambie contre Birmanie, 2019)</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Rohingya",
+   "source_titre": "Rohingya — Wikipédia",
+   "tags": [
+    "type::B",
+    "region::Asie",
+    "acteur::Birmanie",
+    "acteur::Bangladesh",
+    "theme::migrations",
+    "chapitre::4.2.1 II.B"
+   ],
+   "date": "août 2017",
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "B",
+   "ancre": "Question tibétaine",
+   "question": "Comment le Tibet est-il passé sous contrôle chinois ? (3)",
+   "reponse": "Indépendant de fait, il est <span class=\"hl pol\">annexé</span> par la RPC puis intégré comme <span class=\"hl pol\">région autonome</span>, malgré les <span class=\"hl risk\">révoltes</span>.",
+   "puces": [
+    "<li class=\"date\"><b>1913</b> → le 13e dalaï-lama proclame l'indépendance</li>",
+    "<li class=\"risk\"><b>1959</b> → soulèvement écrasé, exil du 14e dalaï-lama en Inde (Dharamsala)</li>",
+    "<li class=\"risk\"><b>2008</b> → émeutes à Lhassa avant les JO de Pékin</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Tibet",
+   "source_titre": "Tibet — Wikipédia",
+   "tags": [
+    "type::B",
+    "region::Asie",
+    "acteur::Chine",
+    "chapitre::4.2.1 II.B"
+   ],
+   "date": "1950-1951 (annexion)",
+   "piege": "Le Tibet est une « région autonome » (1965), pas une province.",
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Détroit de Malacca",
+   "question": "Quel passage stratégique est repéré par ① ?",
+   "reponse": "① le <span class=\"hl res\">détroit de Malacca</span>, entre Sumatra et la péninsule malaise, principal passage entre océans <span class=\"hl enj\">Indien et Pacifique</span>.",
+   "puces": [
+    "<li class=\"res\"><b>Trafic</b> → ≈ 25 % des marchandises échangées dans le monde, plus d'un tiers du pétrole transporté par mer</li>",
+    "<li class=\"risk\"><b>Vulnérabilité</b> → piraterie, goulet d'étranglement, « dilemme de Malacca » pour la Chine</li>"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Strait_of_Malacca",
+   "source_titre": "Strait of Malacca — Wikipédia (en)",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "localisation",
+    "theme::commerce",
+    "chapitre::4.2.1 II.B"
+   ],
+   "visuel_recto": {
+    "type": "carte",
+    "fond": "malacca",
+    "muette": true,
+    "points": [
+     {
+      "lon": 100.5,
+      "lat": 3.0,
+      "label": "Malacca",
+      "cat": "res"
+     }
+    ]
+   },
+   "visuel": {
+    "type": "carte",
+    "fond": "malacca",
+    "points": [
+     {
+      "lon": 100.5,
+      "lat": 3.0,
+      "label": "Détroit de Malacca",
+      "cat": "res"
+     },
+     {
+      "lon": 103.82,
+      "lat": 1.35,
+      "label": "Singapour",
+      "cat": "act"
+     }
+    ],
+    "fleches": [
+     {
+      "trajet": [
+       [
+        95.5,
+        6.0
+       ],
+       [
+        98.5,
+        4.8
+       ],
+       [
+        101.0,
+        2.6
+       ],
+       [
+        103.3,
+        1.2
+       ],
+       [
+        105.2,
+        2.0
+       ]
+      ],
+      "cat": "res",
+      "label": "route Europe-Asie"
+     }
+    ]
+   },
+   "saisie": "Malacca",
+   "saisie_consigne": "Détroit entre Sumatra et la péninsule malaise ?",
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Hiérarchie des PIB asiatiques",
+   "question": "Quelles sont les plus grandes économies d'Asie ?",
+   "reponse": "La <span class=\"hl eco\">Chine</span> domine de très loin ; <span class=\"hl act\">Japon</span> et <span class=\"hl act\">Inde</span> se disputent la 2e place asiatique.",
+   "puces": [
+    "<li class=\"eco\"><b>Chine 🇨🇳</b> → ≈ 20 900 Md$, près de cinq fois le Japon</li>",
+    "<li class=\"act\"><b>Japon 🇯🇵 et Inde 🇮🇳</b> → ≈ 4 400 et 4 150 Md$, l'Inde en passe de dépasser le Japon</li>"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)",
+   "source_titre": "List of countries by GDP (nominal) — Wikipédia (en), FMI (WEO 2026)",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "acteur::Chine",
+    "acteur::Japon",
+    "theme::puissance",
+    "chapitre::4.2.1 II.C"
+   ],
+   "_sans_n": true,
+   "visuel": {
+    "type": "barres",
+    "unite": "Md$",
+    "barres": [
+     {
+      "label": "Chine",
+      "valeur": 20852,
+      "cat": "eco",
+      "affiche": "20 852"
+     },
+     {
+      "label": "Japon",
+      "valeur": 4379,
+      "cat": "act",
+      "affiche": "4 379"
+     },
+     {
+      "label": "Inde",
+      "valeur": 4153,
+      "cat": "act",
+      "affiche": "4 153"
+     },
+     {
+      "label": "Corée du Sud",
+      "valeur": 1931,
+      "cat": "act",
+      "affiche": "1 931"
+     },
+     {
+      "label": "Indonésie",
+      "valeur": 1540,
+      "cat": "act",
+      "affiche": "1 540"
+     }
+    ],
+    "note": "PIB nominal 2026, Md$ (FMI, avril 2026)"
+   },
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Inde, puissance inachevée",
+   "question": "Qu'est-ce qui freine encore le développement de l'Inde ? (3)",
+   "reponse": "Une croissance tirée par les <span class=\"hl eco\">services</span>, mais une <span class=\"hl soc\">pauvreté</span> de masse et une industrie trop faible.",
+   "puces": [
+    "<li class=\"soc\"><b>Niveau de vie</b> → PIB par habitant ≈ 2 800 $ (FMI, 2026), IDH 0,685 (130e)</li>",
+    "<li class=\"eco\"><b>Services</b> → informatique et services aux entreprises (Bangalore) plus que l'usine</li>",
+    "<li class=\"instr\"><b>Make in India</b> → plan d'industrialisation lancé par Modi en 2014</li>"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/List_of_countries_in_Asia_and_Oceania_by_Human_Development_Index",
+   "source_titre": "Asia and Oceania by HDI — Wikipédia (en), PNUD RDH 2025 (données 2023)",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "acteur::Inde",
+    "chapitre::4.2.1 II.C"
+   ],
+   "piege": "L'Inde a de grands ports (Mundra, Nhava Sheva) : son retard est surtout industriel et social.",
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Défis du Japon",
+   "question": "Quels défis le Japon doit-il relever ? (3)",
+   "reponse": "Un <span class=\"hl soc\">déclin démographique</span>, une <span class=\"hl eco\">dette publique</span> record et un voisinage <span class=\"hl risk\">hostile</span>.",
+   "puces": [
+    "<li class=\"soc\"><b>Vieillissement</b> → ≈ 29 % de plus de 65 ans, population en baisse depuis 2008</li>",
+    "<li class=\"risk\"><b>Risques</b> → Fukushima (2011), séismes, dépendance énergétique</li>",
+    "<li class=\"enj\"><b>Voisins</b> → Chine, Corée du Nord, Russie : fin du pacifisme strict</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Japon",
+   "source_titre": "Japon — Wikipédia",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "acteur::Japon",
+    "chapitre::4.2.1 II.C"
+   ],
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Défis de la Chine",
+   "question": "Quels défis menacent l'essor de la puissance chinoise ? (4)",
+   "reponse": "Des fragilités <span class=\"hl soc\">démographiques</span> et <span class=\"hl eco\">économiques</span>, un <span class=\"hl pol\">modèle autoritaire</span> et la rivalité avec les États-Unis.",
+   "puces": [
+    "<li class=\"soc\"><b>Vieillissement</b> → population en baisse depuis 2022</li>",
+    "<li class=\"eco\"><b>Essoufflement</b> → crise immobilière (Evergrande, 2021), risque du revenu intermédiaire</li>",
+    "<li class=\"instr\"><b>Instruments</b> → ZES depuis 1980, nouvelles routes de la soie (BRI, 2013)</li>",
+    "<li class=\"risk\"><b>Rivalité</b> → guerre commerciale et technologique avec les États-Unis 🇺🇸</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Chine",
+   "source_titre": "Chine — Wikipédia",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "acteur::Chine",
+    "chapitre::4.2.1 II.C"
+   ],
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Rivalité Chine-Inde",
+   "question": "Sur quels terrains la Chine et l'Inde s'affrontent-elles ? (3)",
+   "reponse": "Sur la <span class=\"hl risk\">frontière himalayenne</span>, dans l'<span class=\"hl enj\">océan Indien</span> et par <span class=\"hl pol\">alliances</span> interposées.",
+   "puces": [
+    "<li class=\"risk\"><b>Himalaya</b> → guerre de 1962, Doklam (2017), heurts meurtriers de Galwan (juin 2020)</li>",
+    "<li class=\"pol\"><b>Pakistan 🇵🇰</b> → allié de la Chine, corridor CPEC jusqu'à Gwadar</li>",
+    "<li class=\"enj\"><b>Contre-poids</b> → l'Inde rejoint le Quad et courtise ses voisins</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Guerre_sino-indienne",
+   "source_titre": "Guerre sino-indienne — Wikipédia",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "acteur::Chine",
+    "acteur::Inde",
+    "theme::puissance",
+    "chapitre::4.2.1 II.C"
+   ],
+   "visuel": {
+    "type": "reseau",
+    "acteurs": [
+     {
+      "id": "cn",
+      "label": "Chine",
+      "cat": "pol"
+     },
+     {
+      "id": "in",
+      "label": "Inde",
+      "cat": "act"
+     },
+     {
+      "id": "pk",
+      "label": "Pakistan",
+      "cat": "act"
+     },
+     {
+      "id": "us",
+      "label": "États-Unis",
+      "cat": "act"
+     },
+     {
+      "id": "lk",
+      "label": "Sri Lanka",
+      "cat": "act"
+     }
+    ],
+    "liens": [
+     {
+      "de": "cn",
+      "a": "in",
+      "type": "rivalite",
+      "label": "Himalaya"
+     },
+     {
+      "de": "cn",
+      "a": "pk",
+      "type": "alliance"
+     },
+     {
+      "de": "in",
+      "a": "pk",
+      "type": "conflit",
+      "label": "Cachemire"
+     },
+     {
+      "de": "us",
+      "a": "in",
+      "type": "cooperation",
+      "label": "Quad"
+     },
+     {
+      "de": "lk",
+      "a": "cn",
+      "type": "dependance"
+     }
+    ]
+   },
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "B",
+   "ancre": "Hong Kong",
+   "question": "Quel statut Hong Kong reçoit-il à sa rétrocession et qu'en reste-t-il ? (3)",
+   "reponse": "Le principe « <span class=\"hl pol\">un pays, deux systèmes</span> » devait garantir ses libertés jusqu'en 2047 ; Pékin l'a <span class=\"hl risk\">vidé de sa substance</span>.",
+   "puces": [
+    "<li class=\"date\"><b>1er juillet 1997</b> → rétrocession par le Royaume-Uni 🇬🇧</li>",
+    "<li class=\"soc\"><b>Contestations</b> → révolte des parapluies (2014), manifestations massives de 2019</li>",
+    "<li class=\"risk\"><b>Loi de sécurité nationale</b> → juin 2020 : opposants arrêtés, presse libre fermée</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Hong_Kong",
+   "source_titre": "Hong Kong — Wikipédia",
+   "tags": [
+    "type::B",
+    "region::Asie",
+    "acteur::Chine",
+    "chapitre::4.2.1 II.C"
+   ],
+   "date": "1997",
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "mindmap",
+   "question": "Quelles organisations structurent la coopération en Asie ?",
+   "mindmap": "# Organisations régionales d'Asie\n## 🔘 Asie du Sud-Est\n- ASEAN (1967)\n-- 11 membres depuis Timor (2025)\n- AFTA, zone de libre-échange (1992)\n- ASEAN+3 (1997)\n-- Chine, Japon, Corée du Sud\n## 🔘 Asie du Sud\n- SAARC (1985)\n-- paralysée par Inde-Pakistan\n## 🟣 Asie-Pacifique\n- APEC (1989)\n-- 21 économies, dont États-Unis et Chine\n- RCEP (2020)\n-- plus grand accord de libre-échange\n## 🟠 Sécurité\n- OCS (2001), autour de Pékin et Moscou\n- Quad (2007, relancé en 2017)\n-- États-Unis, Japon, Inde, Australie",
+   "reponse": "Une <span class=\"hl inst\">coopération</span> dense mais <span class=\"hl risk\">fragmentée</span> : organisations économiques inclusives d'un côté, clubs de sécurité <span class=\"hl enj\">rivaux</span> de l'autre.",
+   "source_url": "https://asean.org/forging-a-new-era-timor-leste-admitted-into-asean/",
+   "source_titre": "Forging a New Era: Timor-Leste Admitted into ASEAN — ASEAN (oct. 2025)",
+   "tags": [
+    "type::mindmap",
+    "region::Asie",
+    "theme::alliances",
+    "chapitre::4.2.1 II.D"
+   ],
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "trous",
+   "ancre": "ASEAN",
+   "texte": "L'ASEAN naît en {{c1::1967}} (déclaration de Bangkok) ; elle compte {{c2::11}} membres depuis l'adhésion du {{c3::Timor oriental}} en octobre 2025, et son secrétariat siège à Jakarta.",
+   "source_url": "https://thediplomat.com/2025/10/history-is-made-timor-leste-becomes-aseans-11th-member/",
+   "source_titre": "Timor-Leste Becomes ASEAN's 11th Member — The Diplomat (oct. 2025)",
+   "tags": [
+    "type::trous",
+    "region::Asie",
+    "theme::alliances",
+    "chapitre::4.2.1 II.D"
+   ],
+   "extra": "Fondateurs : Indonésie, Malaisie, Philippines, Singapour, Thaïlande. Décisions au consensus, non-ingérence.",
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "AFTA et RCEP",
+   "question": "Quels accords de libre-échange prolongent l'ASEAN ? (2)",
+   "reponse": "L'<span class=\"hl inst\">AFTA</span> libéralise le commerce entre membres de l'ASEAN ; le <span class=\"hl eco\">RCEP</span> l'élargit à toute l'Asie orientale.",
+   "puces": [
+    "<li class=\"inst\"><b>AFTA</b> → zone de libre-échange de l'ASEAN (1992)</li>",
+    "<li class=\"eco\"><b>RCEP</b> → signé en 2020 par 15 pays dont la Chine, le Japon, la Corée, l'Australie</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Partenariat_r%C3%A9gional_%C3%A9conomique_global",
+   "source_titre": "Partenariat régional économique global — Wikipédia",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "theme::commerce",
+    "chapitre::4.2.1 II.D"
+   ],
+   "piege": "AFTA ≠ ASEAN : l'AFTA est un volet commercial de l'ASEAN, pas son nouveau nom.",
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "B",
+   "ancre": "ASEAN+3",
+   "question": "Pourquoi l'ASEAN+3 est-elle créée et avec qui ? (2)",
+   "reponse": "Pour répondre à la <span class=\"hl risk\">crise financière asiatique</span> en associant l'ASEAN à la <span class=\"hl act\">Chine, au Japon et à la Corée du Sud</span>.",
+   "puces": [
+    "<li class=\"act\"><b>+3</b> → Chine 🇨🇳, Japon 🇯🇵, Corée du Sud 🇰🇷</li>",
+    "<li class=\"instr\"><b>Initiative de Chiang Mai</b> → réseau d'échanges de devises (2000) pour parer aux crises</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/ASEAN_plus_trois",
+   "source_titre": "ASEAN plus trois — Wikipédia",
+   "tags": [
+    "type::B",
+    "region::Asie",
+    "theme::commerce",
+    "chapitre::4.2.1 II.D"
+   ],
+   "date": "1997",
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "SAARC",
+   "question": "Qu'est-ce que la SAARC et pourquoi est-elle paralysée ? (2)",
+   "reponse": "L'association régionale d'<span class=\"hl inst\">Asie du Sud</span> (8 membres), bloquée par la <span class=\"hl risk\">rivalité indo-pakistanaise</span>.",
+   "puces": [
+    "<li class=\"act\"><b>Membres</b> → Inde, Pakistan, Bangladesh, Sri Lanka, Népal, Bhoutan, Maldives, Afghanistan</li>",
+    "<li class=\"risk\"><b>Blocage</b> → aucun sommet depuis 2014, celui d'Islamabad (2016) boycotté par l'Inde</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Association_sud-asiatique_pour_la_coop%C3%A9ration_r%C3%A9gionale",
+   "source_titre": "Association sud-asiatique pour la coopération régionale — Wikipédia",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "acteur::Inde",
+    "acteur::Pakistan",
+    "theme::alliances",
+    "chapitre::4.2.1 II.D"
+   ],
+   "decomposition": {
+    "terme": "SAARC",
+    "parties": [
+     [
+      "S",
+      "South",
+      "act"
+     ],
+     [
+      "A",
+      "Asian",
+      "act"
+     ],
+     [
+      "A",
+      "Association",
+      "inst"
+     ],
+     [
+      "R",
+      "Regional",
+      "pol"
+     ],
+     [
+      "C",
+      "Cooperation",
+      "env"
+     ]
+    ],
+    "note": "créée à Dacca en 1985"
+   },
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "APEC",
+   "question": "Qu'est-ce que l'APEC ? (2)",
+   "reponse": "Un forum de <span class=\"hl eco\">coopération économique</span> des deux rives du Pacifique, qui réunit <span class=\"hl act\">21 économies</span>.",
+   "puces": [
+    "<li class=\"date\"><b>1989</b> → créé à Canberra</li>",
+    "<li class=\"act\"><b>Membres</b> → dont États-Unis, Chine, Japon, Russie et Taïwan (« Taipei chinois »)</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Coop%C3%A9ration_%C3%A9conomique_pour_l'Asie-Pacifique",
+   "source_titre": "Coopération économique pour l'Asie-Pacifique — Wikipédia",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "theme::commerce",
+    "chapitre::4.2.1 II.D"
+   ],
+   "decomposition": {
+    "terme": "APEC",
+    "parties": [
+     [
+      "A",
+      "Asia",
+      "act"
+     ],
+     [
+      "P",
+      "Pacific",
+      "env"
+     ],
+     [
+      "E",
+      "Economic",
+      "eco"
+     ],
+     [
+      "C",
+      "Cooperation",
+      "inst"
+     ]
+    ]
+   },
+   "lien": "On parle d'« économies » et non d'États : Taïwan et Hong Kong y siègent.",
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Organisation de coopération de Shanghai",
+   "question": "Qu'est-ce que l'OCS ? (3)",
+   "reponse": "Un forum <span class=\"hl pol\">sécuritaire et politique</span> centré sur la Chine et la Russie, qui n'est <span class=\"hl risk\">pas une alliance militaire</span>.",
+   "puces": [
+    "<li class=\"date\"><b>2001</b> → succède aux « Cinq de Shanghai » (1996)</li>",
+    "<li class=\"act\"><b>10 membres</b> → Chine, Russie, 4 pays d'Asie centrale, Inde et Pakistan (2017), Iran (2023), Biélorussie (2024)</li>",
+    "<li class=\"instr\"><b>Priorités</b> → lutte contre le « terrorisme, séparatisme, extrémisme », Asie centrale</li>"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Shanghai_Cooperation_Organisation",
+   "source_titre": "Shanghai Cooperation Organisation — Wikipédia (en)",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "acteur::Chine",
+    "acteur::Russie",
+    "theme::alliances",
+    "chapitre::4.2.1 II.D"
+   ],
+   "piege": "OCS ≠ OTAN : aucune clause de défense collective.",
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Quad",
+   "question": "Qu'est-ce que le Quad ? (3)",
+   "reponse": "Un dialogue de <span class=\"hl pol\">sécurité</span> entre quatre démocraties pour <span class=\"hl enj\">contrebalancer la Chine</span> dans l'Indopacifique.",
+   "puces": [
+    "<li class=\"act\"><b>Membres</b> → États-Unis 🇺🇸, Japon 🇯🇵, Inde 🇮🇳, Australie 🇦🇺</li>",
+    "<li class=\"date\"><b>Histoire</b> → lancé par Abe en 2007, abandonné en 2008, relancé en novembre 2017</li>",
+    "<li class=\"instr\"><b>Actions</b> → sommets de dirigeants depuis 2021, exercices navals Malabar</li>"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Quadrilateral_Security_Dialogue",
+   "source_titre": "Quadrilateral Security Dialogue — Wikipédia (en)",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "acteur::États-Unis",
+    "acteur::Inde",
+    "theme::alliances",
+    "chapitre::4.2.1 II.D"
+   ],
+   "piege": "Quad ≠ AUKUS : AUKUS (2021) lie Australie, Royaume-Uni et États-Unis autour de sous-marins nucléaires.",
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Indopacifique",
+   "question": "Que désigne l'Indopacifique et comment le délimiter ? (2)",
+   "reponse": "Un espace <span class=\"hl enj\">maritime</span> qui relie océans Indien et Pacifique, pensé pour intégrer l'<span class=\"hl act\">Inde</span> face à la Chine.",
+   "puces": [
+    "<li class=\"conc\"><b>Maximaliste</b> → des côtes est-africaines aux Amériques : près des deux tiers de l'humanité</li>",
+    "<li class=\"conc\"><b>Minimaliste</b> → de l'Inde au Pacifique ouest, autour des pivots chinois et indien</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Indo-Pacifique",
+   "source_titre": "Indo-Pacifique — Wikipédia",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "region::Indo-Pacifique",
+    "theme::puissance",
+    "chapitre::4.2.1 II.D"
+   ],
+   "meta": "Notion popularisée par Shinzo Abe (« confluence des deux mers », Parlement indien, 2007).",
+   "visuel": {
+    "type": "carte",
+    "fond": "indo_pacifique",
+    "points": [
+     {
+      "lon": 77.2,
+      "lat": 28.6,
+      "label": "Inde",
+      "cat": "act"
+     },
+     {
+      "lon": 116.4,
+      "lat": 39.9,
+      "label": "Chine",
+      "cat": "pol"
+     },
+     {
+      "lon": 139.7,
+      "lat": 35.7,
+      "label": "Japon",
+      "cat": "act"
+     },
+     {
+      "lon": 149.1,
+      "lat": -35.3,
+      "label": "Australie",
+      "cat": "act"
+     }
+    ]
+   },
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Indopacifique, champ d'affrontement",
+   "question": "Quelles visions de l'Indopacifique s'affrontent ? (3)",
+   "reponse": "Un Indopacifique « <span class=\"hl instr\">libre et ouvert</span> » porté par Washington et ses alliés, face aux <span class=\"hl instr\">routes de la soie</span> chinoises.",
+   "puces": [
+    "<li class=\"instr\"><b>FOIP</b> → vision de Tokyo (2016) reprise par Washington (2017) : liberté de navigation, alliances</li>",
+    "<li class=\"pol\"><b>Chine 🇨🇳</b> → BRI (2013) et première base à l'étranger, à Djibouti (2017)</li>",
+    "<li class=\"act\"><b>Puissances d'équilibre</b> → Inde 🇮🇳, France 🇫🇷, ASEAN : stratégies propres</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Indo-Pacifique",
+   "source_titre": "Indo-Pacifique — Wikipédia",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "region::Indo-Pacifique",
+    "theme::puissance",
+    "chapitre::4.2.1 II.D"
+   ],
+   "decomposition": {
+    "terme": "FOIP",
+    "parties": [
+     [
+      "F",
+      "Free",
+      "pol"
+     ],
+     [
+      "O",
+      "and Open",
+      "env"
+     ],
+     [
+      "I",
+      "Indo-",
+      "act"
+     ],
+     [
+      "P",
+      "Pacific",
+      "act"
+     ]
+    ],
+    "note": "Indopacifique libre et ouvert"
+   },
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Indopacifique, cœur économique",
+   "question": "Pourquoi l'Indopacifique est-il vital pour l'économie mondiale ? (3)",
+   "reponse": "Il concentre la <span class=\"hl eco\">production</span>, les <span class=\"hl res\">routes maritimes</span> et les <span class=\"hl res\">ports</span> que se disputent Chine et Inde.",
+   "puces": [
+    "<li class=\"res\"><b>Détroits</b> → Malacca, Ormuz, Bab-el-Mandeb : passages obligés du commerce et du pétrole</li>",
+    "<li class=\"instr\"><b>Ports chinois</b> → Hambantota (Sri Lanka), Gwadar (Pakistan)</li>",
+    "<li class=\"instr\"><b>Riposte indienne</b> → programme portuaire Sagarmala (2015)</li>"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Strait_of_Malacca",
+   "source_titre": "Strait of Malacca — Wikipédia (en)",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "region::Indo-Pacifique",
+    "theme::commerce",
+    "chapitre::4.2.1 II.D"
+   ],
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Collier de perles",
+   "question": "Que désigne le « collier de perles » chinois ? (2)",
+   "reponse": "Le réseau de <span class=\"hl res\">ports</span> financés ou gérés par la Chine autour de l'<span class=\"hl enj\">océan Indien</span>, perçu par l'Inde comme un <span class=\"hl risk\">encerclement</span>.",
+   "puces": [
+    "<li class=\"date\"><b>Origine</b> → expression d'un rapport américain (Booz Allen, 2004)</li>",
+    "<li class=\"res\"><b>Perles</b> → Gwadar, Hambantota, Chittagong, Kyaukpyu, base de Djibouti</li>"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/String_of_Pearls_(Indian_Ocean)",
+   "source_titre": "String of Pearls (Indian Ocean) — Wikipédia (en)",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "acteur::Chine",
+    "acteur::Inde",
+    "theme::puissance",
+    "chapitre::4.2.1 II.D"
+   ],
+   "visuel": {
+    "type": "carte",
+    "fond": "inde_pakistan",
+    "points": [
+     {
+      "lon": 62.33,
+      "lat": 25.12,
+      "label": "Gwadar (Pakistan)",
+      "cat": "res"
+     },
+     {
+      "lon": 81.11,
+      "lat": 6.12,
+      "label": "Hambantota (Sri Lanka)",
+      "cat": "res"
+     },
+     {
+      "lon": 91.8,
+      "lat": 22.33,
+      "label": "Chittagong (Bangladesh)",
+      "cat": "res"
+     },
+     {
+      "lon": 93.55,
+      "lat": 19.43,
+      "label": "Kyaukpyu (Birmanie)",
+      "cat": "res"
+     }
+    ]
+   },
+   "piege": "Le « collier de perles » est une lecture indienne et américaine, pas une doctrine chinoise officielle.",
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Sri Lanka, situation",
+   "question": "Quelle île est repérée par ① et quels sont ses grands traits physiques ? (3)",
+   "reponse": "① le <span class=\"hl act\">Sri Lanka 🇱🇰</span>, île à moins de <span class=\"hl res\">100 km</span> de l'Inde, au cœur de l'océan Indien.",
+   "puces": [
+    "<li class=\"env\"><b>Relief</b> → plaines côtières et massif central (plus de 2 500 m)</li>",
+    "<li class=\"res\"><b>Hautes terres</b> → thé et hévéa, héritage des plantations britanniques</li>",
+    "<li class=\"env\"><b>Plaines</b> → riz et cocotiers</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Sri_Lanka",
+   "source_titre": "Sri Lanka — Wikipédia",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "acteur::Sri_Lanka",
+    "etude-de-cas::Sri_Lanka",
+    "localisation",
+    "chapitre::4.2.1 Étude de cas Sri Lanka"
+   ],
+   "visuel_recto": {
+    "type": "carte",
+    "fond": "inde_pakistan",
+    "muette": true,
+    "points": [
+     {
+      "lon": 80.7,
+      "lat": 7.8,
+      "label": "Sri Lanka",
+      "cat": "act"
+     }
+    ]
+   },
+   "visuel": {
+    "type": "carte",
+    "fond": "inde_pakistan",
+    "points": [
+     {
+      "lon": 79.86,
+      "lat": 6.93,
+      "label": "Colombo",
+      "cat": "act"
+     },
+     {
+      "lon": 81.11,
+      "lat": 6.12,
+      "label": "Hambantota",
+      "cat": "res"
+     },
+     {
+      "lon": 80.0,
+      "lat": 9.66,
+      "label": "Jaffna (nord tamoul)",
+      "cat": "soc"
+     }
+    ]
+   },
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Économie sri-lankaise",
+   "question": "Sur quoi repose l'économie du Sri Lanka ? (3)",
+   "reponse": "Sur les <span class=\"hl eco\">services</span> et le tourisme, une industrie d'<span class=\"hl eco\">exportation</span> et une agriculture de plantation encore très <span class=\"hl soc\">employeuse</span>.",
+   "puces": [
+    "<li class=\"eco\"><b>Services</b> → tourisme, transport maritime (port de Colombo), plus de la moitié du PIB</li>",
+    "<li class=\"eco\"><b>Exportations</b> → vêtements, thé de Ceylan, caoutchouc</li>",
+    "<li class=\"soc\"><b>Agriculture</b> → faible part du PIB mais une large part des emplois</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/%C3%89conomie_du_Sri_Lanka",
+   "source_titre": "Économie du Sri Lanka — Wikipédia",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "acteur::Sri_Lanka",
+    "etude-de-cas::Sri_Lanka",
+    "theme::commerce",
+    "chapitre::4.2.1 Étude de cas Sri Lanka"
+   ],
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Population sri-lankaise",
+   "question": "Comment se compose la population du Sri Lanka ? (3)",
+   "reponse": "≈ <span class=\"hl soc\">21,8 millions</span> d'habitants, à majorité <span class=\"hl act\">cinghalaise</span> et <span class=\"hl conc\">bouddhiste</span>, avec une forte minorité <span class=\"hl act\">tamoule</span>.",
+   "puces": [
+    "<li class=\"act\"><b>Ethnies</b> → Cinghalais ≈ 74 %, Tamouls ≈ 15 %, Maures (musulmans) ≈ 10 %</li>",
+    "<li class=\"conc\"><b>Religions</b> → bouddhistes ≈ 70 %, hindous 12,6 %, musulmans 10,7 %, chrétiens 6,9 %</li>",
+    "<li class=\"soc\"><b>Langues</b> → cinghala et tamoul officiels, anglais langue de liaison</li>"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Demographics_of_Sri_Lanka",
+   "source_titre": "Demographics of Sri Lanka — Wikipédia (en), recensement 2024",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "acteur::Sri_Lanka",
+    "etude-de-cas::Sri_Lanka",
+    "chapitre::4.2.1 Étude de cas Sri Lanka"
+   ],
+   "piege": "Cinghalais ↔ bouddhistes, Tamouls ↔ hindous : c'est le clivage de la guerre civile.",
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "B",
+   "ancre": "Tsunami au Sri Lanka",
+   "question": "Quels risques naturels menacent le Sri Lanka ? (3)",
+   "reponse": "Des <span class=\"hl risk\">tsunamis</span>, comme celui qui fit ≈ <span class=\"hl risk\">35 000 morts</span> sur l'île, et un <span class=\"hl env\">dérèglement des moussons</span>.",
+   "puces": [
+    "<li class=\"risk\"><b>Tsunami</b> → provoqué par un séisme au large de Sumatra, côtes est et sud ravagées</li>",
+    "<li class=\"env\"><b>Climat</b> → hausse des températures, moussons irrégulières, inondations</li>",
+    "<li class=\"env\"><b>Sécheresses</b> → menacent le riz et le thé</li>"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami",
+   "source_titre": "2004 Indian Ocean earthquake and tsunami — Wikipédia (en)",
+   "tags": [
+    "type::B",
+    "region::Asie",
+    "acteur::Sri_Lanka",
+    "etude-de-cas::Sri_Lanka",
+    "theme::climat",
+    "chapitre::4.2.1 Étude de cas Sri Lanka"
+   ],
+   "date": "26 décembre 2004",
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "B",
+   "ancre": "Sri Lanka 100 % bio",
+   "question": "Que s'est-il passé quand le Sri Lanka a voulu passer au 100 % bio ? (3)",
+   "reponse": "L'<span class=\"hl pol\">interdiction brutale</span> des engrais chimiques a fait <span class=\"hl risk\">chuter les récoltes</span> et fut abandonnée en quelques mois.",
+   "puces": [
+    "<li class=\"pol\"><b>Décision</b> → premier pays à interdire tous les engrais et pesticides chimiques</li>",
+    "<li class=\"risk\"><b>Effets</b> → baisse forte du riz et du thé, colère des agriculteurs</li>",
+    "<li class=\"eco\"><b>Recul</b> → interdiction levée en novembre 2021, crise économique aggravée</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Sri_Lanka",
+   "source_titre": "Sri Lanka — Wikipédia",
+   "tags": [
+    "type::B",
+    "region::Asie",
+    "acteur::Sri_Lanka",
+    "etude-de-cas::Sri_Lanka",
+    "theme::climat",
+    "chapitre::4.2.1 Étude de cas Sri Lanka"
+   ],
+   "date": "avril 2021",
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Position stratégique du Sri Lanka",
+   "question": "Pourquoi le Sri Lanka occupe-t-il une position stratégique ? (3)",
+   "reponse": "Il se trouve sur la <span class=\"hl res\">grande route maritime</span> Europe-Asie, entre Bab-el-Mandeb et Malacca, et commerce avec les deux blocs rivaux.",
+   "puces": [
+    "<li class=\"res\"><b>Route maritime</b> → Colombo, grand port de transbordement de l'océan Indien</li>",
+    "<li class=\"act\"><b>Importations</b> → d'abord de l'Inde 🇮🇳 et de la Chine 🇨🇳</li>",
+    "<li class=\"eco\"><b>Exportations</b> → d'abord vers les États-Unis 🇺🇸 et l'Europe 🇪🇺</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Sri_Lanka",
+   "source_titre": "Sri Lanka — Wikipédia",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "acteur::Sri_Lanka",
+    "etude-de-cas::Sri_Lanka",
+    "theme::commerce",
+    "chapitre::4.2.1 Étude de cas Sri Lanka"
+   ],
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "B",
+   "ancre": "Port de Hambantota",
+   "question": "Comment le port de Hambantota est-il passé sous contrôle chinois ? (3)",
+   "reponse": "Financé par des <span class=\"hl eco\">prêts chinois</span> mais peu rentable, il a été <span class=\"hl instr\">concédé</span> à une entreprise chinoise pour <span class=\"hl risk\">99 ans</span>.",
+   "puces": [
+    "<li class=\"eco\"><b>Financement</b> → prêts de l'Exim Bank chinoise, port ouvert en 2010</li>",
+    "<li class=\"instr\"><b>Concession</b> → China Merchants Port acquiert 85 % pour 1,12 Md$ (juillet 2017)</li>",
+    "<li class=\"risk\"><b>Débat</b> → symbole du « piège de la dette », thèse discutée par les chercheurs</li>"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Hambantota_International_Port",
+   "source_titre": "Hambantota International Port — Wikipédia (en)",
+   "tags": [
+    "type::B",
+    "region::Asie",
+    "acteur::Sri_Lanka",
+    "etude-de-cas::Sri_Lanka",
+    "acteur::Chine",
+    "theme::commerce",
+    "chapitre::4.2.1 Étude de cas Sri Lanka"
+   ],
+   "date": "2017",
+   "memo": "Hambantota, l'« éléphant blanc » : un port géant sans trafic.",
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "B",
+   "ancre": "Défaut du Sri Lanka",
+   "question": "Comment le Sri Lanka est-il tombé en défaut de paiement ? (3)",
+   "reponse": "Des <span class=\"hl eco\">baisses d’impôts</span>, l'effondrement du <span class=\"hl risk\">tourisme</span> et une <span class=\"hl eco\">dette</span> lourde ont vidé ses réserves de devises.",
+   "puces": [
+    "<li class=\"eco\"><b>Dette</b> → la Chine 🇨🇳 est le premier créancier bilatéral</li>",
+    "<li class=\"risk\"><b>Défaut</b> → premier défaut de l'histoire du pays sur sa dette extérieure</li>",
+    "<li class=\"inst\"><b>FMI</b> → plan d'aide de 2,9 Md$ accordé en mars 2023</li>"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/2022_Sri_Lankan_protests",
+   "source_titre": "2022 Sri Lankan protests — Wikipédia (en)",
+   "tags": [
+    "type::B",
+    "region::Asie",
+    "acteur::Sri_Lanka",
+    "etude-de-cas::Sri_Lanka",
+    "acteur::Chine",
+    "chapitre::4.2.1 Étude de cas Sri Lanka"
+   ],
+   "date": "avril 2022",
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Sri Lanka entre Chine et Inde",
+   "question": "Comment le Sri Lanka se place-t-il dans la rivalité Chine-Inde ? (3)",
+   "reponse": "Il <span class=\"hl pol\">joue des deux</span> : la Chine finance ses infrastructures, l'Inde reste son <span class=\"hl act\">voisin protecteur</span> et son premier sauveteur.",
+   "puces": [
+    "<li class=\"instr\"><b>Chine 🇨🇳</b> → Hambantota, Colombo Port City, escales de navires de recherche</li>",
+    "<li class=\"act\"><b>Inde 🇮🇳</b> → ≈ 4 Md$ d'aide d'urgence en 2022, liens avec les Tamouls</li>",
+    "<li class=\"pol\"><b>Équilibre</b> → Colombo évite de choisir, comme beaucoup de petits États</li>"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/India%E2%80%93Sri_Lanka_relations",
+   "source_titre": "India–Sri Lanka relations — Wikipédia (en)",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "acteur::Sri_Lanka",
+    "etude-de-cas::Sri_Lanka",
+    "acteur::Chine",
+    "acteur::Inde",
+    "chapitre::4.2.1 Étude de cas Sri Lanka"
+   ],
+   "visuel": {
+    "type": "reseau",
+    "centre": "lk",
+    "acteurs": [
+     {
+      "id": "lk",
+      "label": "Sri Lanka",
+      "cat": "act"
+     },
+     {
+      "id": "cn",
+      "label": "Chine",
+      "cat": "pol"
+     },
+     {
+      "id": "in",
+      "label": "Inde",
+      "cat": "pol"
+     },
+     {
+      "id": "imf",
+      "label": "FMI",
+      "cat": "inst"
+     }
+    ],
+    "liens": [
+     {
+      "de": "lk",
+      "a": "cn",
+      "type": "dependance",
+      "label": "dette, ports"
+     },
+     {
+      "de": "in",
+      "a": "lk",
+      "type": "soutien",
+      "label": "aide 2022"
+     },
+     {
+      "de": "cn",
+      "a": "in",
+      "type": "rivalite"
+     },
+     {
+      "de": "imf",
+      "a": "lk",
+      "type": "soutien"
+     }
+    ]
+   },
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Diaspora sri-lankaise",
+   "question": "Où vont les émigrés sri-lankais et pourquoi ? (3)",
+   "reponse": "Les <span class=\"hl act\">Tamouls</span> ont fui la <span class=\"hl risk\">guerre civile</span> vers l'Occident ; d'autres Sri-Lankais partent <span class=\"hl eco\">travailler</span> dans le Golfe.",
+   "puces": [
+    "<li class=\"act\"><b>Occident</b> → Canada, Royaume-Uni, France (quartier « Little Jaffna » à Paris)</li>",
+    "<li class=\"risk\"><b>Causes</b> → guerre, discriminations, revendication d'un État tamoul au nord</li>",
+    "<li class=\"eco\"><b>Golfe</b> → travailleurs migrants dont les envois de fonds soutiennent l'économie</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Diaspora_tamoule",
+   "source_titre": "Diaspora tamoule — Wikipédia",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "acteur::Sri_Lanka",
+    "etude-de-cas::Sri_Lanka",
+    "theme::migrations",
+    "chapitre::4.2.1 Étude de cas Sri Lanka"
+   ],
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Tourisme au Sri Lanka",
+   "question": "Comment le tourisme sri-lankais a-t-il évolué depuis 2018 ?",
+   "reponse": "Il s'est <span class=\"hl risk\">effondré</span> après les attentats de 2019 et le Covid, puis est <span class=\"hl eco\">revenu</span> au niveau d'avant-crise en 2025.",
+   "puces": [
+    "<li class=\"risk\"><b>Chocs</b> → attentats islamistes de Pâques (2019), pandémie (2020)</li>",
+    "<li class=\"eco\"><b>Rebond</b> → ≈ 2,1 M de visiteurs en 2025, l'Inde en tête</li>"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Tourism_in_Sri_Lanka",
+   "source_titre": "Tourism in Sri Lanka — Wikipédia (en)",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "acteur::Sri_Lanka",
+    "etude-de-cas::Sri_Lanka",
+    "chapitre::4.2.1 Étude de cas Sri Lanka"
+   ],
+   "_sans_n": true,
+   "visuel": {
+    "type": "courbe",
+    "unite": "millions de touristes",
+    "series": [
+     {
+      "nom": "Arrivées",
+      "cat": "eco",
+      "points": [
+       [
+        2018,
+        2.33
+       ],
+       [
+        2019,
+        1.91
+       ],
+       [
+        2020,
+        0.51
+       ],
+       [
+        2023,
+        1.49
+       ],
+       [
+        2024,
+        2.05
+       ],
+       [
+        2025,
+        2.1
+       ]
+      ]
+     }
+    ],
+    "annotations": [
+     {
+      "x": 2019,
+      "label": "attentats"
+     },
+     {
+      "x": 2020,
+      "label": "Covid"
+     }
+    ]
+   },
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "B",
+   "ancre": "Aragalaya",
+   "question": "Comment la crise économique a-t-elle renversé le pouvoir au Sri Lanka ? (3)",
+   "reponse": "Pénuries et inflation ont nourri un <span class=\"hl soc\">soulèvement populaire</span> qui a chassé le clan <span class=\"hl pol\">Rajapaksa</span>.",
+   "puces": [
+    "<li class=\"soc\"><b>Aragalaya</b> → « la lutte » : occupation du palais présidentiel</li>",
+    "<li class=\"pol\"><b>Chute</b> → le président Gotabaya Rajapaksa fuit et démissionne (juillet 2022)</li>",
+    "<li class=\"pol\"><b>Alternance</b> → élection d'Anura Kumara Dissanayake, candidat hors système (2024)</li>"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/2022_Sri_Lankan_protests",
+   "source_titre": "2022 Sri Lankan protests — Wikipédia (en)",
+   "tags": [
+    "type::B",
+    "region::Asie",
+    "acteur::Sri_Lanka",
+    "etude-de-cas::Sri_Lanka",
+    "chapitre::4.2.1 Étude de cas Sri Lanka"
+   ],
+   "date": "2022",
+   "saisie": "Rajapaksa",
+   "saisie_consigne": "Nom du clan présidentiel chassé par la rue ?",
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "B",
+   "ancre": "Guerre civile sri-lankaise",
+   "question": "Quelles sont les causes et l'issue de la guerre civile sri-lankaise ? (3)",
+   "reponse": "Le <span class=\"hl risk\">séparatisme tamoul</span>, né des discriminations, s'est achevé par une <span class=\"hl pol\">victoire militaire</span> du gouvernement.",
+   "puces": [
+    "<li class=\"risk\"><b>LTTE</b> → Tigres tamouls de Prabhakaran, attentats-suicides</li>",
+    "<li class=\"soc\"><b>Bilan</b> → 80 000 à 100 000 morts selon l'ONU, plus d'un million de déplacés</li>",
+    "<li class=\"pol\"><b>Fin</b> → reconquête du nord et mort de Prabhakaran (mai 2009)</li>"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Sri_Lankan_civil_war",
+   "source_titre": "Sri Lankan civil war — Wikipédia (en)",
+   "tags": [
+    "type::B",
+    "region::Asie",
+    "acteur::Sri_Lanka",
+    "etude-de-cas::Sri_Lanka",
+    "theme::defense",
+    "chapitre::4.2.1 Étude de cas Sri Lanka"
+   ],
+   "date": "1983-2009",
+   "saisie": "Prabhakaran;Velupillai Prabhakaran",
+   "saisie_consigne": "Nom du chef des Tigres tamouls ?",
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "B",
+   "ancre": "L'Inde dans la guerre sri-lankaise",
+   "question": "Quel rôle l'Inde a-t-elle joué dans la guerre civile sri-lankaise ? (3)",
+   "reponse": "D'abord <span class=\"hl act\">soutien</span> des Tamouls, l'Inde s'est <span class=\"hl risk\">enlisée</span> dans une intervention qui s'est retournée contre elle.",
+   "puces": [
+    "<li class=\"pol\"><b>Accord indo-sri-lankais</b> → juillet 1987 : autonomie des provinces tamoules</li>",
+    "<li class=\"risk\"><b>IPKF</b> → force indienne de maintien de la paix (1987-1990), ≈ 1 200 soldats tués</li>",
+    "<li class=\"risk\"><b>Assassinat</b> → Rajiv Gandhi tué par une kamikaze des Tigres (21 mai 1991)</li>"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Sri_Lankan_civil_war",
+   "source_titre": "Sri Lankan civil war — Wikipédia (en)",
+   "tags": [
+    "type::B",
+    "region::Asie",
+    "acteur::Sri_Lanka",
+    "etude-de-cas::Sri_Lanka",
+    "acteur::Inde",
+    "chapitre::4.2.1 Étude de cas Sri Lanka"
+   ],
+   "date": "1987-1991",
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Singapour",
+   "question": "Quels sont les atouts et les limites de Singapour ? (3)",
+   "reponse": "Une <span class=\"hl eco\">cité-État richissime</span> bâtie sur son port et sa stabilité, mais <span class=\"hl risk\">dépendante</span> de l'extérieur.",
+   "puces": [
+    "<li class=\"eco\"><b>Richesse</b> → PIB par habitant ≈ 108 000 $ (FMI, 2026), IDH 0,946</li>",
+    "<li class=\"pol\"><b>Stabilité</b> → PAP au pouvoir depuis 1959, héritage de Lee Kuan Yew</li>",
+    "<li class=\"risk\"><b>Dépendance</b> → importe nourriture et une partie de son eau (Malaisie)</li>"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita",
+   "source_titre": "GDP (nominal) per capita — Wikipédia (en), FMI (WEO 2026)",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "acteur::Singapour",
+    "chapitre::4.2.1 Fiches pays"
+   ],
+   "portraits": [
+    {
+     "wiki": "Lee Kuan Yew",
+     "nom": "Lee Kuan Yew",
+     "legende": "Premier ministre (1959-1990)"
+    }
+   ],
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Taïwan",
+   "question": "Quelle est la situation de Taïwan ? (3)",
+   "reponse": "Une <span class=\"hl pol\">démocratie</span> riche et <span class=\"hl eco\">indispensable</span> à l'industrie mondiale, mais <span class=\"hl risk\">menacée</span> par Pékin.",
+   "puces": [
+    "<li class=\"eco\"><b>Semi-conducteurs</b> → TSMC produit l'essentiel des puces les plus avancées du monde</li>",
+    "<li class=\"eco\"><b>Niveau de vie</b> → PIB par habitant ≈ 42 000 $ (FMI, 2026)</li>",
+    "<li class=\"risk\"><b>Isolement</b> → exclue de l'ONU depuis 1971, reconnue par une douzaine d'États</li>"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita",
+   "source_titre": "GDP (nominal) per capita — Wikipédia (en), FMI (WEO 2026)",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "acteur::Taïwan",
+    "acteur::Chine",
+    "chapitre::4.2.1 Fiches pays"
+   ],
+   "lien": "Mer de Chine · « bouclier de silicium »",
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Brunei",
+   "question": "Qu'est-ce qui caractérise Brunei ? (3)",
+   "reponse": "Un petit <span class=\"hl pol\">sultanat</span> rendu <span class=\"hl eco\">riche</span> par les <span class=\"hl res\">hydrocarbures</span>.",
+   "puces": [
+    "<li class=\"res\"><b>Pétrole et gaz</b> → l'essentiel des exportations et des recettes</li>",
+    "<li class=\"eco\"><b>Niveau de vie</b> → PIB par habitant ≈ 36 000 $, IDH 0,837</li>",
+    "<li class=\"pol\"><b>Histoire</b> → protectorat britannique jusqu'en 1984, puis membre de l'ASEAN</li>"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita",
+   "source_titre": "GDP (nominal) per capita — Wikipédia (en), FMI (WEO 2026)",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "acteur::Brunei",
+    "chapitre::4.2.1 Fiches pays"
+   ],
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Thaïlande",
+   "question": "Qu'est-ce qui caractérise la Thaïlande ? (3)",
+   "reponse": "Une économie <span class=\"hl eco\">ouverte</span> et touristique, une <span class=\"hl pol\">monarchie</span> puissante et une armée qui pèse sur la vie politique.",
+   "puces": [
+    "<li class=\"eco\"><b>Économie</b> → tourisme, automobile ; croissance faible, autour de 2 %</li>",
+    "<li class=\"pol\"><b>Monarchie</b> → Rama X, roi depuis 2016, l'un des monarques les plus riches du monde</li>",
+    "<li class=\"risk\"><b>Coups d'État</b> → 2006 et 2014 ; équilibre entre Chine et États-Unis</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Tha%C3%AFlande",
+   "source_titre": "Thaïlande — Wikipédia",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "acteur::Thaïlande",
+    "chapitre::4.2.1 Fiches pays"
+   ],
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Philippines",
+   "question": "Quels sont les défis des Philippines ? (3)",
+   "reponse": "Une croissance <span class=\"hl eco\">soutenue</span>, mais une <span class=\"hl soc\">pauvreté urbaine</span> massive et une démocratie <span class=\"hl risk\">fragile</span>.",
+   "puces": [
+    "<li class=\"soc\"><b>Bidonvilles</b> → Tondo à Manille, envois de fonds de millions d'expatriés</li>",
+    "<li class=\"risk\"><b>Démocratie fragile</b> → dynasties Marcos et Duterte ; Duterte arrêté pour la CPI (mars 2025)</li>",
+    "<li class=\"enj\"><b>Mer de Chine</b> → en première ligne face à Pékin, alliée des États-Unis</li>"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/List_of_countries_in_Asia_and_Oceania_by_Human_Development_Index",
+   "source_titre": "Asia and Oceania by HDI — Wikipédia (en), PNUD RDH 2025 (données 2023)",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "acteur::Philippines",
+    "chapitre::4.2.1 Fiches pays"
+   ],
+   "piege": "Les Philippines ne sont pas un régime autoritaire : ce sont une démocratie fragile.",
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Vietnam",
+   "question": "Quels sont les atouts et les défis du Vietnam ? (3)",
+   "reponse": "Un <span class=\"hl pol\">parti unique</span> converti au marché, devenu <span class=\"hl eco\">atelier de l’Asie</span>, mais exposé au <span class=\"hl env\">climat</span>.",
+   "puces": [
+    "<li class=\"eco\"><b>Croissance</b> → ≈ 7 % par an, électronique (Samsung), textile ; IDH 0,766</li>",
+    "<li class=\"instr\"><b>Diplomatie du bambou</b> → souple mais bien enracinée : ménage Chine et États-Unis</li>",
+    "<li class=\"env\"><b>Delta du Mékong</b> → salinisation et montée des eaux menacent le riz</li>"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/List_of_countries_in_Asia_and_Oceania_by_Human_Development_Index",
+   "source_titre": "Asia and Oceania by HDI — Wikipédia (en), PNUD RDH 2025 (données 2023)",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "acteur::Vietnam",
+    "chapitre::4.2.1 Fiches pays"
+   ],
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Cambodge",
+   "question": "Quelle est la situation du Cambodge ? (3)",
+   "reponse": "Un pays encore <span class=\"hl soc\">pauvre</span>, dominé par une <span class=\"hl pol\">dynastie politique</span> et de plus en plus <span class=\"hl risk\">dépendant de la Chine</span>.",
+   "puces": [
+    "<li class=\"soc\"><b>Développement</b> → IDH 0,606 (151e), textile, riz, tourisme d'Angkor</li>",
+    "<li class=\"pol\"><b>Clan Hun</b> → Hun Sen au pouvoir de 1985 à 2023, puis son fils Hun Manet</li>",
+    "<li class=\"risk\"><b>Chine 🇨🇳</b> → premier investisseur, base navale de Ream modernisée par Pékin</li>"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/List_of_countries_in_Asia_and_Oceania_by_Human_Development_Index",
+   "source_titre": "Asia and Oceania by HDI — Wikipédia (en), PNUD RDH 2025 (données 2023)",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "acteur::Cambodge",
+    "acteur::Chine",
+    "chapitre::4.2.1 Fiches pays"
+   ],
+   "piege": "L'IDH le plus bas d'Asie n'est pas celui du Cambodge mais celui de l'Afghanistan.",
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Bangladesh et Pakistan",
+   "question": "Lequel, du Bangladesh ou du Pakistan, est aujourd'hui le plus développé ?",
+   "reponse": "Le <span class=\"hl act\">Bangladesh</span>, pourtant né de la sécession de 1971, a <span class=\"hl eco\">dépassé</span> le <span class=\"hl risk\">Pakistan</span> en PIB, en revenu et en IDH.",
+   "puces": [
+    "<li class=\"eco\"><b>Bangladesh</b> → 2e exportateur mondial de vêtements ; révolte qui chasse Sheikh Hasina (août 2024)</li>",
+    "<li class=\"risk\"><b>Pakistan</b> → crises de la dette, plans du FMI, corridor CPEC chinois</li>"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita",
+   "source_titre": "GDP (nominal) per capita — Wikipédia (en), FMI (WEO 2026)",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "acteur::Bangladesh",
+    "acteur::Pakistan",
+    "chapitre::4.2.1 Fiches pays"
+   ],
+   "_sans_n": true,
+   "visuel": {
+    "type": "tableau",
+    "colonnes": [
+     "",
+     "Bangladesh",
+     "Pakistan"
+    ],
+    "cats": [
+     null,
+     "eco",
+     "risk"
+    ],
+    "lignes": [
+     [
+      "PIB 2026",
+      "≈ 511 Md$",
+      "≈ 452 Md$"
+     ],
+     [
+      "PIB par habitant",
+      "≈ 2 900 $",
+      "≈ 1 700 $"
+     ],
+     [
+      "IDH 2023",
+      "0,685",
+      "0,544"
+     ]
+    ]
+   },
+   "piege": "Le cours affirme les deux choses inverses : c'est bien le Bangladesh qui devance le Pakistan.",
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Asie centrale",
+   "question": "Quelles stratégies suivent le Kazakhstan et l'Ouzbékistan ? (3)",
+   "reponse": "Des États <span class=\"hl res\">riches en ressources</span> qui pratiquent une diplomatie <span class=\"hl instr\">multivectorielle</span> entre Russie, Chine et Occident.",
+   "puces": [
+    "<li class=\"res\"><b>Kazakhstan 🇰🇿</b> → 1er producteur mondial d'uranium, pétrole de la Caspienne</li>",
+    "<li class=\"res\"><b>Ouzbékistan 🇺🇿</b> → gaz, or, coton ; ouverture depuis 2016</li>",
+    "<li class=\"instr\"><b>Multivectorialisme</b> → membres de l'OCS, partenaires de la BRI, courtisés par l'UE</li>"
+   ],
+   "source_url": "https://fr.wikipedia.org/wiki/Asie_centrale",
+   "source_titre": "Asie centrale — Wikipédia",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "acteur::Kazakhstan",
+    "acteur::Ouzbékistan",
+    "chapitre::4.2.1 Fiches pays"
+   ],
+   "saisie": "multivectorielle;multivectoriel",
+   "saisie_consigne": "Adjectif qui qualifie une diplomatie tournée vers toutes les puissances ?",
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  },
+  {
+   "modele": "basique",
+   "type": "C",
+   "ancre": "Mongolie",
+   "question": "Comment la Mongolie échappe-t-elle à ses deux voisins ? (3)",
+   "reponse": "Enclavée entre <span class=\"hl act\">Chine</span> et <span class=\"hl act\">Russie</span>, elle cherche des « <span class=\"hl instr\">troisièmes voisins</span> » pour diversifier ses débouchés miniers.",
+   "puces": [
+    "<li class=\"res\"><b>Mines</b> → cuivre (Oyu Tolgoi) et charbon, surtout vendus à la Chine</li>",
+    "<li class=\"instr\"><b>France 🇫🇷</b> → accord avec Orano pour l'uranium de Zuuvch-Ovoo (janvier 2025, ≈ 1,6 Md$)</li>",
+    "<li class=\"pol\"><b>Démocratie</b> → une des rares démocraties d'Asie centrale et orientale</li>"
+   ],
+   "source_url": "https://www.orano.group/en/news/news-group/2025/january/orano-signs-investment-agreement-with-mongolian-government-to-develop-world-class-uranium-deposit",
+   "source_titre": "Orano signs investment agreement with Mongolian government — Orano (janv. 2025)",
+   "tags": [
+    "type::C",
+    "region::Asie",
+    "acteur::Mongolie",
+    "chapitre::4.2.1 Fiches pays"
+   ],
+   "piege": "La Mongolie vit du cuivre et du charbon, pas des hydrocarbures.",
+   "deck": "Prépa ECG::HGG::Asie::4.2.1 L'Asie, géopolitique d'une région plurielle"
+  }
+ ]
+}

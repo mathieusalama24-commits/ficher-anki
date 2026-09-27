@@ -1,0 +1,487 @@
+{
+ "deck": "Prépa ECG::Maths::Probabilités::Variables à densité",
+ "tags": [
+  "ficher",
+  "matiere::maths",
+  "prepa-ecg",
+  "vitrine"
+ ],
+ "cartes": [
+  {
+   "modele": "trous",
+   "icone": "📘",
+   "ancre": "Variable aléatoire à densité",
+   "contexte": "Définition · variables à densité",
+   "texte": "{{c1::Une variable aléatoire \\(X\\) est dite à densité}}<br>{{c1::si sa fonction de répartition \\(F_X\\)}}<br>{{c1::est continue sur \\(\\mathbb{R}\\)}}<br>{{c1::et de classe \\(C^1\\) sur \\(\\mathbb{R}\\)}} {{c1::sauf éventuellement en un nombre fini de points.}}",
+   "extra": "⚠️ Piège : on demande <b>continue partout</b>, et <b>C¹ seulement sauf en un nombre fini de points</b>.",
+   "source_url": "https://www.mathieu-mansuy.fr/pdf/ECG2-Chapitre10a.pdf",
+   "source_titre": "Variables aléatoires à densité, ch. 10a — M. Mansuy, ECG2",
+   "tags": [
+    "type::trous",
+    "matiere::maths",
+    "chapitre::variables-a-densite",
+    "nature::def",
+    "par-coeur"
+   ]
+  },
+  {
+   "modele": "trous",
+   "icone": "📘",
+   "ancre": "Densité d'une variable à densité",
+   "contexte": "Définition · variables à densité",
+   "texte": "{{c1::On appelle densité de \\(X\\)}}<br>{{c1::toute fonction \\(f\\) positive sur \\(\\mathbb{R}\\)}}<br>{{c1::qui coïncide avec \\(F_X'\\)}} {{c1::sauf éventuellement en un nombre fini de points.}}",
+   "extra": "Une densité n'est pas unique : on peut la modifier en un nombre fini de points.",
+   "source_url": "https://www.mathieu-mansuy.fr/pdf/ECG2-Chapitre10a.pdf",
+   "source_titre": "Variables aléatoires à densité, ch. 10a — M. Mansuy, ECG2",
+   "tags": [
+    "type::trous",
+    "matiere::maths",
+    "chapitre::variables-a-densite",
+    "nature::def",
+    "par-coeur"
+   ]
+  },
+  {
+   "modele": "trous",
+   "icone": "📐",
+   "ancre": "Caractérisation d'une densité",
+   "contexte": "Propriété · variables à densité",
+   "texte": "{{c1::Une fonction \\(f\\) est une densité de probabilité}}<br>{{c1::si et seulement si :}}<br>{{c1::① \\(f\\) est positive sur \\(\\mathbb{R}\\) ;}}<br>{{c1::② \\(f\\) est continue sur \\(\\mathbb{R}\\)}} {{c1::sauf éventuellement en un nombre fini de points ;}}<br>{{c1::③ \\(\\displaystyle \\int_{-\\infty}^{+\\infty} f(t)\\,dt\\)}} {{c1::converge}} {{c1::et vaut 1.}}",
+   "extra": "Pour ③, on découpe là où f change d'expression et on revient à la définition d'une intégrale impropre (limite en A).",
+   "source_url": "https://www.mathieu-mansuy.fr/pdf/ECG2-Chapitre10a.pdf",
+   "source_titre": "Variables aléatoires à densité, ch. 10a — M. Mansuy, ECG2",
+   "tags": [
+    "type::trous",
+    "matiere::maths",
+    "chapitre::variables-a-densite",
+    "nature::prop",
+    "par-coeur"
+   ]
+  },
+  {
+   "modele": "trous",
+   "icone": "📐",
+   "ancre": "Fonction de répartition et densité",
+   "contexte": "Propriété · variables à densité",
+   "texte": "{{c1::\\(\\forall x \\in \\mathbb{R},\\)}} {{c1::\\(\\displaystyle F_X(x) = P(X \\leq x)\\)}} {{c1::\\(\\displaystyle = \\int_{-\\infty}^{x} f_X(t)\\,dt\\)}}<br><br>{{c1::Et \\(F_X\\) a autant de facettes}} {{c1::que \\(f_X\\), sur les mêmes intervalles.}}",
+   "extra": "C'est la seule méthode pour trouver F_X : on distingue les cas selon les intervalles où f_X change d'expression.",
+   "source_url": "https://www.mathieu-mansuy.fr/pdf/ECG2-Chapitre10a.pdf",
+   "source_titre": "Variables aléatoires à densité, ch. 10a — M. Mansuy, ECG2",
+   "tags": [
+    "type::trous",
+    "matiere::maths",
+    "chapitre::variables-a-densite",
+    "nature::prop",
+    "par-coeur"
+   ]
+  },
+  {
+   "modele": "trous",
+   "icone": "📐",
+   "ancre": "Probabilités d'intervalles (densité)",
+   "contexte": "Propriété · variables à densité",
+   "texte": "{{c1::Si \\(X\\) est à densité, alors \\(\\forall a \\in \\mathbb{R},\\)}} {{c1::\\(P(X = a) = 0.\\)}}<br><br>{{c1::Pour \\(a \\leq b\\) :}} {{c1::\\(P(a \\leq X \\leq b) = P(a \\lt  X \\lt  b)\\)}} {{c1::\\(= F_X(b) - F_X(a)\\)}} {{c1::\\(\\displaystyle = \\int_a^b f_X(t)\\,dt\\)}}",
+   "extra": "Les inégalités larges ou strictes donnent la même probabilité : c'est faux pour une variable discrète.",
+   "source_url": "https://www.mathieu-mansuy.fr/pdf/ECG2-Chapitre10a.pdf",
+   "source_titre": "Variables aléatoires à densité, ch. 10a — M. Mansuy, ECG2",
+   "tags": [
+    "type::trous",
+    "matiere::maths",
+    "chapitre::variables-a-densite",
+    "nature::prop",
+    "par-coeur"
+   ]
+  },
+  {
+   "modele": "trous",
+   "icone": "🧭",
+   "ancre": "Montrer qu'une fonction est une densité",
+   "contexte": "Méthode · variables à densité",
+   "texte": "{{c1::1) \\(f\\) est positive (ou nulle) sur \\(\\mathbb{R}\\)}}<br>{{c1::2) \\(f\\) est continue}} {{c1::sauf en un nombre fini de points}}<br>{{c1::3) \\(\\displaystyle \\int_{-\\infty}^{+\\infty} f(t)\\,dt\\)}} {{c1::converge et vaut 1}}",
+   "extra": "Rédaction : restriction par restriction (ex. nulle sur ]−∞, 0[, usuelle sur [0, +∞[), puis bilan.",
+   "source_url": "https://www.mathieu-mansuy.fr/pdf/ECG2-Chapitre10a.pdf",
+   "source_titre": "Variables aléatoires à densité, ch. 10a — M. Mansuy, ECG2",
+   "tags": [
+    "type::trous",
+    "matiere::maths",
+    "chapitre::variables-a-densite",
+    "nature::meth",
+    "par-coeur"
+   ]
+  },
+  {
+   "modele": "trous",
+   "icone": "🧭",
+   "ancre": "Montrer que F est la répartition d'une variable à densité",
+   "contexte": "Méthode · variables à densité",
+   "texte": "{{c1::1) \\(F\\) est continue sur \\(\\mathbb{R}\\)}}<br>{{c1::2) \\(F\\) est de classe \\(C^1\\) sur \\(\\mathbb{R}\\)}} {{c1::sauf en un nombre fini de points}}<br>{{c1::3) \\(F\\) est croissante sur \\(\\mathbb{R}\\)}}<br>{{c1::4) \\(\\displaystyle \\lim_{x \\to -\\infty} F(x) = 0\\)}} {{c1::et \\(\\displaystyle \\lim_{x \\to +\\infty} F(x) = 1\\)}}",
+   "extra": "Une densité s'obtient ensuite en dérivant F là où elle est C¹, en choisissant des valeurs arbitraires positives ailleurs.",
+   "source_url": "https://www.mathieu-mansuy.fr/pdf/ECG2-Chapitre10a.pdf",
+   "source_titre": "Variables aléatoires à densité, ch. 10a — M. Mansuy, ECG2",
+   "tags": [
+    "type::trous",
+    "matiere::maths",
+    "chapitre::variables-a-densite",
+    "nature::meth",
+    "par-coeur"
+   ]
+  },
+  {
+   "modele": "trous",
+   "icone": "✍️",
+   "ancre": "Montrer que Y est à densité (par la répartition)",
+   "contexte": "Rédaction · variables à densité",
+   "texte": "{{c1::1) Calculer \\(F_Y(x) = P(Y \\leq x)\\) pour tout réel \\(x\\)}}<br>{{c1::2) Montrer que \\(F_Y\\) est continue sur \\(\\mathbb{R}\\)}}<br>{{c1::3) Montrer que \\(F_Y\\) est \\(C^1\\) sur \\(\\mathbb{R}\\)}} {{c1::sauf en un nombre fini de points (par exemple en 0)}}<br>{{c1::4) Conclure :}} {{c1::\\(Y\\) est à densité, et \\(f_Y = F_Y'\\) là où \\(F_Y\\) est dérivable}}",
+   "extra": "Aux points où F_Y n'est pas dérivable, on donne à f_Y une valeur positive quelconque (souvent 0).",
+   "source_url": "https://www.mathieu-mansuy.fr/pdf/ECG2-Chapitre10a.pdf",
+   "source_titre": "Variables aléatoires à densité, ch. 10a — M. Mansuy, ECG2",
+   "tags": [
+    "type::trous",
+    "matiere::maths",
+    "chapitre::variables-a-densite",
+    "nature::red",
+    "par-coeur"
+   ]
+  },
+  {
+   "modele": "trous",
+   "icone": "📘",
+   "ancre": "Espérance d'une variable à densité",
+   "contexte": "Définition · variables à densité",
+   "texte": "{{c1::\\(X\\) admet une espérance}}<br>{{c1::si et seulement si}}<br>{{c1::\\(\\displaystyle \\int_{-\\infty}^{+\\infty} t\\,f_X(t)\\,dt\\)}} {{c1::converge absolument.}}<br><br>{{c1::Dans ce cas :}} {{c1::\\(\\displaystyle E(X) = \\int_{-\\infty}^{+\\infty} t\\,f_X(t)\\,dt\\)}}",
+   "extra": "⚠️ Convergence <b>absolue</b>. Ton ancien manuel écrivait « moment d'ordre 2 » et « convergente » dans la méthode 17.3 : ce sont deux coquilles.",
+   "source_url": "https://www.mathieu-mansuy.fr/pdf/ECG2-Chapitre10a.pdf",
+   "source_titre": "Variables aléatoires à densité, ch. 10a — M. Mansuy, ECG2",
+   "tags": [
+    "type::trous",
+    "matiere::maths",
+    "chapitre::variables-a-densite",
+    "nature::def",
+    "par-coeur"
+   ]
+  },
+  {
+   "modele": "trous",
+   "icone": "✍️",
+   "ancre": "Convergence absolue ramenée à la simple",
+   "contexte": "Rédaction · variables à densité",
+   "texte": "{{c1::Pour tout réel \\(x\\),}} {{c1::\\(x\\,f_Y(x) \\geq 0\\) (intégrande positive).}}<br>{{c1::Ainsi, la convergence absolue}} {{c1::revient à montrer la convergence simple.}}",
+   "extra": "Fonctionne dès que l'intégrande garde un signe constant : on le justifie AVANT d'étudier la convergence.",
+   "source_url": "https://www.mathieu-mansuy.fr/pdf/ECG2-Chapitre10a.pdf",
+   "source_titre": "Variables aléatoires à densité, ch. 10a — M. Mansuy, ECG2",
+   "tags": [
+    "type::trous",
+    "matiere::maths",
+    "chapitre::variables-a-densite",
+    "nature::red",
+    "par-coeur"
+   ]
+  },
+  {
+   "modele": "trous",
+   "icone": "📐",
+   "ancre": "Moment d'ordre 2 et variance",
+   "contexte": "Propriété · variables à densité",
+   "texte": "{{c1::\\(X\\) admet un moment d'ordre 2}}<br>{{c1::si et seulement si}} {{c1::\\(\\displaystyle \\int_{-\\infty}^{+\\infty} t^2 f_X(t)\\,dt\\)}} {{c1::converge}}<br>{{c1::et alors}} {{c1::\\(\\displaystyle E(X^2) = \\int_{-\\infty}^{+\\infty} t^2 f_X(t)\\,dt.\\)}}<br><br>{{c1::Dans ce cas \\(X\\) admet une variance,}} {{c1::donnée par la formule de König-Huygens :}} {{c1::\\(V(X) = E(X^2) - E(X)^2\\)}}",
+   "extra": "Ici convergence = convergence absolue, car t² f_X(t) ≥ 0. Il faut avoir calculé E(X) avant.",
+   "source_url": "https://www.mathieu-mansuy.fr/pdf/ECG2-Chapitre10a.pdf",
+   "source_titre": "Variables aléatoires à densité, ch. 10a — M. Mansuy, ECG2",
+   "tags": [
+    "type::trous",
+    "matiere::maths",
+    "chapitre::variables-a-densite",
+    "nature::prop",
+    "par-coeur"
+   ]
+  },
+  {
+   "modele": "trous",
+   "icone": "📐",
+   "ancre": "Théorème de transfert (variables à densité)",
+   "contexte": "Théorème · variables à densité",
+   "texte": "{{c1::Soit \\(X\\) une variable aléatoire à densité,}} {{c1::de densité \\(f\\) nulle en dehors de \\(]a,b[\\),}}<br>{{c1::et \\(\\varphi\\) une fonction continue sur \\(]a,b[\\)}} {{c1::sauf éventuellement en un nombre fini de points.}}<br><br>{{c1::Alors \\(\\varphi(X)\\) admet une espérance}}<br>{{c1::si et seulement si}}<br>{{c1::\\(\\displaystyle \\int_a^b \\varphi(t)\\,f(t)\\,dt\\)}} {{c1::converge absolument.}}<br><br>{{c1::Dans ce cas :}} {{c1::\\(\\displaystyle E(\\varphi(X)) = \\int_a^b \\varphi(t)\\,f(t)\\,dt\\)}}",
+   "extra": "On obtient E(φ(X)) sans chercher la loi de φ(X). On intègre φ(t) f(t), jamais φ(f(t)).",
+   "source_url": "https://www.mathieu-mansuy.fr/pdf/ECG2-Chapitre10a.pdf",
+   "source_titre": "Variables aléatoires à densité, ch. 10a — M. Mansuy, ECG2",
+   "tags": [
+    "type::trous",
+    "matiere::maths",
+    "chapitre::variables-a-densite",
+    "nature::thm",
+    "par-coeur"
+   ]
+  },
+  {
+   "modele": "trous",
+   "icone": "📐",
+   "ancre": "Espérance et variance d'une transformée affine",
+   "contexte": "Propriété · variables à densité",
+   "texte": "{{c1::Si \\(X\\) admet une espérance et \\((a,b) \\in \\mathbb{R}^2\\),}}<br>{{c1::alors \\(aX + b\\) admet une espérance}} {{c1::et \\(E(aX + b) = aE(X) + b.\\)}}<br><br>{{c1::Si \\(X\\) admet une variance,}} {{c1::alors \\(V(aX + b) = a^2\\,V(X).\\)}}",
+   "extra": "Le b disparaît dans la variance, et a passe au carré.",
+   "source_url": "https://www.mathieu-mansuy.fr/pdf/ECG2-Chapitre10a.pdf",
+   "source_titre": "Variables aléatoires à densité, ch. 10a — M. Mansuy, ECG2",
+   "tags": [
+    "type::trous",
+    "matiere::maths",
+    "chapitre::variables-a-densite",
+    "nature::prop",
+    "par-coeur"
+   ]
+  },
+  {
+   "modele": "trous",
+   "icone": "🧭",
+   "ancre": "Calculer E(X) pour une loi exponentielle",
+   "contexte": "Méthode · variables à densité",
+   "texte": "{{c1::1) \\(f_X\\) est nulle sur \\(]-\\infty, 0[\\) :}} {{c1::\\(\\displaystyle \\int_{-\\infty}^{0} t\\,f_X(t)\\,dt\\) converge et vaut 0}}<br>{{c1::2) Pour \\(A \\geq 0\\), intégration par parties :}} {{c1::\\(u(t) = t,\\ v'(t) = e^{-t}\\)}}<br>{{c1::3) \\(\\displaystyle \\int_0^A t\\,e^{-t}\\,dt = -A e^{-A} - e^{-A} + 1\\)}}<br>{{c1::4) Croissances comparées :}} {{c1::\\(A e^{-A} \\to 0\\) et \\(e^{-A} \\to 0\\)}} {{c1::donc \\(E(X) = 1\\)}}",
+   "extra": "Exemple du cours avec f_X(t) = e^{−t} sur [0, +∞[, soit la loi ℰ(1). Justifier que u et v sont C¹ sur [0, A].",
+   "source_url": "https://www.mathieu-mansuy.fr/pdf/ECG2-Chapitre10a.pdf",
+   "source_titre": "Variables aléatoires à densité, ch. 10a — M. Mansuy, ECG2",
+   "tags": [
+    "type::trous",
+    "matiere::maths",
+    "chapitre::variables-a-densite",
+    "nature::meth",
+    "par-coeur"
+   ]
+  },
+  {
+   "modele": "trous",
+   "icone": "📋",
+   "ancre": "Loi uniforme U([a, b])",
+   "contexte": "Loi usuelle · variables à densité",
+   "texte": "{{c1::\\((a,b) \\in \\mathbb{R}^2\\) avec \\(a \\lt  b\\)}} {{c1::et \\(X(\\Omega) = [a,b]\\)}}<br><br>{{c1::Densité :}} {{c1::\\(\\displaystyle f(x) = \\frac{1}{b-a}\\) si \\(x \\in [a,b]\\),}} {{c1::et 0 sinon}}<br><br>{{c1::Répartition :}} {{c1::\\(F(x) = 0\\) si \\(x \\lt  a\\) ;}}<br>{{c1::\\(\\displaystyle F(x) = \\frac{x-a}{b-a}\\) si \\(x \\in [a,b]\\) ;}}<br>{{c1::\\(F(x) = 1\\) si \\(x \\gt  b\\)}}<br><br>{{c1::\\(\\displaystyle E(X) = \\frac{a+b}{2}\\) ;}} {{c1::\\(\\displaystyle V(X) = \\frac{(b-a)^2}{12}\\)}}",
+   "extra": "Moyen mnémotechnique : l'espérance est le milieu de [a, b].",
+   "source_url": "https://www.mathieu-mansuy.fr/pdf/ECG2-Chapitre10a.pdf",
+   "source_titre": "Variables aléatoires à densité, ch. 10a — M. Mansuy, ECG2",
+   "tags": [
+    "type::trous",
+    "matiere::maths",
+    "chapitre::variables-a-densite",
+    "nature::loi",
+    "par-coeur"
+   ]
+  },
+  {
+   "modele": "trous",
+   "icone": "📋",
+   "ancre": "Loi exponentielle ℰ(λ)",
+   "contexte": "Loi usuelle · variables à densité",
+   "texte": "{{c1::\\(\\lambda \\in \\mathbb{R}_+^*\\)}} {{c1::et \\(X(\\Omega) = [0, +\\infty[\\)}}<br><br>{{c1::Densité :}} {{c1::\\(f(x) = 0\\) si \\(x \\lt  0\\) ;}} {{c1::\\(f(x) = \\lambda e^{-\\lambda x}\\) si \\(x \\geq 0\\)}}<br><br>{{c1::Répartition :}} {{c1::\\(F(x) = 0\\) si \\(x \\lt  0\\) ;}} {{c1::\\(F(x) = 1 - e^{-\\lambda x}\\) si \\(x \\geq 0\\)}}<br><br>{{c1::\\(\\displaystyle E(X) = \\frac{1}{\\lambda}\\) ;}} {{c1::\\(\\displaystyle V(X) = \\frac{1}{\\lambda^2}\\)}}",
+   "extra": "⚠️ Piège : E(X) = 1/λ, pas λ.",
+   "source_url": "https://www.mathieu-mansuy.fr/pdf/ECG2-Chapitre10a.pdf",
+   "source_titre": "Variables aléatoires à densité, ch. 10a — M. Mansuy, ECG2",
+   "tags": [
+    "type::trous",
+    "matiere::maths",
+    "chapitre::variables-a-densite",
+    "nature::loi",
+    "par-coeur"
+   ]
+  },
+  {
+   "modele": "trous",
+   "icone": "📐",
+   "ancre": "Loi exponentielle sans mémoire",
+   "contexte": "Propriété · variables à densité",
+   "texte": "{{c1::\\(X\\) est sans mémoire}} {{c1::si \\(X(\\Omega) = \\mathbb{R}_+\\) et}}<br>{{c1::\\(\\forall (x,t) \\in (\\mathbb{R}_+)^2,\\)}} {{c1::\\(P_{(X \\gt  x)}(X \\gt  x + t) = P(X \\gt  t)\\)}}<br>{{c1::c'est-à-dire}} {{c1::\\(P(X \\gt  x + t) = P(X \\gt  x)\\,P(X \\gt  t)\\)}}<br><br>{{c1::Toute variable \\(X \\hookrightarrow \\mathcal{E}(\\lambda)\\)}} {{c1::est sans mémoire.}}",
+   "extra": "Preuve express : P(X > x) = e^{−λx}, et e^{−λ(x+t)} = e^{−λx} e^{−λt}.",
+   "source_url": "https://www.mathieu-mansuy.fr/pdf/ECG2-Chapitre10a.pdf",
+   "source_titre": "Variables aléatoires à densité, ch. 10a — M. Mansuy, ECG2",
+   "tags": [
+    "type::trous",
+    "matiere::maths",
+    "chapitre::variables-a-densite",
+    "nature::prop",
+    "par-coeur"
+   ]
+  },
+  {
+   "modele": "trous",
+   "icone": "📋",
+   "ancre": "Loi normale centrée réduite N(0, 1)",
+   "contexte": "Loi usuelle · variables à densité",
+   "texte": "{{c1::\\(X(\\Omega) = \\mathbb{R}\\)}}<br><br>{{c1::Densité :}} {{c1::\\(\\displaystyle \\varphi(x) = \\frac{1}{\\sqrt{2\\pi} }\\,e^{-\\frac{x^2}{2} }\\)}}<br>{{c1::Répartition :}} {{c1::\\(\\displaystyle \\Phi(x) = \\frac{1}{\\sqrt{2\\pi} } \\int_{-\\infty}^{x} e^{-\\frac{t^2}{2} }\\,dt\\)}}<br><br>{{c1::\\(E(X) = 0\\) ;}} {{c1::\\(V(X) = 1\\)}}",
+   "extra": "Φ n'a pas d'expression avec les fonctions usuelles : on lit ses valeurs dans une table.",
+   "source_url": "https://www.mathieu-mansuy.fr/pdf/ECG2-Chapitre10a.pdf",
+   "source_titre": "Variables aléatoires à densité, ch. 10a — M. Mansuy, ECG2",
+   "tags": [
+    "type::trous",
+    "matiere::maths",
+    "chapitre::variables-a-densite",
+    "nature::loi",
+    "par-coeur"
+   ]
+  },
+  {
+   "modele": "trous",
+   "icone": "📋",
+   "ancre": "Loi normale N(m, σ²)",
+   "contexte": "Loi usuelle · variables à densité",
+   "texte": "{{c1::\\(m \\in \\mathbb{R}\\) et \\(\\sigma \\in \\mathbb{R}_+^*\\)}} {{c1::et \\(X(\\Omega) = \\mathbb{R}\\)}}<br><br>{{c1::Densité :}} {{c1::\\(\\displaystyle \\varphi_{m,\\sigma^2}(x) = \\frac{1}{\\sigma\\sqrt{2\\pi} } \\exp\\left(-\\frac{1}{2}\\left(\\frac{x-m}{\\sigma}\\right)^2\\right)\\)}}<br><br>{{c1::\\(E(X) = m\\) ;}} {{c1::\\(V(X) = \\sigma^2\\)}}",
+   "extra": "⚠️ Le second paramètre est la variance σ², pas l'écart-type σ.",
+   "source_url": "https://www.mathieu-mansuy.fr/pdf/ECG2-Chapitre10a.pdf",
+   "source_titre": "Variables aléatoires à densité, ch. 10a — M. Mansuy, ECG2",
+   "tags": [
+    "type::trous",
+    "matiere::maths",
+    "chapitre::variables-a-densite",
+    "nature::loi",
+    "par-coeur"
+   ]
+  },
+  {
+   "modele": "trous",
+   "icone": "📐",
+   "ancre": "Propriétés de Φ",
+   "contexte": "Propriété · variables à densité",
+   "texte": "{{c1::(i) \\(\\forall x \\in \\mathbb{R},\\)}} {{c1::\\(P(X \\geq x) = P(X \\leq -x)\\) ;}} {{c1::\\(\\Phi(-x) = 1 - \\Phi(x)\\)}}<br>{{c1::(ii) \\(\\forall x \\in \\mathbb{R}_+,\\)}} {{c1::\\(P(-x \\leq X \\leq x) = 2\\Phi(x) - 1\\)}}<br>{{c1::(iii) \\(P(X \\leq 0) = P(X \\geq 0)\\)}} {{c1::\\(= \\Phi(0) = \\frac{1}{2}\\)}}",
+   "extra": "Ici X ↪ N(0, 1). Tout vient de la parité de φ (courbe en cloche symétrique).",
+   "source_url": "https://www.mathieu-mansuy.fr/pdf/ECG2-Chapitre10a.pdf",
+   "source_titre": "Variables aléatoires à densité, ch. 10a — M. Mansuy, ECG2",
+   "tags": [
+    "type::trous",
+    "matiere::maths",
+    "chapitre::variables-a-densite",
+    "nature::prop",
+    "par-coeur"
+   ]
+  },
+  {
+   "modele": "trous",
+   "icone": "🧭",
+   "ancre": "Calculer P(X ≤ x) pour une loi normale",
+   "contexte": "Méthode · variables à densité",
+   "texte": "{{c1::Soit \\(X \\hookrightarrow \\mathcal{N}(m, \\sigma^2)\\).}} {{c1::Alors \\(\\displaystyle X^* = \\frac{X - m}{\\sigma} \\hookrightarrow \\mathcal{N}(0,1)\\)}}<br>{{c1::Pour tout réel \\(x\\) :}} {{c1::\\(\\displaystyle P(X \\leq x) = P\\left(\\frac{X-m}{\\sigma} \\leq \\frac{x-m}{\\sigma}\\right)\\)}}<br>{{c1::\\(\\displaystyle = P\\left(X^* \\leq \\frac{x-m}{\\sigma}\\right)\\)}} {{c1::\\(\\displaystyle = \\Phi\\left(\\frac{x-m}{\\sigma}\\right)\\)}}",
+   "extra": "On divise par σ > 0 : le sens de l'inégalité ne change pas.",
+   "source_url": "https://www.mathieu-mansuy.fr/pdf/ECG2-Chapitre10a.pdf",
+   "source_titre": "Variables aléatoires à densité, ch. 10a — M. Mansuy, ECG2",
+   "tags": [
+    "type::trous",
+    "matiere::maths",
+    "chapitre::variables-a-densite",
+    "nature::meth",
+    "par-coeur"
+   ]
+  },
+  {
+   "modele": "trous",
+   "icone": "📐",
+   "ancre": "Transformée affine d'une variable normale",
+   "contexte": "Théorème · variables à densité",
+   "texte": "{{c1::Soient \\(m \\in \\mathbb{R}\\) et \\(\\sigma \\gt  0\\).}} {{c1::Soit \\((a,b) \\in \\mathbb{R}^2\\) tel que \\(a \\neq 0\\).}}<br><br>{{c1::\\(X \\hookrightarrow \\mathcal{N}(m, \\sigma^2)\\)}} {{c1::\\(\\iff\\)}} {{c1::\\(aX + b \\hookrightarrow \\mathcal{N}(am + b,\\ a^2\\sigma^2)\\)}}",
+   "extra": "⚠️ a² dans la variance (et non a), et a ≠ 0 obligatoire.",
+   "source_url": "https://www.mathieu-mansuy.fr/pdf/ECG2-Chapitre10a.pdf",
+   "source_titre": "Variables aléatoires à densité, ch. 10a — M. Mansuy, ECG2",
+   "tags": [
+    "type::trous",
+    "matiere::maths",
+    "chapitre::variables-a-densite",
+    "nature::thm",
+    "par-coeur"
+   ]
+  },
+  {
+   "modele": "trous",
+   "icone": "📐",
+   "ancre": "Centrer et réduire une variable normale",
+   "contexte": "Théorème · variables à densité",
+   "texte": "{{c1::\\(X \\hookrightarrow \\mathcal{N}(m, \\sigma^2)\\)}} {{c1::\\(\\iff\\)}} {{c1::\\(\\displaystyle \\frac{X - m}{\\sigma} \\hookrightarrow \\mathcal{N}(0, 1)\\)}}",
+   "extra": "Cas particulier du théorème précédent avec a = 1/σ et b = −m/σ.",
+   "source_url": "https://www.mathieu-mansuy.fr/pdf/ECG2-Chapitre10a.pdf",
+   "source_titre": "Variables aléatoires à densité, ch. 10a — M. Mansuy, ECG2",
+   "tags": [
+    "type::trous",
+    "matiere::maths",
+    "chapitre::variables-a-densite",
+    "nature::thm",
+    "par-coeur"
+   ]
+  },
+  {
+   "modele": "trous",
+   "icone": "📐",
+   "ancre": "Somme de deux variables normales",
+   "contexte": "Propriété · variables à densité",
+   "texte": "{{c1::Si \\(X_1\\) et \\(X_2\\) sont deux variables aléatoires}} {{c1::indépendantes,}}<br>{{c1::de lois respectives \\(\\mathcal{N}(m_1, \\sigma_1^2)\\) et \\(\\mathcal{N}(m_2, \\sigma_2^2)\\),}}<br>{{c1::alors \\(X_1 + X_2\\)}} {{c1::suit la loi \\(\\mathcal{N}(m_1 + m_2,\\ \\sigma_1^2 + \\sigma_2^2)\\)}}",
+   "extra": "⚠️ On additionne les variances, jamais les écarts-types. Sans indépendance, rien ne garantit une loi normale.",
+   "source_url": "https://www.mathieu-mansuy.fr/pdf/ECG2-Chapitre10a.pdf",
+   "source_titre": "Variables aléatoires à densité, ch. 10a — M. Mansuy, ECG2",
+   "tags": [
+    "type::trous",
+    "matiere::maths",
+    "chapitre::variables-a-densite",
+    "nature::prop",
+    "par-coeur"
+   ]
+  },
+  {
+   "modele": "trous",
+   "icone": "📐",
+   "ancre": "Somme de n variables normales",
+   "contexte": "Propriété · variables à densité",
+   "texte": "{{c1::Si \\(X_1, \\dots, X_n\\) sont}} {{c1::mutuellement indépendantes}}<br>{{c1::et si pour tout \\(i \\in [\\![1,n]\\!]\\),}} {{c1::\\(X_i \\hookrightarrow \\mathcal{N}(m_i, \\sigma_i^2)\\),}}<br>{{c1::alors \\(\\displaystyle \\sum_{i=1}^{n} X_i\\)}} {{c1::suit la loi \\(\\displaystyle \\mathcal{N}\\left(\\sum_{i=1}^{n} m_i,\\ \\sum_{i=1}^{n} \\sigma_i^2\\right)\\)}}",
+   "extra": "Généralisation de la propriété précédente, par récurrence.",
+   "source_url": "https://www.mathieu-mansuy.fr/pdf/ECG2-Chapitre10a.pdf",
+   "source_titre": "Variables aléatoires à densité, ch. 10a — M. Mansuy, ECG2",
+   "tags": [
+    "type::trous",
+    "matiere::maths",
+    "chapitre::variables-a-densite",
+    "nature::prop",
+    "par-coeur"
+   ]
+  },
+  {
+   "modele": "trous",
+   "icone": "🧭",
+   "ancre": "Loi de la partie entière ⌊X⌋",
+   "contexte": "Méthode · variables à densité",
+   "texte": "{{c1::1) \\(\\lfloor X \\rfloor\\) est une variable discrète :}} {{c1::on cherche ses probabilités ponctuelles, pas sa répartition}}<br>{{c1::2) Déterminer le support de \\(\\lfloor X \\rfloor\\),}} {{c1::partie de \\(\\mathbb{Z}\\) ou de \\(\\mathbb{N}\\)}}<br>{{c1::3) \\(\\forall k \\in \\lfloor X \\rfloor(\\Omega),\\)}} {{c1::\\((\\lfloor X \\rfloor = k) = (k \\leq X \\lt  k + 1)\\)}}<br>{{c1::4) Donc \\(P(\\lfloor X \\rfloor = k)\\)}} {{c1::\\(= F_X(k+1) - F_X(k)\\)}}",
+   "extra": "L'égalité en 4) utilise que X est à densité : P(k ≤ X < k+1) = P(k < X ≤ k+1).",
+   "source_url": "https://www.mathieu-mansuy.fr/pdf/ECG2-Chapitre10a.pdf",
+   "source_titre": "Variables aléatoires à densité, ch. 10a — M. Mansuy, ECG2",
+   "tags": [
+    "type::trous",
+    "matiere::maths",
+    "chapitre::variables-a-densite",
+    "nature::meth",
+    "par-coeur"
+   ]
+  },
+  {
+   "modele": "trous",
+   "icone": "🧭",
+   "ancre": "Loi de la valeur absolue |X|",
+   "contexte": "Méthode · variables à densité",
+   "texte": "{{c1::1) Déterminer le support de \\(|X|\\),}} {{c1::toujours inclus dans \\(\\mathbb{R}_+\\)}}<br>{{c1::2) Utiliser \\(\\forall x \\in \\mathbb{R}_+,\\)}} {{c1::\\((|X| \\leq x) = (-x \\leq X \\leq x)\\)}}<br>{{c1::3) Donc pour \\(x \\geq 0\\) :}} {{c1::\\(F_{|X|}(x) = F_X(x) - F_X(-x)\\)}}<br>{{c1::4) Distinguer les cas selon que \\(x\\) et \\(-x\\)}} {{c1::sont dans le support de \\(X\\)}}",
+   "extra": "Ex. : si X(Ω) = [−2, 1], alors |X|(Ω) = [0, 2]. Pour x < 0, F_{|X|}(x) = 0.",
+   "source_url": "https://www.mathieu-mansuy.fr/pdf/ECG2-Chapitre10a.pdf",
+   "source_titre": "Variables aléatoires à densité, ch. 10a — M. Mansuy, ECG2",
+   "tags": [
+    "type::trous",
+    "matiere::maths",
+    "chapitre::variables-a-densite",
+    "nature::meth",
+    "par-coeur"
+   ]
+  },
+  {
+   "modele": "trous",
+   "icone": "✍️",
+   "ancre": "Changement de variable non affine",
+   "contexte": "Rédaction · variables à densité",
+   "texte": "{{c1::Pour \\(Y = g(X)\\) avec \\(g\\) non affine :}} {{c1::on part de \\(F_Y(x) = P(g(X) \\leq x)\\)}}<br>{{c1::on justifie que \\(g\\) est une bijection}} {{c1::strictement monotone (et continue)}}<br>{{c1::puis on compose par \\(g^{-1}\\) :}} {{c1::si \\(g\\) croît, \\((g(X) \\leq x) = (X \\leq g^{-1}(x))\\)}}<br>{{c1::d'où \\(F_Y(x) = F_X(g^{-1}(x))\\),}} {{c1::puis \\(f_Y\\) en dérivant (dérivée d'une composée)}}",
+   "extra": "Si g décroît, l'inégalité change de sens : F_Y(x) = 1 − F_X(g⁻¹(x)).",
+   "source_url": "https://www.mathieu-mansuy.fr/pdf/ECG2-Chapitre10a.pdf",
+   "source_titre": "Variables aléatoires à densité, ch. 10a — M. Mansuy, ECG2",
+   "tags": [
+    "type::trous",
+    "matiere::maths",
+    "chapitre::variables-a-densite",
+    "nature::red",
+    "par-coeur"
+   ]
+  }
+ ]
+}
